@@ -1,0 +1,37 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows Storage Server 2008
+  description: Windows Storage Server 2008 следует за фиксированной политикой жизненного цикла.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 5fcd64fc253504e9ffb8db1c34a0597cc550b12b
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: ru-RU
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "835213"
+name: Windows Storage Server 2008
+summary: >
+  Windows Storage Server 2008 следует за [фиксированной](/lifecycle/policies/fixed) политикой жизненного цикла.
+
+
+  Это относится к следующим выпускам: Basic, Basic 32, Basic 32 64, Basic, Basic, Basic, Basic, Basic Embedded, Basic, Basic, Basic, Basic, Standard, Standard, Standard, Workgroup
+
+
+  > [!IMPORTANT]
+
+  > Этот продукт достиг конца поддержки. Ниже приведено руководство по миграции.
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 07/19/2009
+  end: 01/13/2015
+  extendedEnd: 01/14/2020
+releases:
+- version: Original Release
+  startDate: 07/19/2009
+  endDate: 07/12/2011
+- version: Service Pack 2
+  startDate: 07/19/2009
+  endDate: 01/14/2020
+content: "\n## <a name=\"links\"></a>Ссылки \n* [Руководство по миграции](/archive/blogs/storageserver/announcing-windows-storage-server-2016)\n* [Сведения об обновлении сервера](/windows-server/upgrade/upgrade-overview)\n\n\n## <a name=\"editions\"></a>2003 \n* Базовая\n* Базовый 32 — бит\n* Базовый 64 — бит\n* Базовый встроенный\n* Базовый встроенный 32 — бит\n* Корпоративная версия\n* Корпоративный встроенный\n* Standard\n* Стандартные внедренные\n* Рабочую"

@@ -1,0 +1,33 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft Visual Studio 2005
+  description: Microsoft Visual Studio 2005 следует за фиксированной политикой жизненного цикла.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 576095a27901552e7a275b0a349ed5e1edee8099
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: ru-RU
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "835261"
+name: Microsoft Visual Studio 2005
+summary: >+
+  Microsoft Visual Studio 2005 следует за [фиксированной](/lifecycle/policies/fixed) политикой жизненного цикла.
+
+
+  Это применимо к следующим выпускам: Professional, Standard, Standard Edition академический, Team Edition для специалистов по базам данных, Team Edition для архитекторов программного обеспечения, Team Edition для инженеров-испытателей программного обеспечения, Team Edition для инженеров-испытателей программного обеспечения, Team Suite, агент группы тестирования группы, инструменты для системы Microsoft Office, VB Express, Visual C# Express
+
+products:
+- vs
+policyType: fixed
+supportDates:
+  start: 01/27/2006
+  end: 04/12/2011
+  extendedEnd: 04/12/2016
+releases:
+- version: Service Pack 1
+  startDate: 12/14/2006
+  endDate: 04/12/2016
+- version: Original Release
+  startDate: 01/27/2006
+  endDate: 01/08/2008
+content: "\n## <a name=\"links\"></a>Ссылки \n* [Сведения о поддержке Visual J#](https://msdn.microsoft.com/vstudio/bb188593)\n* [Руководство по миграции](/visualstudio/porting/port-migrate-and-upgrade-visual-studio-projects?view=vs-2019)\n* [Сведения о продукте Visual Studio](https://www.VisualStudio.com)\n\n> [!NOTE]\n> Поддержка этого продукта завершена. Ниже приведено руководство по миграции.\n> [!NOTE]\n> Microsoft Visual Studio 2005 Team Edition для специалистов по базам данных, выпущенных 2 марта 2007 г.\n\n## <a name=\"editions\"></a>2003 \n* Профессиональные\n* Standard\n* Лицензия на выпуск Standard Edition\n* Team Edition для специалистов по базам данных\n* Team Edition для архитекторов программного обеспечения\n* Team Edition для разработчиков программного обеспечения\n* Team Edition для инженеров-испытателей программного обеспечения\n* Team Suite\n* Агент загрузки Team Test\n* Средства для системы Microsoft Office\n* VB Express\n* Экспресс – выпуск Visual C#\n* Visual C++ Express\n* Visual J# Express\n* Экспресс-выпуск Visual Web Developer"

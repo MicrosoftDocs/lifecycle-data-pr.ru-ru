@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft Office 2008 для Mac
+  description: Microsoft Office 2008 для Mac соответствует фиксированной политике жизненного цикла.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: abf5213b99b3f5ca6d64daa69ef50c3462fc9d35
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: ru-RU
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "835534"
+name: Microsoft Office 2008 для Mac
+summary: "Microsoft Office 2008 для Mac соответствует [фиксированной](/lifecycle/policies/fixed) политике жизненного цикла.\n\nЭто относится к следующим выпускам: бизнес, домашняя и учащаяся, Специальный Едитон мультимедиа\n\n> [!IMPORTANT]\n> Поддержка этого продукта завершена. \n"
+products:
+- office
+policyType: fixed-mainstream-only
+supportDates:
+  start: 01/15/2008
+  end: 04/09/2013
+releases:
+- version: Service Pack 2
+  startDate: 07/20/2009
+  endDate: 04/09/2013
+- version: Service Pack 1
+  startDate: 05/13/2008
+  endDate: 10/12/2010
+- version: Original Release
+  startDate: 01/15/2008
+  endDate: 10/19/2009
+content: "\n## <a name=\"links\"></a>Ссылки \n* [Политика пакетов обновления](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Дата начала для специального носителя Office 2008 для Mac составляет 12 марта 2008 г.\n\n## <a name=\"editions\"></a>2003 \n* Бизнес\n* Для дома и учебы \n* Специальный Едитон мультимедиа"

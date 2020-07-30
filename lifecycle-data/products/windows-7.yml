@@ -1,0 +1,37 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows 7
+  description: Windows 7 соответствует фиксированной политике жизненного цикла.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: a1b1b370fe7d15abae83da62603b4522ea79a307
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: ru-RU
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "835235"
+name: Windows 7
+summary: "Windows 7 соответствует [фиксированной](/lifecycle/policies/fixed) политике жизненного цикла.\n\nЭто относится к следующим выпускам: Enterprise, Enterprise N, Home Basic, Home Premium, Домашняя расширенная N, профессиональная, профессиональная для встраиваемых систем, профессиональная N, Starter, Starter N, Ultimate, Ultimate для встраиваемых систем, Ultimate N\n\n> [!IMPORTANT]\n> Поддержка этого продукта завершена. Ниже приведены рекомендации по миграции. \n"
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 10/22/2009
+  end: 01/13/2015
+  extendedEnd: 01/14/2020
+releases:
+- version: Extended Security Update Year 3*
+  startDate: 01/11/2022
+  endDate: 01/10/2023
+- version: Extended Security Update Year 2*
+  startDate: 01/12/2021
+  endDate: 01/11/2022
+- version: Extended Security Update Year 1*
+  startDate: 01/14/2020
+  endDate: 01/12/2021
+- version: Service Pack 1
+  startDate: 02/22/2011
+  endDate: 01/14/2020
+- version: Original Release
+  startDate: 10/22/2009
+  endDate: 04/09/2013
+content: "> [!TIP]\n> \"* Расширенные обновления для системы безопасности (ЕСУ) доступны с помощью определенных программ корпоративного лицензирования для выпусков Windows 7 Профессиональная, Enterprise и Professional для встраиваемых систем, на которые можно добавить до более трех лет после конца поддержки. Чтобы узнать больше, обратитесь в службу партнера или партнерской компании Майкрософт. \n\n## <a name=\"links\"></a>Ссылки \n* [Руководство по миграции](https://support.microsoft.com/help/4057281)\n* [Переход с Windows 7 на Windows 10 ](/microsoft-365/enterprise/desktop-deployment-center-home?view=o365-worldwide)\n* [Расширенная программа обновления для системы безопасности (ЕСУ)](/lifecycle/faq/extended-security-updates)\n* [Политика пакетов обновления](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>2003 \n* Корпоративная версия\n* Корпоративный N\n* Домашняя базовая\n* Домашняя расширенная\n* Домашняя расширенная N\n* Профессиональные\n* Профессиональный для встроенных систем\n* Профессиональный N\n* Начальный\n* Starter N\n* Ultimate\n* Максимальная для встроенных систем\n* Ultimate N"
