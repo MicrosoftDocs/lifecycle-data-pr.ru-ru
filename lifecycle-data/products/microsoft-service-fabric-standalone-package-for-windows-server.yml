@@ -1,0 +1,25 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Автономный пакет Service Fabric для Windows Server
+  description: Автономный пакет служебной структуры для Windows Server соответствует современным политикам жизненного цикла.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: d1876355f78b6c35bded38d9b1cbd039d4f0cd91
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: ru-RU
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "861615"
+name: Автономный пакет Service Fabric для Windows Server
+summary: >+
+  Автономный пакет служебной структуры для Windows Server соответствует [современным](/lifecycle/policies/modern) политикам жизненного цикла.
+
+
+products:
+- windows
+policyType: modern-online
+supportDates:
+  start: 09/26/2016
+releases:
+- version: Original Release
+  startDate: 09/26/2016
+content: "\n## <a name=\"links\"></a>Ссылки \n* [Сведения об обслуживании](/azure/service-fabric/service-fabric-support)"

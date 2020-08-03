@@ -1,0 +1,33 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows 8
+  description: Windows 8 соответствует фиксированной политике жизненного цикла.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 1204c4097b59cb5449cb8145f06b6d755b3a4d27
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: ru-RU
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "861550"
+name: Windows 8
+summary: >
+  Windows 8 соответствует [фиксированной](/lifecycle/policies/fixed) политике жизненного цикла.
+
+
+  Это относится к следующим выпускам: Enterprise, Enterprise N, N, Pro с Media Center, Professional, Professional N
+
+
+  > [!IMPORTANT]
+
+  > Поддержка этого продукта завершена. Для поддержания поддержки клиенты должны обновиться до Windows 8,1.
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 10/30/2012
+  extendedEnd: 01/12/2016
+releases:
+- version: Original Release
+  startDate: 10/30/2012
+  endDate: 01/12/2016
+content: "\n## <a name=\"links\"></a>Ссылки \n* [Вопросы и ответы о жизненном цикле — Windows 8,1](/lifecycle/faq/windows#windows-81)\n\n\n## <a name=\"editions\"></a>2003 \n* Корпоративная версия\n* Корпоративный N\n* N\n* Pro с Media Center\n* Профессиональные\n* Профессиональный N"
