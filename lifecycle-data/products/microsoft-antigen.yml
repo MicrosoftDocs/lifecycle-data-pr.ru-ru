@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft Antigen
+  description: Microsoft Antigen соответствует фиксированной политике жизненного цикла.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 74b4c26a7bc5ff2ca5747a7dc50d91825ee5cd2c
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: ru-RU
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "835954"
+name: Microsoft Antigen
+summary: >+
+  Microsoft Antigen соответствует [фиксированной](/lifecycle/policies/fixed) политике жизненного цикла.
+
+
+  Это относится к следующим выпускам: 9,0 для Exchange, Enterprise Manager 9,0, для шлюзов SMTP, диспетчера нежелательной почты
+
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 07/17/2006
+  end: 04/08/2014
+  extendedEnd: 12/31/2015
+releases:
+- version: Original Release
+  startDate: 07/17/2006
+  endDate: 12/31/2015
+content: "\n\n> [!NOTE]\n> Изменился план для продуктов безопасности под торговой маркой Forefront.Этот продукт прекращен до 31 декабря 2015 г.\n\n## <a name=\"editions\"></a>2003 \n* 9,0 для Exchange\n* Корпоративный менеджер 9,0\n* для шлюзов SMTP\n* Диспетчер нежелательной почты"
