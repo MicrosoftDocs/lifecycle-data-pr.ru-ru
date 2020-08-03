@@ -1,0 +1,25 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Облачные службы Azure
+  description: Облачные службы Azure следует современным политикам жизненного цикла.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: aab601bc296dcf08a3f860220bf93b35fa67e335
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: ru-RU
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "836153"
+name: Облачные службы Azure
+summary: >+
+  Облачные службы Azure следует [современным](/lifecycle/policies/modern) политикам жизненного цикла.
+
+
+products:
+- azure
+policyType: modern-online
+supportDates:
+  start: 10/27/2008
+releases:
+- version: Original Release
+  startDate: 10/27/2008
+content: "\n## <a name=\"links\"></a>Ссылки \n* [Сведения о поддержке операционной системы Azure Guest OS и сведений о политике выбытия](/azure/cloud-services/cloud-services-guestos-retirement-policy)"

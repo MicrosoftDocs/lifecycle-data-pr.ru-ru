@@ -1,0 +1,37 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows Server 2008
+  description: Windows Server 2008 соответствует фиксированной политике жизненного цикла.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: cb16ce7326c75c0c560a1b8a0078d03656d58c21
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: ru-RU
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "836101"
+name: Windows Server 2008
+summary: >
+  Windows Server 2008 соответствует [фиксированной](/lifecycle/policies/fixed) политике жизненного цикла.
+
+
+  Это относится к следующим выпускам: центр обработки данных, центр обработки данных без Hyper-V, Enterprise, Enterprise без Hyper-V, для систем на основе Itanium, Foundation, Standard, Standard без Hyper-V, Web
+
+
+  > [!IMPORTANT]
+
+  > Поддержка этого продукта завершена. Ниже приведены рекомендации по миграции.
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 05/06/2008
+  end: 01/13/2015
+  extendedEnd: 01/14/2020
+releases:
+- version: Service Pack 2
+  startDate: 04/29/2009
+  endDate: 01/14/2020
+- version: Original Release
+  startDate: 05/06/2008
+  endDate: 07/12/2011
+content: "\n## <a name=\"links\"></a>Ссылки \n* [Руководство по миграции](https://aka.ms/AA1ovn4)\n* [Сведения об обновлении сервера](/windows-server/upgrade/upgrade-overview)\n* [Расширенная программа обновления для системы безопасности (ЕСУ)](/lifecycle/faq/extended-security-updates)\n* [Политика пакетов обновления](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Расширенные обновления для системы безопасности (ЕСУ) доступны в рамках определенных программ корпоративного лицензирования для центров обработки данных, стандартных, корпоративных и встраиваемых выпусков этого выпуска, в течение которых последние три года после конца поддержки. Чтобы узнать больше, обратитесь в службу партнера или партнерской компании Майкрософт. \n\nДата начала отпускания-----------------------------------даты окончания\n\nРасширенное обновление для системы безопасности Year 3---01/11/2022---01/10/2023\n\nРасширенное обновление для системы безопасности Year 2---01/12/2021---01/11/2022\n\nПродленное обновление для системы безопасности год 1---01/14/2020---01/12/2021\n> [!NOTE]\n> Windows Server 2008 Foundation выпущена 21 мая 2009 г.\n\n## <a name=\"editions\"></a>2003 \n* Центр данных\n* Центр обработки данных без Hyper – V\n* Корпоративная версия\n* Enterprise без Hyper – V\n* для компьютеров на базе процессоров Itanium\n* Foundation\n* Standard\n* Standard без Hyper – V\n* Web"
