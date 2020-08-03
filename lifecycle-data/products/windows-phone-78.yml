@@ -1,0 +1,31 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows Phone 7,8
+  description: Windows Phone 7,8 следует за фиксированной политикой жизненного цикла.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 7ca5bd0f56f415c7c686e60ef7931172ce97a495
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: ru-RU
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "861766"
+name: Windows Phone 7,8
+summary: >
+  Windows Phone 7,8 следует за [фиксированной](/lifecycle/policies/fixed) политикой жизненного цикла.
+
+
+
+  > [!IMPORTANT]
+
+  > Поддержка этого продукта завершена.
+products:
+- windows
+policyType: fixed-mainstream-only
+supportDates:
+  start: 02/09/2013
+  end: 10/14/2014
+releases:
+- version: Original Release
+  startDate: 02/09/2013
+  endDate: 10/14/2014
+content: "\n\n> [!NOTE]\n> Корпорация Майкрософт сделает обновления доступными для операционной системы на телефоне, в том числе обновлений для системы безопасности, в течение 18 месяцев после даты начала жизненного цикла. Распространение обновлений может осуществляться оператором мобильной связи или производителем телефона, с которого вы приобрели свой телефон. Доступность обновления также зависит от страны, региона и аппаратных возможностей."
