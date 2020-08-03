@@ -1,0 +1,31 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows 10 Mobile, выпущена в октябре 2017
+  description: Windows 10 Mobile, выпущенная в октябре 2017, соответствует фиксированной политике жизненного цикла.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 8b985e9de8f67c71a0a81c907664499b3cd303e2
+  ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
+  ms.translationtype: MT
+  ms.contentlocale: ru-RU
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "871791"
+name: Windows 10 Mobile, выпущена в октябре 2017
+summary: >
+  Windows 10 Mobile, выпущенная в октябре 2017, соответствует [фиксированной](/lifecycle/policies/fixed) политике жизненного цикла.
+
+
+
+  > [!IMPORTANT]
+
+  > Поддержка этого продукта завершена.
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 10/17/2017
+  end: 12/10/2019
+  extendedEnd: 01/14/2020
+releases:
+- version: Original Release
+  startDate: 10/17/2017
+content: "\n## <a name=\"links\"></a>Ссылки \n* [Вопросы и ответы по жизненному циклу ОС устройства](/lifecycle/faq/device-operating-systems)\n* [Поддержка Windows 10 Mobile закончилась 10 декабря 2019 г.](/lifecycle/announcements/windows-10-mobile-end-of-support)"

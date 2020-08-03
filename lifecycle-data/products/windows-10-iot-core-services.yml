@@ -1,0 +1,25 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows 10 для основных служб Интернета вещей
+  description: Windows 10 основные службы Интернета вещей следует за современным правилом жизненного цикла.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: e2e64958c91092f2890a4d871de3fd7b96614d65
+  ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
+  ms.translationtype: MT
+  ms.contentlocale: ru-RU
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "871769"
+name: Windows 10 для основных служб Интернета вещей
+summary: >+
+  Windows 10 основные службы Интернета вещей следует за [современным](/lifecycle/policies/modern) правилом жизненного цикла.
+
+
+products:
+- windows
+policyType: modern-online
+supportDates:
+  start: 11/13/2018
+releases:
+- version: Original Release
+  startDate: 11/13/2018
+content: "\n## <a name=\"links\"></a>Ссылки \n* [Windows 10 для основных служб Интернета вещей](/windows-hardware/manufacture/iot/iotcoreservicesoverview)\n\n> [!NOTE]\n> Windows 10 основные службы Интернета вещей — это подписка, предлагающая поддержку программного обеспечения в виде службы, в том числе Управление обновлением с помощью центра обновления устройств и повышенная безопасность с помощью аттестации работоспособности устройств, если на вашем компьютере установлена поддерживаемая версия Windows 10 для основных программ IoT."

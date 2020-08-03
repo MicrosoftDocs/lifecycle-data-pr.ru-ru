@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows 10 2019 ЛТСК
+  description: Windows 10 2019 ЛТСК соответствует фиксированной политике жизненного цикла.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 9d9eeef3c451afda756aff4666fb85da889772e9
+  ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
+  ms.translationtype: MT
+  ms.contentlocale: ru-RU
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "871798"
+name: Windows 10 2019 ЛТСК
+summary: >+
+  Windows 10 2019 ЛТСК соответствует [фиксированной](/lifecycle/policies/fixed) политике жизненного цикла.
+
+
+  Это относится к следующим выпускам: Enterprise
+
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 11/13/2018
+  end: 01/09/2024
+  extendedEnd: 01/09/2029
+releases:
+- version: Original Release
+  startDate: 11/13/2018
+  endDate: 01/09/2029
+content: "\n## <a name=\"links\"></a>Ссылки \n* [Windows 10 Октябрь Update (версия 1809) повторный выпуск](https://blogs.windows.com/windowsexperience/2018/11/13/resuming-the-rollout-of-the-windows-10-october-2018-update/)\n* [Вопросы и ответы по Windows 10 ЛТСК](/lifecycle/faq/windows#what-are-the-requirements-for-servicing-and-updating-the-windows-10-long-term-servicing-channel)\n* [Windows как служба (Ваас)](/windows/deployment/update/waas-quick-start)\n\n\n## <a name=\"editions\"></a>2003 \n* Корпоративная версия"
