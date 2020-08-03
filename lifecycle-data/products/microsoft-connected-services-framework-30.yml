@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Платформа Microsoft Connected Services 3,0
+  description: Платформа Microsoft Connected Services 3,0 соответствует фиксированной политике жизненного цикла.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: f30c38e094a3b58f587d59871bd573607df04273
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: ru-RU
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "835894"
+name: Платформа Microsoft Connected Services 3,0
+summary: >+
+  Платформа Microsoft Connected Services 3,0 соответствует [фиксированной](/lifecycle/policies/fixed) политике жизненного цикла.
+
+
+  Это относится к следующим выпускам: стандартное бизнес-событие для выставления счетов, стандартное бизнес-событие обработки заказов, сервер, Стандартный, Стандартный сервер со стандартными бизнес-событиями
+
+products:
+- connected-services-framework
+policyType: fixed
+supportDates:
+  start: 06/30/2006
+  end: 07/12/2011
+  extendedEnd: 07/12/2016
+releases:
+- version: Original Release
+  startDate: 06/30/2006
+  endDate: 07/12/2016
+content: "\n\n\n## <a name=\"editions\"></a>2003 \n* Стандартное бизнес-событие выставления счетов\n* Стандартное бизнес-событие обработки заказов\n* Сервер\n* Standard\n* Стандартный сервер со стандартными бизнес-событиями"
