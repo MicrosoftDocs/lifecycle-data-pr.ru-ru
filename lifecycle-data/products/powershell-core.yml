@@ -1,0 +1,29 @@
+### YamlMime:Lifecycle
+metadata:
+  title: PowerShell
+  description: PowerShell соответствует современным политикам жизненного цикла.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 8a266b1b67dabbffada1a481cba644726300a38b
+  ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
+  ms.translationtype: MT
+  ms.contentlocale: ru-RU
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "871819"
+name: PowerShell
+summary: >+
+  PowerShell соответствует [современным](/lifecycle/policies/modern) политикам жизненного цикла.
+
+
+products:
+- windows
+policyType: modern-online
+supportDates:
+  start: 01/19/2018
+releases:
+- version: PowerShell 7.x
+  startDate: 03/04/2020
+  endDate: 12/03/2022
+- version: PowerShell 6.x
+  startDate: 01/19/2018
+  endDate: 09/04/2020
+content: "\n## <a name=\"links\"></a>Ссылки \n* [Сведения об обслуживании](https://aka.ms/pslifecycle)\n\n> [!NOTE]\n> Дополнительные сведения о сроках выполнения для дополнительной версии PowerShell приведены в подробностях по жизненному циклу PowerShell на странице сведения об обслуживании."
