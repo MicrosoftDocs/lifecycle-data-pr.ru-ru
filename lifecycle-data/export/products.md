@@ -1,27 +1,27 @@
 ---
 title: Экспорт продуктов
 description: Экспорт сведений о жизненном цикле продукта
-ms.date: 08/05/2020
-ms.openlocfilehash: 148d4d16dbf7e35fa5b5a44704867ac04d614e19
-ms.sourcegitcommit: cc83950a649c02cedd0a5a869702e8e5605d18ec
+ms.date: 08/06/2020
+ms.openlocfilehash: 9a08884d7ccf6ea1207ea9744764269647dd5459
+ms.sourcegitcommit: 87091f3fdb147e1254e631d31a0f7baeda61a424
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/05/2020
-ms.locfileid: "885033"
+ms.lasthandoff: 08/06/2020
+ms.locfileid: "885198"
 ---
-# <a name="export"></a><span data-ttu-id="cc4eb-103">Экспорт</span><span class="sxs-lookup"><span data-stu-id="cc4eb-103">Export</span></span>
+# <a name="export"></a><span data-ttu-id="58df5-103">Экспорт</span><span class="sxs-lookup"><span data-stu-id="58df5-103">Export</span></span>
 
 > [!IMPORTANT]
-> <span data-ttu-id="cc4eb-104">Эта страница находится на стадии разработки.</span><span class="sxs-lookup"><span data-stu-id="cc4eb-104">This page is under development.</span></span>
+> <span data-ttu-id="58df5-104">Эта страница находится на стадии разработки.</span><span class="sxs-lookup"><span data-stu-id="58df5-104">This page is under development.</span></span>
 
-## <a name="export-all-products"></a><span data-ttu-id="cc4eb-105">Экспорт всех продуктов</span><span class="sxs-lookup"><span data-stu-id="cc4eb-105">Export All Products</span></span>
-<span data-ttu-id="cc4eb-106">Экспортируйте все продукты без фильтров.</span><span class="sxs-lookup"><span data-stu-id="cc4eb-106">Export all products without any filters.</span></span>
+## <a name="export-all-products"></a><span data-ttu-id="58df5-105">Экспорт всех продуктов</span><span class="sxs-lookup"><span data-stu-id="58df5-105">Export All Products</span></span>
+<span data-ttu-id="58df5-106">Экспортируйте все продукты без фильтров.</span><span class="sxs-lookup"><span data-stu-id="58df5-106">Export all products without any filters.</span></span>
 
 > [!div class="nextstepaction"]
-> [<span data-ttu-id="cc4eb-107">Экспорт всех продуктов</span><span class="sxs-lookup"><span data-stu-id="cc4eb-107">Export All Products</span></span>](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export)
+> [<span data-ttu-id="58df5-107">Экспорт всех продуктов</span><span class="sxs-lookup"><span data-stu-id="58df5-107">Export All Products</span></span>](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export)
 
-## <a name="export-products-by-category"></a><span data-ttu-id="cc4eb-108">Экспорт продуктов по категории</span><span class="sxs-lookup"><span data-stu-id="cc4eb-108">Export Products by Category</span></span>
-<span data-ttu-id="cc4eb-109">Выберите группирование для экспорта:</span><span class="sxs-lookup"><span data-stu-id="cc4eb-109">Select a grouping to export:</span></span>
+## <a name="export-products-by-category"></a><span data-ttu-id="58df5-108">Экспорт продуктов по категории</span><span class="sxs-lookup"><span data-stu-id="58df5-108">Export Products by Category</span></span>
+<span data-ttu-id="58df5-109">Выберите группирование для экспорта:</span><span class="sxs-lookup"><span data-stu-id="58df5-109">Select a grouping to export:</span></span>
 
 > [!div class="op_multi_selector" title1="Системами" title2="Group"]
 > - [(.NET | Ко](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'.NET')
@@ -80,8 +80,8 @@ ms.locfileid: "885033"
 > - [(Windows | Защиты](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'Windows'%20and%20parent/parent/name%20eq%20'Security')
 > - [(Windows | Сервер](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'Windows'%20and%20parent/parent/name%20eq%20'Server')
 
-## <a name="export-products-by-end-of-support-year"></a><span data-ttu-id="cc4eb-167">Экспорт продуктов за конец года поддержки</span><span class="sxs-lookup"><span data-stu-id="cc4eb-167">Export Products by End of Support Year</span></span>
-<span data-ttu-id="cc4eb-168">Выберите год для экспорта продуктов, завершающихся службой в этом году:</span><span class="sxs-lookup"><span data-stu-id="cc4eb-168">Select a year to export products ending service in that year:</span></span>
+## <a name="export-products-by-end-of-support-year"></a><span data-ttu-id="58df5-167">Экспорт продуктов за конец года поддержки</span><span class="sxs-lookup"><span data-stu-id="58df5-167">Export Products by End of Support Year</span></span>
+<span data-ttu-id="58df5-168">Выберите год для экспорта продуктов, завершающихся службой в этом году:</span><span class="sxs-lookup"><span data-stu-id="58df5-168">Select a year to export products ending service in that year:</span></span>
 
 > [!div class="op_single_selector"]
 > - [2002](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export(endOfSupportYear=2002))
