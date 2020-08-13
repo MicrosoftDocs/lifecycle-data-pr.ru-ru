@@ -2,13 +2,13 @@
 metadata:
   title: Internet Explorer 9
   description: Internet Explorer 9 соответствует политике жизненного цикла компонентов.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 595ea8f1727166a645aa139d28dc093b4b6f2b41
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.date: 08/12/2020
+  ms.openlocfilehash: 56f6d95703597d63faee14b9b135d0d6611e80c8
+  ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
   ms.translationtype: MT
   ms.contentlocale: ru-RU
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "861455"
+  ms.lasthandoff: 08/13/2020
+  ms.locfileid: "893623"
 name: Internet Explorer 9
 summary: >+
   Internet Explorer 9 соответствует политике жизненного цикла [компонентов](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) .
@@ -22,4 +22,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 03/15/2011
-content: "\n## <a name=\"links\"></a>Ссылки \n* [Руководство по миграции](https://www.microsoft.com/itpro/microsoft-edge)\n* [Вопросы и ответы по политике жизненного цикла Internet Explorer](/lifecycle/faq/internet-explorer-microsoft-edge)\n\n> [!NOTE]\n> Начиная с 12 января 2016, только самая последняя версия Internet Explorer, доступная для поддерживаемой операционной системы, будет получать техническую поддержку и обновления для системы безопасности."
+content: "\n## <a name=\"links\"></a>Links \n* [Руководство по миграции](https://www.microsoft.com/itpro/microsoft-edge)\n* [Вопросы и ответы по политике жизненного цикла Internet Explorer](/lifecycle/faq/internet-explorer-microsoft-edge)\n\n> [!NOTE]\n> Начиная с 12 января 2016, только самая последняя версия Internet Explorer, доступная для поддерживаемой операционной системы, будет получать техническую поддержку и обновления для системы безопасности."
