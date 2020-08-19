@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Серия кодировщика Windows Media 9
+  description: Серия кодировщика Windows Media 9 соответствует фиксированной политике жизненного цикла.
+  ms.date: 08/19/2020
+  ms.openlocfilehash: 155a9a5c7b4177f6c51651324a6f5cff219d6069
+  ms.sourcegitcommit: 7058ee1673709d6dd4bed24f043690e0da2c6bb4
+  ms.translationtype: MT
+  ms.contentlocale: ru-RU
+  ms.lasthandoff: 08/19/2020
+  ms.locfileid: "902876"
+name: Серия кодировщика Windows Media 9
+summary: >+
+  Серия кодировщика Windows Media 9 соответствует [фиксированной](/lifecycle/policies/fixed) политике жизненного цикла.
+
+
+  Это относится к следующим выпускам: 64 бит, Стандартный
+
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 11/15/2002
+  end: 01/12/2010
+  extendedEnd: 01/13/2015
+releases:
+- version: Original Release
+  startDate: 11/15/2002
+  endDate: 01/13/2015
+content: "\n\n> [!NOTE]\n> 64-разрядный набор для Windows Media Encoder 9, выпущенный 15 сентября 2005 г.\n\n## <a name=\"editions\"></a>2003 \n* 64 бит\n* Standard"
