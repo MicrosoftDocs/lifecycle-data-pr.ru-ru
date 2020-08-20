@@ -1,0 +1,25 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Средство просмотра отчетов (Майкрософт)
+  description: Средство просмотра отчетов Майкрософт следует современной политике жизненного цикла.
+  ms.date: 08/19/2020
+  ms.openlocfilehash: 9025fd3d1b84a581d70de562ab977e3aa01870fb
+  ms.sourcegitcommit: 9d254d51934063ec1dd8c7e0e5fcb53ccc7257b3
+  ms.translationtype: MT
+  ms.contentlocale: ru-RU
+  ms.lasthandoff: 08/20/2020
+  ms.locfileid: "905022"
+name: Средство просмотра отчетов (Майкрософт)
+summary: >+
+  Средство просмотра отчетов Майкрософт следует [современной](/lifecycle/policies/modern) политике жизненного цикла.
+
+
+products:
+- sql-server
+policyType: modern-online
+supportDates:
+  start: 11/30/2016
+releases:
+- version: Original Release
+  startDate: 11/30/2016
+content: ''
