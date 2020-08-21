@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Visual Studio 2010
-  description: Visual Studio 2010 следует за фиксированной политикой жизненного цикла.
+  title: Visual Studio 2010
+  description: Visual Studio 2010 следует Фиксированной политике жизненного цикла.
   ms.date: 07/28/2020
   ms.openlocfilehash: 30c112ab23bba45aaec60660ab85c362bcebf030
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ru-RU
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "835394"
-name: Visual Studio 2010
+name: Visual Studio 2010
 summary: >+
-  Visual Studio 2010 следует за [фиксированной](/lifecycle/policies/fixed) политикой жизненного цикла.
+  Visual Studio 2010 следует [Фиксированной](/lifecycle/policies/fixed) политике жизненного цикла.
 
 
-  Это относится к следующим выпускам: агенты, все, ASP .NET MVC 4, Express, F # 2,0 Runtime, Lab Management, средства для обеспечения производительности, премиум, профессиональный, удаленный отладчик, пакет SDK, оболочка (встроенная), оболочка (изолированная), агенты группы, командный обозреватель, тестовый выпуск, инструменты для Office System 4,0 Runtime, Visual C++ Express, Visual Web Developer, Экспресс-выпуск SDK &
+  Данное правило распространяется на следующие выпуски: Agents, All, ASP .NET MVC 4, Express, F# 2.0 Runtime, Lab Management, Средства производительности, Premium, Professional, Удаленный отладчик, SDK, Оболочка (интегрированная), Оболочка (изолированная), Team Agents, Team Explorer, Test Professional, Tools для Office System 4.0 Runtime, Ultimate, VB Express, Visual C# Express, Visual C++ Express, Visual Web Developer экспресс-выпуск, Пакет SDK визуализации и моделирования
 
 products:
 - vs
@@ -30,4 +30,4 @@ releases:
 - version: Original Release
   startDate: 06/29/2010
   endDate: 04/10/2012
-content: "\n## <a name=\"links\"></a>Ссылки \n* [Политика пакетов обновления](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>2003 \n* Агенты\n* Все\n* ASP .NET MVC 4\n* Прямых\n* Среда выполнения F # 2,0\n* Lab Management\n* Средства повышения производительности\n* Расширенная версия\n* Профессиональные\n* Удаленный отладчик\n* Пакет SDK\n* Shell (встроенная)\n* Shell (изолированный)\n* Агенты группы\n* Командный обозреватель\n* Тестовый специалист\n* Инструменты для Office System 4,0 Runtime\n* Ultimate\n* VB Express\n* Экспресс – выпуск Visual C#\n* Visual C++ Express\n* Экспресс-выпуск Visual Web Developer\n* SDK для визуализации & моделирования"
+content: "\n## <a name=\"links\"></a>Ссылки \n* [Политика пакетов обновления](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Выпуски \n* Agents\n* Все\n* ASP .NET MVC 4\n* Express\n* F# 2.0 Runtime\n* Lab Management\n* Средства производительности\n* Premium\n* Professional\n* Удаленный отладчик \n* SDK\n* Оболочка (интегрированная)\n* Оболочка (изолированная)\n* Team Agents\n* Team Explorer\n* Test Professional\n* Инструменты для Office System 4.0 Runtime\n* Максимальный\n* VB Express\n* Visual C# Express\n* Visual C++ 2010 Express\n* Visual Web Developer Express\n* Пакет SDK визуализации и моделирования"
