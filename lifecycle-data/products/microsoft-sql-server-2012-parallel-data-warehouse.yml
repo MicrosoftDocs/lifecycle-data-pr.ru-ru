@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft SQL Server 2012 Parallel Data Warehouse (система платформы аналитики)
-  description: Параллельное хранилище данных Microsoft SQL Server 2012 (система платформы аналитики) соответствует фиксированной политике жизненного цикла.
+  title: Хранилище параллельных данных Microsoft SQL Server 2012 (система платформы аналитики)
+  description: Хранилище параллельных данных Microsoft SQL Server 2012 (система платформы аналитики) следует Фиксированной политике жизненного цикла.
   ms.date: 07/28/2020
   ms.openlocfilehash: 78651a46cb453708bccc394e512756a7c24b599d
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ru-RU
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "871857"
-name: Microsoft SQL Server 2012 Parallel Data Warehouse (система платформы аналитики)
+name: Хранилище параллельных данных Microsoft SQL Server 2012 (система платформы аналитики)
 summary: >
-  Параллельное хранилище данных Microsoft SQL Server 2012 (система платформы аналитики) соответствует [фиксированной](/lifecycle/policies/fixed) политике жизненного цикла.
+  Хранилище параллельных данных Microsoft SQL Server 2012 (система платформы аналитики) следует [Фиксированной](/lifecycle/policies/fixed) политике жизненного цикла.
 
 
 
   > [!IMPORTANT]
 
-  > Параллельное хранилище данных SQL Server 2012 (PDW) было изменено как ТД (система платформы аналитики)
+  > Хранилище параллельных данных SQL Server 2012 Parallel Data Warehouse (PDW) было переименовано в APS (Analytics Platform System) (система платформы аналитики)
 products:
 - sql-server
 policyType: fixed
@@ -29,4 +29,4 @@ releases:
 - version: Original Release
   startDate: 07/12/2013
   endDate: 10/08/2024
-content: "\n## <a name=\"links\"></a>Ссылки \n* [Сведения о продукте](https://www.microsoft.com/sql-server/analytics-platform-system)"
+content: "\n## <a name=\"links\"></a>Ссылки \n* [Информация о продукте](https://www.microsoft.com/sql-server/analytics-platform-system)"

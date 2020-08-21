@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Служебная шина для Windows Server
-  description: Служебная шина для Windows Server соответствует политике жизненного цикла компонентов.
+  description: Служебная шина для Windows Server следует политике жизненного цикла компонентов.
   ms.date: 07/28/2020
   ms.openlocfilehash: 1641a04266351d29d8b152c5bc87f62207344b65
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ru-RU
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "861511"
 name: Служебная шина для Windows Server
 summary: >
-  Служебная шина для Windows Server соответствует политике жизненного цикла [компонентов](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) .
+  Служебная шина для Windows Server следует политике жизненного цикла [компонентов](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy).
 
 
 
   > [!IMPORTANT]
 
-  > Если шина обслуживания 1,1 является компонентом SharePoint Server 2016 или SharePoint Server 2013, она будет поддерживаться в соответствии с датами поддержки соответствующей версии SharePoint Server.
+  > Когда Служебная шина 1.1 является компонентом SharePoint Server 2016 или SharePoint Server 2013, она будет поддерживаться в соответствии с датами окончания поддержки соответствующей версии SharePoint Server.
 products:
 - windows
 policyType: component

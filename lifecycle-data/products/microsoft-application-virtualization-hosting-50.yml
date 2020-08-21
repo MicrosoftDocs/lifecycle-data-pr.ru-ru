@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Размещение приложений Microsoft Application Virtualization 5,0 для настольных компьютеров с Windows
-  description: Приложение Microsoft Application Virtualization Hosting 5,0 для настольных компьютеров с Windows соответствует фиксированной политике жизненного цикла.
+  title: Microsoft Application Virtualization Hosting 5.0 для настольных компьютеров Windows
+  description: Microsoft Application Virtualization Hosting 5.0 для настольных компьютеров Windows следует Фиксированной политике жизненного цикла.
   ms.date: 07/28/2020
   ms.openlocfilehash: dff04b865491bfb99aa8d20e556aafd434a59398
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ru-RU
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "861443"
-name: Размещение приложений Microsoft Application Virtualization 5,0 для настольных компьютеров с Windows
+name: Microsoft Application Virtualization Hosting 5.0 для настольных компьютеров Windows
 summary: >+
-  Приложение Microsoft Application Virtualization Hosting 5,0 для настольных компьютеров с Windows соответствует [фиксированной](/lifecycle/policies/fixed) политике жизненного цикла.
+  Microsoft Application Virtualization Hosting 5.0 для настольных компьютеров Windows следует [Фиксированной](/lifecycle/policies/fixed) политике жизненного цикла.
 
 
-  Это относится к следующим выпускам: для настольных компьютеров с Windows
+  Данное правило распространяется на следующие выпуски: для настольных компьютеров Windows
 
 products:
 - windows
@@ -36,4 +36,4 @@ releases:
 - version: Original Release
   startDate: 11/01/2012
   endDate: 07/08/2014
-content: "\n## <a name=\"links\"></a>Ссылки \n* [Сведения о продукте](/microsoft-desktop-optimization-pack/appv-v4/overview-of-application-virtualization)\n* [Политика пакетов обновления](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>2003 \n* для настольных компьютеров с Windows"
+content: "\n## <a name=\"links\"></a>Ссылки \n* [Информация о продукте](/microsoft-desktop-optimization-pack/appv-v4/overview-of-application-virtualization)\n* [Политика пакетов обновления](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Выпуски \n* для настольных компьютеров Windows"
