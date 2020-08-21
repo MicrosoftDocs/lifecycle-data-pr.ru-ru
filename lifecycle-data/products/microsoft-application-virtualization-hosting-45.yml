@@ -1,25 +1,25 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Размещение приложений Microsoft Application Virtualization 4,5 для настольных компьютеров с Windows
-  description: Приложение Microsoft Application Virtualization Hosting 4,5 для настольных компьютеров с Windows соответствует фиксированной политике жизненного цикла.
+  title: Microsoft Application Virtualization Hosting 4.5 для настольных компьютеров Windows
+  description: Microsoft Application Virtualization Hosting 4.5 для настольных компьютеров Windows следует Фиксированной политике жизненного цикла.
   ms.date: 07/28/2020
   ms.openlocfilehash: 3cb5049ed11ed567b8b7c1f3bd51de8b00b27ee8
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ru-RU
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "835945"
-name: Размещение приложений Microsoft Application Virtualization 4,5 для настольных компьютеров с Windows
+name: Microsoft Application Virtualization Hosting 4.5 для настольных компьютеров Windows
 summary: >
-  Приложение Microsoft Application Virtualization Hosting 4,5 для настольных компьютеров с Windows соответствует [фиксированной](/lifecycle/policies/fixed) политике жизненного цикла.
+  Microsoft Application Virtualization Hosting 4.5 для настольных компьютеров Windows следует [Фиксированной](/lifecycle/policies/fixed) политике жизненного цикла.
 
 
-  Это относится к следующим выпускам: для настольных компьютеров с Windows
+  Данное правило распространяется на следующие выпуски: для настольных компьютеров Windows
 
 
   > [!IMPORTANT]
 
-  > Поддержка этого продукта завершена. Ниже приведены сведения о миграции.
+  > Поддержка этого продукта закончилась. См. ниже информацию по миграции.
 products:
 - windows
 policyType: fixed
@@ -37,4 +37,4 @@ releases:
 - version: Original Release
   startDate: 11/23/2008
   endDate: 01/11/2011
-content: "\n## <a name=\"links\"></a>Ссылки \n* [Сведения о продукте и миграции](/microsoft-desktop-optimization-pack/appv-v4/overview-of-application-virtualization)\n* [Политика пакетов обновления](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>2003 \n* для настольных компьютеров с Windows"
+content: "\n## <a name=\"links\"></a>Ссылки \n* [Информация по миграции и продуктах](/microsoft-desktop-optimization-pack/appv-v4/overview-of-application-virtualization)\n* [Политика пакетов обновления](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Выпуски \n* для настольных компьютеров Windows"

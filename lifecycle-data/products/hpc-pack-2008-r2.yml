@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Пакет HPC 2008 R2
-  description: Пакет HPC 2008 R2 соответствует фиксированной политике жизненного цикла.
+  title: HPC Pack 2008 R2
+  description: HPC Pack 2008 R2 следует Фиксированной политике жизненного цикла.
   ms.date: 07/28/2020
   ms.openlocfilehash: 85ea9272f46481e504a5c283c962a8ef7f5ace53
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ru-RU
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "835979"
-name: Пакет HPC 2008 R2
+name: HPC Pack 2008 R2
 summary: >
-  Пакет HPC 2008 R2 соответствует [фиксированной](/lifecycle/policies/fixed) политике жизненного цикла.
+  HPC Pack 2008 R2 следует [Фиксированной](/lifecycle/policies/fixed) политике жизненного цикла.
 
 
 
   > [!IMPORTANT]
 
-  > Поддержка этого продукта завершена. Ниже приведены рекомендации по миграции.
+  > Поддержка этого продукта закончилась. См. ниже руководство по миграции.
 products:
 - windows
 policyType: fixed

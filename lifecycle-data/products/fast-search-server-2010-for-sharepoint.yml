@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: FAST Search Server 2010 (для SharePoint, для веб-сайтов SharePoint)
-  description: Сервер FAST Search Server 2010 (для SharePoint, для веб-сайтов SharePoint) соответствует фиксированной политике жизненного цикла.
+  title: FAST Search Server 2010 (for SharePoint, for SharePoint Internet Sites)
+  description: FAST Search Server 2010 (for SharePoint, for SharePoint Internet Sites) следует Фиксированной политике жизненного цикла.
   ms.date: 07/28/2020
   ms.openlocfilehash: 2a2c66a5a5e5b2ffc3fbbf82d4a96803e06ee2e5
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ru-RU
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "835993"
-name: FAST Search Server 2010 (для SharePoint, для веб-сайтов SharePoint)
+name: FAST Search Server 2010 (for SharePoint, for SharePoint Internet Sites)
 summary: >+
-  Сервер FAST Search Server 2010 (для SharePoint, для веб-сайтов SharePoint) соответствует [фиксированной](/lifecycle/policies/fixed) политике жизненного цикла.
+  FAST Search Server 2010 (for SharePoint, for SharePoint Internet Sites) следует [Фиксированной](/lifecycle/policies/fixed) политике жизненного цикла.
 
 
-  Это относится к следующим выпускам: для SharePoint, для веб-сайтов SharePoint
+  Это относится к следующим выпускам: for SharePoint, for SharePoint Internet Sites
 
 products:
 - office
@@ -33,4 +33,4 @@ releases:
 - version: Original Release
   startDate: 06/16/2010
   endDate: 07/10/2012
-content: "\n## <a name=\"links\"></a>Ссылки \n* [Руководство по миграции](https://techcommunity.microsoft.com/t5/Product-Life-Cycle/FAST-products-approaching-the-end-of-extended-support-in-2018/td-p/101711)\n* [Политика пакетов обновления](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Исключение версий, которые не поддерживаются. Поддержка этого продукта зависит от условий его приобретения.\n\n## <a name=\"editions\"></a>2003 \n* для SharePoint\n* для веб-сайтов SharePoint"
+content: "\n## <a name=\"links\"></a>Ссылки \n* [Руководство по миграции](https://techcommunity.microsoft.com/t5/Product-Life-Cycle/FAST-products-approaching-the-end-of-extended-support-in-2018/td-p/101711)\n* [Политика пакетов обновления](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Исключает версии, не поддерживаемые ранее. Поддержка данного продукта предоставляется в соответствии с условиями, указанными при его приобретении.\n\n## <a name=\"editions\"></a>Выпуски \n* for SharePoint\n* for SharePoint Internet Sites"

@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Службы Windows Server Update Services 3,0
-  description: Windows Server Update Services 3,0 следует за фиксированной политикой жизненного цикла.
+  title: Службы Windows Server Update Services 3.0
+  description: Windows Server Update Services 3.0 следует Фиксированной политике жизненного цикла.
   ms.date: 07/28/2020
   ms.openlocfilehash: b5e6ed046b5497010706f64c93962f1c4af0e2a0
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ru-RU
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "836099"
-name: Службы Windows Server Update Services 3,0
+name: Службы Windows Server Update Services 3.0
 summary: >
-  Windows Server Update Services 3,0 следует за [фиксированной](/lifecycle/policies/fixed) политикой жизненного цикла.
+  Windows Server Update Services 3.0 следует [Фиксированной](/lifecycle/policies/fixed) политике жизненного цикла.
 
 
 
   > [!IMPORTANT]
 
-  > Поддержка завершена. Ниже приведены рекомендации по миграции.
+  > Поддержка закончилась. См. ниже руководство по миграции.
 products:
 - windows
 policyType: fixed
@@ -35,4 +35,4 @@ releases:
 - version: Original Release
   startDate: 07/10/2007
   endDate: 07/14/2009
-content: "\n## <a name=\"links\"></a>Ссылки \n* [Руководство по миграции](https://technet.microsoft.com/library/mt772341%28WS.11%29.aspx)\n* [Политика пакетов обновления](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Поддержка была расширена с 7/11/2017 до 1/14/2020."
+content: "\n## <a name=\"links\"></a>Ссылки \n* [Руководство по миграции](https://technet.microsoft.com/library/mt772341%28WS.11%29.aspx)\n* [Политика пакетов обновления](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Поддержка была продлена с 11/07/2017 до 14/01/2020."
