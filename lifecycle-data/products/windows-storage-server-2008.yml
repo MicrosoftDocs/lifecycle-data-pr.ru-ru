@@ -1,25 +1,25 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Windows Storage Server 2008
-  description: Windows Storage Server 2008 следует за фиксированной политикой жизненного цикла.
+  description: Windows Storage Server 2008 следует Фиксированной политике жизненного цикла.
   ms.date: 07/28/2020
   ms.openlocfilehash: 5fcd64fc253504e9ffb8db1c34a0597cc550b12b
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ru-RU
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "835213"
 name: Windows Storage Server 2008
 summary: >
-  Windows Storage Server 2008 следует за [фиксированной](/lifecycle/policies/fixed) политикой жизненного цикла.
+  Windows Storage Server 2008 следует [Фиксированной](/lifecycle/policies/fixed) политике жизненного цикла.
 
 
-  Это относится к следующим выпускам: Basic, Basic 32, Basic 32 64, Basic, Basic, Basic, Basic, Basic Embedded, Basic, Basic, Basic, Basic, Standard, Standard, Standard, Workgroup
+  Данное правило распространяется на следующие выпуски: Базовый, Базовый 32-разрядный, базовый 64-разрядный, Базовый встроенный, Базовый встроенный 32-разрядный, Предприятие, Корпоративный встроенный, Стандартный, Стандартный встроенный, Рабочая группа
 
 
   > [!IMPORTANT]
 
-  > Этот продукт достиг конца поддержки. Ниже приведено руководство по миграции.
+  > Поддержка данного продукта окончена. См. ниже руководство по миграции.
 products:
 - windows
 policyType: fixed
@@ -34,4 +34,4 @@ releases:
 - version: Service Pack 2
   startDate: 07/19/2009
   endDate: 01/14/2020
-content: "\n## <a name=\"links\"></a>Ссылки \n* [Руководство по миграции](/archive/blogs/storageserver/announcing-windows-storage-server-2016)\n* [Сведения об обновлении сервера](/windows-server/upgrade/upgrade-overview)\n\n\n## <a name=\"editions\"></a>2003 \n* Базовая\n* Базовый 32 — бит\n* Базовый 64 — бит\n* Базовый встроенный\n* Базовый встроенный 32 — бит\n* Корпоративная версия\n* Корпоративный встроенный\n* Standard\n* Стандартные внедренные\n* Рабочую"
+content: "\n## <a name=\"links\"></a>Ссылки \n* [Руководство по миграции](/archive/blogs/storageserver/announcing-windows-storage-server-2016)\n* [Информация об обновлении сервера](/windows-server/upgrade/upgrade-overview)\n\n\n## <a name=\"editions\"></a>Выпуски \n* Обычный\n* Базовый 32-разрядный\n* Базовый 64-разрядный\n* Базовый встроенный\n* Базовый встроенный 32-разрядный\n* Предприятие\n* Предприятие встроенный\n* Стандартный\n* Стандартный встроенный\n* Рабочая группа"

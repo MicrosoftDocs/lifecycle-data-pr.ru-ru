@@ -1,25 +1,25 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Windows XP
-  description: Windows XP соответствует фиксированной политике жизненного цикла.
+  description: Windows XP следует Фиксированной политике жизненного цикла.
   ms.date: 07/28/2020
   ms.openlocfilehash: d4fd2bce3e032cdc468570a458c8f10c60ff9170
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ru-RU
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "835376"
 name: Windows XP
 summary: >
-  Windows XP соответствует [фиксированной](/lifecycle/policies/fixed) политике жизненного цикла.
+  Windows XP следует [Фиксированной](/lifecycle/policies/fixed) политике жизненного цикла.
 
 
-  Это относится к следующим выпускам: Home, Professional, Professional для встраиваемых систем, Starter
+  Данное правило распространяется на следующие выпуски: Домашняя, Профессиональная, Профессиональная для встроенных систем, Начальная
 
 
   > [!IMPORTANT]
 
-  > Поддержка этого продукта завершена. Ниже приведены рекомендации по миграции.
+  > Поддержка этого продукта закончилась. См. ниже руководство по миграции.
 products:
 - windows
 policyType: fixed
@@ -43,4 +43,4 @@ releases:
 - version: Original Release
   startDate: 12/31/2001
   endDate: 08/30/2005
-content: "\n## <a name=\"links\"></a>Ссылки \n* [Руководство по миграции](/windows/deployment/upgrade/windows-upgrade-and-migration-considerations)\n* [Политика пакетов обновления](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>2003 \n* Главная\n* Профессиональные\n* Профессиональный для встроенных систем\n* Начальный"
+content: "\n## <a name=\"links\"></a>Ссылки \n* [Руководство по миграции](/windows/deployment/upgrade/windows-upgrade-and-migration-considerations)\n* [Политика пакетов обновления](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Выпуски \n* Домашняя\n* Professional\n* Профессиональная для встроенных систем\n* Начальная"

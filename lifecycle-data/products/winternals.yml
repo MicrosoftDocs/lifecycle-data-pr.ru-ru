@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Разработан
-  description: Winternals соответствует фиксированной политике жизненного цикла.
+  title: Winternals
+  description: Winternals следует Фиксированной политике жизненного цикла.
   ms.date: 07/28/2020
   ms.openlocfilehash: c53494de8a74f1c533ad0de10eff126605f0d85a
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ru-RU
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "835375"
-name: Разработан
+name: Winternals
 summary: >+
-  Winternals соответствует [фиксированной](/lifecycle/policies/fixed) политике жизненного цикла.
+  Winternals следует [Фиксированной](/lifecycle/policies/fixed) политике жизненного цикла.
 
 
-  Это относится к следующим выпускам: Пак администратору 5,0, дефрагментации диспетчера 3,0, Protection Manager 2,0, Диспетчер восстановления 3,0
+  Данное правило распространяется на следующие выпуски: Administrator's Pak 5.0, Defrag Manager 3.0, Protection Manager 2.0, Recovery Manager 3.0
 
 products:
 - windows
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 01/01/2007
   endDate: 01/12/2010
-content: "\n## <a name=\"links\"></a>Ссылки \n* [Политика жизненного цикла для приобретений Майкрософт](/lifecycle/faq/general-lifecycle#what-is-the-lifecycle-policy-for-products-or-companies-that-microsoft-acquires)\n\n> [!NOTE]\n> Исключение версий, которые не поддерживаются. Поддержка этого продукта зависит от условий его приобретения.\n\n## <a name=\"editions\"></a>2003 \n* Пак администратора 5,0\n* Дефрагментация диспетчера 3,0\n* Protection Manager 2,0\n* Диспетчер восстановления 3,0"
+content: "\n## <a name=\"links\"></a>Ссылки \n* [Политика жизненного цикла для приобретений Microsoft](/lifecycle/faq/general-lifecycle#what-is-the-lifecycle-policy-for-products-or-companies-that-microsoft-acquires)\n\n> [!NOTE]\n> Исключает версии, не поддерживаемые ранее. Поддержка данного продукта предоставляется в соответствии с условиями, указанными при его приобретении.\n\n## <a name=\"editions\"></a>Выпуски \n* Administrator's Pak 5.0\n* Defrag Manager 3.0\n* Protection Manager 2.0\n* Recovery Manager 3.0"
