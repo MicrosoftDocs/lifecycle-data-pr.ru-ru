@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Windows Server
-  description: Windows Server соответствует современным политикам жизненного цикла.
+  description: Windows Server следует Современной политике жизненного цикла.
   ms.date: 07/28/2020
   ms.openlocfilehash: 27a932028448e8fe9d583c1d4169c6818a0224b7
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ru-RU
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "871863"
 name: Windows Server
 summary: >+
-  Windows Server соответствует [современным](/lifecycle/policies/modern) политикам жизненного цикла.
+  Windows Server следует [Современной](/lifecycle/policies/modern) политике жизненного цикла.
 
 
-  Это относится к следующим выпускам: центр обработки данных, Стандартный
+  Данное правило распространяется на следующие выпуски: Datacenter, Standard
 
 products:
 - windows
@@ -40,4 +40,4 @@ releases:
 - version: Version 1709
   startDate: 10/17/2017
   endDate: 04/09/2019
-content: "\n## <a name=\"links\"></a>Ссылки \n* [Каналы обслуживания Windows Server: ЛТСК и SAC](/windows-server/get-started-19/servicing-channels-19)\n* [Вопросы и ответы по жизненному циклу: продукты Windows](/lifecycle/faq/windows#what-are-the-requirements-for-servicing-and-updating-windows-10-semi-annual-channels)\n\n> [!NOTE]\n> Обновление для Windows 10 от октября (версия 1809) было повторно выпущено на 13 ноября 2018 г. Даты поддержки были скорректированы соответствующим образом.\n\n## <a name=\"editions\"></a>2003 \n* Центр данных\n* Standard"
+content: "\n## <a name=\"links\"></a>Ссылки \n* [Каналы обслуживания Windows Server: LTSC и SAC](/windows-server/get-started-19/servicing-channels-19)\n* [Часто задаваемые вопросы по жизненному циклу – продукты Windows](/lifecycle/faq/windows#what-are-the-requirements-for-servicing-and-updating-windows-10-semi-annual-channels)\n\n> [!NOTE]\n> Обновление Windows 10 за октябрь (версия 1809) было переиздано 13 ноября 2018 г. Даты окончания поддержки были смещены соответствующим образом.\n\n## <a name=\"editions\"></a>Выпуски \n* Datacenter\n* Стандартный"

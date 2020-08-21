@@ -1,25 +1,25 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows Storage Server 2008 R2
-  description: Windows Storage Server 2008 R2 соответствует фиксированной политике жизненного цикла.
+  title: Сервер Windows Storage Server 2008 R2
+  description: Windows Storage Server 2008 R2 следует Фиксированной политике жизненного цикла.
   ms.date: 07/28/2020
   ms.openlocfilehash: 28647cde233349efc4b33be28393ce0916020c33
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ru-RU
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "861670"
-name: Windows Storage Server 2008 R2
+name: Сервер Windows Storage Server 2008 R2
 summary: >
-  Windows Storage Server 2008 R2 соответствует [фиксированной](/lifecycle/policies/fixed) политике жизненного цикла.
+  Windows Storage Server 2008 R2 следует [Фиксированной](/lifecycle/policies/fixed) политике жизненного цикла.
 
 
-  Это относится к следующим выпускам: Essentials, Standard
+  Данное правило распространяется на следующие выпуски: Essentials, Standard
 
 
   > [!IMPORTANT]
 
-  > Поддержка этого продукта завершена. Ниже приведены рекомендации по миграции.
+  > Поддержка этого продукта закончилась. См. ниже руководство по миграции.
 products:
 - windows
 policyType: fixed
@@ -34,4 +34,4 @@ releases:
 - version: Original Release
   startDate: 12/20/2010
   endDate: 04/09/2013
-content: "\n## <a name=\"links\"></a>Ссылки \n* [Сведения о конце поддержки](https://support.microsoft.com/help/4456235/end-of-support-for-windows-server-2008-and-windows-server-2008-r2)\n* [Руководство по миграции](/archive/blogs/storageserver/announcing-windows-storage-server-2016)\n* [Вопросы и ответы по расширенному обновлению системы безопасности](/lifecycle/faq/extended-security-updates)\n* [Сведения об обновлении сервера](/windows-server/upgrade/upgrade-overview)\n\n> [!NOTE]\n> Выпуск Essentials выпущен в течение 28 июня 2011 г.\n\n## <a name=\"editions\"></a>2003 \n* Essentials\n* Standard"
+content: "\n## <a name=\"links\"></a>Ссылки \n* [Информация о дате окончании поддержки](https://support.microsoft.com/help/4456235/end-of-support-for-windows-server-2008-and-windows-server-2008-r2)\n* [Руководство по миграции](/archive/blogs/storageserver/announcing-windows-storage-server-2016)\n* [Часто задаваемые вопросы по расширенным обновлениям безопасности](/lifecycle/faq/extended-security-updates)\n* [Информация об обновлении сервера](/windows-server/upgrade/upgrade-overview)\n\n> [!NOTE]\n> Издание Essentials было выпущено 28 июня 2011 года.\n\n## <a name=\"editions\"></a>Выпуски \n* Essentials\n* Стандартный"

@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Набор средств для совместного использования компьютеров под управлением Windows XP 1,0
-  description: Набор средств для совместного использования компьютеров под управлением Windows XP 1,0 соответствует политике жизненного цикла компонентов.
+  title: Windows XP Shared Computer Toolkit 1.0
+  description: Windows XP Shared Computer Toolkit 1.0 следует Политике жизненного цикла компонентов.
   ms.date: 08/05/2020
   ms.openlocfilehash: 44d78a0c6bf4b91055ebcc9516c2c0b1f20f6984
   ms.sourcegitcommit: cc83950a649c02cedd0a5a869702e8e5605d18ec
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ru-RU
   ms.lasthandoff: 08/05/2020
   ms.locfileid: "883496"
-name: Набор средств для совместного использования компьютеров под управлением Windows XP 1,0
+name: Windows XP Shared Computer Toolkit 1.0
 summary: >+
-  Набор средств для совместного использования компьютеров под управлением Windows XP 1,0 соответствует политике жизненного цикла [компонентов](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) .
+  Windows XP Shared Computer Toolkit 1.0 следует Политике жизненного цикла [компонентов](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy).
 
 
 products:

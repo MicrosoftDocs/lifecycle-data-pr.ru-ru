@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Visual Studio 2015
-  description: Visual Studio 2015 следует за фиксированной политикой жизненного цикла.
+  title: Visual Studio 2015
+  description: Visual Studio 2015 следует Фиксированной политике жизненного цикла.
   ms.date: 07/28/2020
   ms.openlocfilehash: 4300bd472c7f836c9d93e7f7e3da2005da410bac
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ru-RU
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "861553"
-name: Visual Studio 2015
+name: Visual Studio 2015
 summary: >+
-  Visual Studio 2015 следует за [фиксированной](/lifecycle/policies/fixed) политикой жизненного цикла.
+  Visual Studio 2015 следует [Фиксированной](/lifecycle/policies/fixed) политике жизненного цикла.
 
 
-  Это относится к следующим выпускам: агенты, сообщество, корпоративный, Express для Web, Express для Windows 10, Express для настольных компьютеров, пакет SDK моделирования, профессиональный, Управление выпусками, удаленные средства, пакет SDK, оболочка (встроенная), оболочка (изолированная), тестовый профессиональный, распространяемый пакет Visual C++
+  Данное правило распространяется на следующие выпуски: Agents, Community, Enterprise, Express для Web, Express для Windows 10, Express для настольных компьютеров Windows, Modeling SDK, Professional, Release Management, Remote Tools, SDK, Shell (Integrated), Shell (Isolated), Test Professional, Visual C++ Redistributable
 
 products:
 - vs
@@ -30,4 +30,4 @@ releases:
 - version: Original Release
   startDate: 07/20/2015
   endDate: 10/14/2025
-content: "\n## <a name=\"links\"></a>Ссылки \n* [Сведения об обслуживании](https://www.visualstudio.com/productinfo/vs-servicing-vs)\n\n\n## <a name=\"editions\"></a>2003 \n* Агенты\n* Сообщество\n* Корпоративная версия\n* Express для Web\n* Express для Windows 10\n* Express для рабочего стола Windows\n* Моделирование пакета SDK\n* Профессиональные\n* Управление выпусками\n* Средства удаленного меню\n* Пакет SDK\n* Shell (встроенная)\n* Shell (изолированный)\n* Тестовый специалист\n* Распространяемый компонент Visual C++"
+content: "\n## <a name=\"links\"></a>Ссылки \n* [Сервисная информация](https://www.visualstudio.com/productinfo/vs-servicing-vs)\n\n\n## <a name=\"editions\"></a>Выпуски \n* Agents\n* Community\n* Предприятие\n* Express для Web\n* Express для Windows 10\n* Express для настольных компьютеров Windows\n* Пакет SDK для моделирования\n* Professional\n* Release Management\n* Инструменты удаленной отладки\n* SDK\n* Оболочка (интегрированная)\n* Оболочка (изолированная)\n* Test Professional\n* Visual C++ Redistributable"

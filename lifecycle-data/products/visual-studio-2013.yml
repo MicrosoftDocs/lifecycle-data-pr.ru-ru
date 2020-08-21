@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Visual Studio 2013
-  description: Visual Studio 2013 следует за фиксированной политикой жизненного цикла.
+  description: Visual Studio 2013 следует Фиксированной политике жизненного цикла.
   ms.date: 07/28/2020
   ms.openlocfilehash: b94d9b3d87ff3c971739be3ca2ebbb2446764e1b
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ru-RU
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "861775"
 name: Visual Studio 2013
 summary: >+
-  Visual Studio 2013 следует за [фиксированной](/lifecycle/policies/fixed) политикой жизненного цикла.
+  Visual Studio 2013 следует [Фиксированной](/lifecycle/policies/fixed) политике жизненного цикла.
 
 
-  Это относится к следующим выпускам: агенты, все, сообщество, Express для настольных ПК, Экспресс-выпуск для Windows, Экспресс-выпуск для Windows, сборщик IntelliTrace, моделирование SDK, многоязыковая библиотека MFC, расширенная, профессиональная, Управление выпусками, удаленные средства, пакет SDK, оболочка (встроенная), оболочка (изолированная), веб-компоненты
+  Данное правило распространяется на следующие выпуски: Agents, All, Community, Express for Web, Express for Windows, Express for Windows Desktop, IntelliTrace Collector, Modeling SDK, Multibyte MFC Library, Premium, Professional, Release Management, Remote Tools, SDK, Оболочка (интегрированная), Оболочка (изолированная), Team Explorer, Test Professional, Ultimate, Visual C++ Redistributable, Web Tools Extensions
 
 products:
 - vs
@@ -30,4 +30,4 @@ releases:
 - version: Original Release
   startDate: 01/15/2014
   endDate: 04/09/2024
-content: "\n## <a name=\"links\"></a>Ссылки \n* [Сведения об обслуживании](https://www.visualstudio.com/productinfo/vs-servicing-vs)\n\n\n## <a name=\"editions\"></a>2003 \n* Агенты\n* Все\n* Сообщество\n* Express для Web\n* Express для Windows\n* Express для рабочего стола Windows\n* Сборщик IntelliTrace\n* Моделирование пакета SDK\n* Многобайтовая библиотека MFC\n* Расширенная версия\n* Профессиональные\n* Управление выпусками\n* Средства удаленного меню\n* Пакет SDK\n* Shell (встроенная)\n* Shell (изолированный)\n* Командный обозреватель\n* Тестовый специалист\n* Ultimate\n* Распространяемый компонент Visual C++\n* Расширения веб-средств"
+content: "\n## <a name=\"links\"></a>Ссылки \n* [Сервисная информация](https://www.visualstudio.com/productinfo/vs-servicing-vs)\n\n\n## <a name=\"editions\"></a>Выпуски \n* Agents\n* Все\n* Community\n* Express для Web\n* Express for Windows\n* Express для настольных компьютеров Windows\n* IntelliTrace Collector\n* Пакет SDK для моделирования\n* Multibyte MFC Library\n* Premium\n* Professional\n* Release Management\n* Инструменты удаленной отладки\n* SDK\n* Оболочка (интегрированная)\n* Оболочка (изолированная)\n* Team Explorer\n* Test Professional\n* Максимальный\n* Visual C++ Redistributable\n* Web Tools Extensions"

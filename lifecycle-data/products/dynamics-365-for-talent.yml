@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Dynamics 365 для специалистов
-  description: Dynamics 365 для специалистов следует за современной политикой жизненного цикла.
+  title: Dynamics 365 for Talent
+  description: Dynamics 365 for Talent следует Современной политике жизненного цикла.
   ms.date: 07/28/2020
   ms.openlocfilehash: d6dc50f8fa82bcf711b79df464c150fdbf9d1ec6
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ru-RU
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "871748"
-name: Dynamics 365 для специалистов
+name: Dynamics 365 for Talent
 summary: >+
-  Dynamics 365 для специалистов следует за [современной](/lifecycle/policies/modern) политикой жизненного цикла.
+  Dynamics 365 for Talent следует [Современной](/lifecycle/policies/modern) политике жизненного цикла.
 
 
-  Это относится к следующим выпускам: встроенный
+  Данное правило распространяется на следующие выпуски: Onboard
 
 products:
 - dynamics
@@ -26,4 +26,4 @@ releases:
 - version: Original Release
   startDate: 07/31/2017
   endDate: 02/02/2022
-content: "\n## <a name=\"links\"></a>Ссылки \n* [Требования к системе](/dynamics365/talent/talent-versions-update-policy#supported-microsoft-office-applications)\n* [Руководство по миграции](https://cloudblogs.microsoft.com/dynamics365/bdm/2019/12/06/building-a-more-successful-workforce-with-dynamics-365-human-resources)\n\n> [!NOTE]\n> Приложения для привлечения и встроенных приложений будут прекращены в течение 2 февраля 2022 г.  Основной HR, перезапущенный в качестве Dynamics 365 отдела кадров Dynamics на 1 февраля 2020, приведен в статье Руководство по миграции для получения дополнительных сведений.\n\n## <a name=\"editions\"></a>2003 \n* Onboard"
+content: "\n## <a name=\"links\"></a>Ссылки \n* [Системные требования](/dynamics365/talent/talent-versions-update-policy#supported-microsoft-office-applications)\n* [Руководство по миграции](https://cloudblogs.microsoft.com/dynamics365/bdm/2019/12/06/building-a-more-successful-workforce-with-dynamics-365-human-resources)\n\n> [!NOTE]\n> Приложения Attract и Onboard будут отозваны 2 февраля 2022 года.  Ключевые функции управления кадрами возобновили работу в качестве Dynamics 365 Human Resources с 1 февраля 2020 года, см. руководство по миграции для получения дополнительной информации.\n\n## <a name=\"editions\"></a>Выпуски \n* Onboard"

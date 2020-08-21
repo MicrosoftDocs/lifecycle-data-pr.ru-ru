@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Windows 10 IoT Корпоративная
-  description: Windows 10 IoT Enterprise соответствует современным политикам жизненного цикла.
+  description: Windows 10 IoT Корпоративная следует Современной политике жизненного цикла.
   ms.date: 07/30/2020
   ms.openlocfilehash: 159055d404da77afef0694120dc1c2faf04a22e3
   ms.sourcegitcommit: e3a3bd051020add66386d68528657bb59240d90b
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ru-RU
   ms.lasthandoff: 07/30/2020
   ms.locfileid: "879093"
 name: Windows 10 IoT Корпоративная
 summary: >
-  Windows 10 IoT Enterprise соответствует [современным](/lifecycle/policies/modern) политикам жизненного цикла.
+  Windows 10 IoT Корпоративная следует [Современной](/lifecycle/policies/modern) политике жизненного цикла.
 
 
 
   > [!IMPORTANT]
 
-  > Корпорация Майкрософт продолжит поддерживать по крайней мере один одноежегодный канал Windows 10 до 14 октября 2025 г.
+  > Майкрософт будет продолжать поддерживать по крайней мере один полугодовой канал Windows 10 до 14 октября 2025 года.
 products:
 - windows
 policyType: modern-on-prem
@@ -55,4 +55,4 @@ releases:
 - version: Version 1507
   startDate: 07/29/2015
   endDate: 05/09/2017
-content: "\n## <a name=\"links\"></a>Ссылки \n* [Обзор Windows 10 IoT Корпоративная](/windows/iot-core/windows-iot-enterprise)\n* [Лист фактов жизненного цикла Windows](https://support.microsoft.com/help/13853/windows-lifecycle-fact-sheet)\n* [Windows как служба (Ваас)](/windows/deployment/update/waas-quick-start)\n* [Вопросы и ответы по жизненному циклу: продукты Windows](/lifecycle/faq/windows)\n\n> [!NOTE]\n> Если отложить установку, последующее обновление компонентов в полугодовой канале Windows 10 может быть установлено до указанной даты окончания основной даты поддержки."
+content: "\n## <a name=\"links\"></a>Ссылки \n* [Обзор Windows 10 IoT Корпоративная](/windows/iot-core/windows-iot-enterprise)\n* [Информационный бюллетень о жизненном цикле Windows](https://support.microsoft.com/help/13853/windows-lifecycle-fact-sheet)\n* [Windows as a Service (WaaS)](/windows/deployment/update/waas-quick-start)\n* [Часто задаваемые вопросы по жизненному циклу – продукты Windows](/lifecycle/faq/windows)\n\n> [!NOTE]\n> Если не будет отложено, последующие обновления функций полугодового канала Windows 10 могут быть установлены до указанной даты окончания основной поддержки."

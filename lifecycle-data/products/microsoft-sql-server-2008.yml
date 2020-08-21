@@ -1,25 +1,25 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft SQL Server 2008
-  description: Microsoft SQL Server 2008 следует за фиксированной политикой жизненного цикла.
+  description: Microsoft SQL Server 2008 следует Фиксированной политике жизненного цикла.
   ms.date: 08/03/2020
   ms.openlocfilehash: 15d47cb19d68d2ebb70659d43f7341eba2db1663
   ms.sourcegitcommit: ea5579a833360652f47792f68134e2b25be4d487
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ru-RU
   ms.lasthandoff: 08/04/2020
   ms.locfileid: "882229"
 name: Microsoft SQL Server 2008
 summary: >
-  Microsoft SQL Server 2008 следует за [фиксированной](/lifecycle/policies/fixed) политикой жизненного цикла.
+  Microsoft SQL Server 2008 следует [Фиксированной](/lifecycle/policies/fixed) политике жизненного цикла.
 
 
-  Это относится к следующим выпускам: Datacenter, Developer, Enterprise, Express, Express с дополнительными службами, Standard, Standard Edition для малого бизнеса, Web, Workgroup
+  Данное правило распространяется на следующие выпуски: Datacenter, разработчик, Enterprise, Express, Express with Advanced Services, Standard, стандартная версия для малого бизнеса, Web, Workgroup
 
 
   > [!IMPORTANT]
 
-  > Поддержка этого продукта завершена. Ниже приведены рекомендации по миграции.
+  > Поддержка этого продукта закончилась. См. ниже руководство по миграции.
 products:
 - sql-server
 policyType: fixed
@@ -43,4 +43,4 @@ releases:
 - version: Original Release
   startDate: 11/06/2008
   endDate: 04/13/2010
-content: "> [!TIP]\n> Расширенные обновления для системы безопасности (ЕСУ) доступны для выпусков Datacenter, Standard, Enterprise, Web и Workgroup для рабочих групп в течение еще трех лет после конца поддержки.\nДата начала отпускания-----------------------------------даты окончания\n\nРасширенное обновление для системы безопасности Year 3---07/13/2021---07/12/2022\n\nРасширенное обновление для системы безопасности Year 2---07/14/2021---07/13/2021\n\nПродленное обновление для системы безопасности год 1---07/9/2019---07/14/2020\n\n\n## <a name=\"links\"></a>Ссылки \n* [Руководство по миграции](https://azure.microsoft.com/blog/announcing-new-options-for-sql-server-2008-and-windows-server-2008-end-of-support/)\n* [Политика пакетов обновления](/lifecycle/policies/fixed#service-packs)\n* [Расширенная программа обновления для системы безопасности (ЕСУ)](/lifecycle/faq/extended-security-updates)\n* [Блог служб выпуска SQL](https://blogs.msdn.com/b/sqlreleaseservices/archive/2014/09/26/sql-server-2008-r2-service-pack-3-has-released.aspx)\n\n> [!NOTE]\n> Только для IA64, пакет обновления 3 (SP3) будет поддерживаться до 7/9/2019.\n\n## <a name=\"editions\"></a>2003 \n* Центр данных\n* Developer\n* Корпоративная версия\n* Прямых\n* Express с дополнительными службами\n* Standard\n* Выпуск Standard Edition для малого бизнеса\n* Web\n* Рабочую"
+content: "> [!TIP]\n> Расширенные обновления безопасности (ESU) доступны для изданий Datacenter, Standard, Enterprise, Web и Workgroup этого продукта в течение дополнительных трех лет после окончания поддержки.\nВыпуск-------------------------------Дата начала----Дата окончания\n\nРасширенное обновление безопасности год 3---13/07/2021---12/07/2022\n\nРасширенное обновление безопасности год 2---14/07/2021---13/07/2021\n\nРасширенное обновление безопасности год 1---09/07/2019---14/07/2020\n\n\n## <a name=\"links\"></a>Ссылки \n* [Руководство по миграции](https://azure.microsoft.com/blog/announcing-new-options-for-sql-server-2008-and-windows-server-2008-end-of-support/)\n* [Политика пакетов обновления](/lifecycle/policies/fixed#service-packs)\n* [Программа расширенных обновлений безопасности](/lifecycle/faq/extended-security-updates)\n* [SQL Release Services Blog](https://blogs.msdn.com/b/sqlreleaseservices/archive/2014/09/26/sql-server-2008-r2-service-pack-3-has-released.aspx)\n\n> [!NOTE]\n> Только для IA64, SP3 будет поддерживаться до 09/07/2019.\n\n## <a name=\"editions\"></a>Выпуски \n* Datacenter\n* Developer\n* Предприятие\n* Express\n* Express with Advanced Services\n* Стандартный\n* Стандартный выпуск для малого бизнеса\n* Web\n* Рабочая группа"
