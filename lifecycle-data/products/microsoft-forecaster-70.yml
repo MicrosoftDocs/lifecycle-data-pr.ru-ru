@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft прогнозирует 7,0
-  description: Microsoft ПРЕДСКАЗ 7,0 следует за фиксированной политикой жизненного цикла.
+  title: Microsoft Forecaster 7.0
+  description: Microsoft Forecaster 7.0 следует Фиксированной политике жизненного цикла.
   ms.date: 07/28/2020
   ms.openlocfilehash: e9af608bbdf2d19517b58ebe46d545b09078be8d
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ru-RU
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "835879"
-name: Microsoft прогнозирует 7,0
+name: Microsoft Forecaster 7.0
 summary: >+
-  Microsoft ПРЕДСКАЗ 7,0 следует за [фиксированной](/lifecycle/policies/fixed) политикой жизненного цикла.
+  Microsoft Forecaster 7.0 следует [Фиксированной](/lifecycle/policies/fixed) политике жизненного цикла.
 
 
 products:
@@ -40,4 +40,4 @@ releases:
 - version: Original Release
   startDate: 05/30/2007
   endDate: 01/13/2009
-content: "\n## <a name=\"links\"></a>Ссылки \n* [Руководство по миграции](https://mbs.microsoft.com/customersource/northamerica/news-events/news-events/news/ForecasterDiscontinuationNoticeGP)\n* [Политика пакетов обновления](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Поддержка прогноза заканчивается на указанную дату, если она не распространяется как компонент продукта Dynamics. При распределении с продуктом Dynamics даты жизненного цикла Dynamics переопределяют дату прогноза."
+content: "\n## <a name=\"links\"></a>Ссылки \n* [Руководство по миграции](https://mbs.microsoft.com/customersource/northamerica/news-events/news-events/news/ForecasterDiscontinuationNoticeGP)\n* [Политика пакетов обновления](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Поддержка Forecaster заканчивается в указанную дату, если она не была распространена в качестве Компонента продукта Dynamics. При распространении с продуктом Dynamics даты жизненного цикла Dynamics имеют приоритет над датой Forecaster."

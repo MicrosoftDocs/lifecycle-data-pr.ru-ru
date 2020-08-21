@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Инфраструктура Microsoft для клиентов 2009
-  description: Платформа Microsoft для поддержки здравоохранения 2009 соответствует фиксированной политике жизненного цикла.
+  title: Система обслуживания клиентов Майкрософт 2009
+  description: Microsoft Care Framework 2009 следует Фиксированной политике жизненного цикла.
   ms.date: 07/28/2020
   ms.openlocfilehash: 07cce0f3cd5c2fc54a88defb59031e3e9f8f04e8
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ru-RU
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "835888"
-name: Инфраструктура Microsoft для клиентов 2009
+name: Система обслуживания клиентов Майкрософт 2009
 summary: >
-  Платформа Microsoft для поддержки здравоохранения 2009 соответствует [фиксированной](/lifecycle/policies/fixed) политике жизненного цикла.
+  Microsoft Customer Care Framework 2009 следует [Фиксированной](/lifecycle/policies/fixed) политике жизненного цикла.
 
 
 
   > [!IMPORTANT]
 
-  > Поддержка завершена. Ниже приведены рекомендации по миграции.
+  > Поддержка закончилась. См. ниже руководство по миграции.
 products:
 - customer-care-framework
 policyType: fixed
