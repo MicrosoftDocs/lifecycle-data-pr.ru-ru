@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Lync 2010
-  description: Microsoft Lync 2010 следует за фиксированной политикой жизненного цикла.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 2a5d4651d05052e79c1c28309fc8ad530e584aec
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  description: Microsoft Lync 2010 следует фиксированной политике жизненного цикла.
+  ms.date: 08/21/2020
+  ms.openlocfilehash: 815ef4b3c8026b5d508d221acfc67cae25770bcd
+  ms.sourcegitcommit: c4013bce086aedc575584ea34b1acb5c27d06a1b
   ms.translationtype: MT
   ms.contentlocale: ru-RU
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "861424"
+  ms.lasthandoff: 08/21/2020
+  ms.locfileid: "907961"
 name: Microsoft Lync 2010
 summary: >+
-  Microsoft Lync 2010 следует за [фиксированной](/lifecycle/policies/fixed) политикой жизненного цикла.
+  Microsoft Lync 2010 следует фиксированной [политике](/lifecycle/policies/fixed) жизненного цикла.
 
 
-  Это относится к следующим выпускам: секретарь, участник, Групповый чат, Стандартный
+  Это относится к следующим выпускам: помощник, участник, групповой чат, стандартный
 
 products:
 - office
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 01/25/2011
   endDate: 04/13/2021
-content: "\n\n\n## <a name=\"editions\"></a>2003 \n* Автосекретаря\n* Attendee\n* Групповой чат\n* Standard"
+content: "\n\n\n## <a name=\"editions\"></a>Выпуски \n* Attendant\n* Attendee\n* Групповой чат\n* Стандартный"
