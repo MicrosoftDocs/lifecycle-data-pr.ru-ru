@@ -1,0 +1,33 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows Server 2003 R2 (требуется проверка PG)
+  description: Windows Server 2003 R2 (требуется проверка PG) следует политике фиксированного жизненного цикла.
+  ms.date: 08/13/2020
+  ms.openlocfilehash: 8678c0ae8e2f3fa1a94459baad951411c5f10fd1
+  ms.sourcegitcommit: f5095aa6fc41dcc71c883cae08719b5b6bf9585c
+  ms.translationtype: HT
+  ms.contentlocale: ru-RU
+  ms.lasthandoff: 08/20/2020
+  ms.locfileid: "905960"
+name: Windows Server 2003 R2 (требуется проверка PG)
+summary: >+
+  Windows Server 2003 R2 (требуется проверка PG) следует политике [фиксированного](/lifecycle/policies/fixed) жизненного цикла.
+
+
+  Данное правило распространяется на следующие выпуски: Центр обработки данных, Центр обработки данных (32-разрядный x86), Центр обработки данных (x64), Корпоративная (32-разрядный x86), Корпоративная X64, Стандартный (32-разрядный x86), Стандартный X64
+
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 03/05/2006
+  end: 07/13/2010
+  extendedEnd: 07/14/2015
+releases:
+- version: Service Pack 2
+  startDate: 03/13/2007
+  endDate: 07/14/2015
+- version: Original Release
+  startDate: 03/05/2006
+  endDate: 04/14/2009
+content: "\n## <a name=\"links\"></a>Ссылки \n* [Политика пакетов обновления](/lifecycle/policies/fixed#service-packs)\n* [Поддерживаемые пути для обновления с Windows Server 2003 до Windows Server 2008](https://support.microsoft.com/help/951041/supported-paths-for-upgrading-from-windows-server-2003-to-windows-serv)\n* [Подготовка компьютеров Windows Server 2003 к миграции](/azure/migrate/prepare-windows-server-2003-migration)\n\n\n## <a name=\"editions\"></a>Выпуски \n* Datacenter\n* Центр обработки данных (32-разрядный x86)\n* Центр обработки данных (x64)\n* Корпоративная (32-разрядный x86)\n* Enterprise X64\n* Стандартный (32-разрядный x86)\n* Standard X64"
