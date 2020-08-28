@@ -2,19 +2,19 @@
 metadata:
   title: Windows Vista
   description: Windows Vista следует Фиксированной политике жизненного цикла.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: e2e6ab946bf405ed524f07047d055a786d7174dc
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 08/19/2020
+  ms.openlocfilehash: 5c98fe7339f950e080d2ae0450774abb13d9e7c6
+  ms.sourcegitcommit: 70c4608ec6344869c74ed63ff3f0e2ccb0dce3a0
   ms.translationtype: HT
   ms.contentlocale: ru-RU
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "835378"
+  ms.lasthandoff: 08/19/2020
+  ms.locfileid: "903100"
 name: Windows Vista
 summary: >
   Windows Vista следует [Фиксированной](/lifecycle/policies/fixed) политике жизненного цикла.
 
 
-  Данное правило распространяется на следующие выпуски: Для бизнеса, Business N, Корпоративная, Корпоративная X64, Домашняя базовая, Домашняя базовая 64-разрядная, Домашняя базовая N, Домашняя базовая N 64-разрядная, Домашняя расширенная, Домашняя расширенная 64-разрядная, Начальная, Ultimate, Ultimate 64-разрядная
+  Данное правило распространяется на следующие выпуски: Для бизнеса, Для бизнеса N, Для бизнеса N 64-разрядный, Предприятие, Предприятие X64, Домашняя базовая, Домашняя базовая 64-разрядная, Домашняя базовая N, Домашняя базовая N 64-разрядная, Home Premium, Home Premium 64-разрядная, Начальная, Ultimate, Ultimate 64-разрядный
 
 
   > [!IMPORTANT]
@@ -37,4 +37,4 @@ releases:
 - version: Original Release
   startDate: 01/25/2007
   endDate: 04/13/2010
-content: "\n## <a name=\"links\"></a>Ссылки \n* [Руководство по миграции](https://support.microsoft.com/help/22882/windows-vista-end-of-support)\n* [Обновление и миграция Windows](/windows/deployment/upgrade/windows-upgrade-and-migration-considerations)\n* [Политика пакетов обновления](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Выпуски \n* Для бизнеса\n* Business N\n* Предприятие\n* Enterprise X64\n* Домашняя базовая\n* Домашняя базовая 64-разрядная\n* Домашняя базовая N\n* Домашняя базовая N 64-разрядная\n* Домашняя расширенная\n* Домашняя расширенная 64-разрядная\n* Начальная\n* Максимальный\n* Ultimate 64-разрядная"
+content: "\n## <a name=\"links\"></a>Ссылки \n* [Руководство по миграции](https://support.microsoft.com/help/22882/windows-vista-end-of-support)\n* [Обновление и миграция Windows](/windows/deployment/upgrade/windows-upgrade-and-migration-considerations)\n* [Политика пакетов обновления](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Выпуски \n* Для бизнеса\n* Business N\n* Для бизнеса N 64-разрядный\n* Предприятие\n* Enterprise X64\n* Домашняя базовая\n* Домашняя базовая 64-разрядная\n* Домашняя базовая N\n* Домашняя базовая N 64-разрядная\n* Домашняя расширенная\n* Домашняя расширенная 64-разрядная\n* Начальная\n* Максимальный\n* Ultimate 64-разрядная"

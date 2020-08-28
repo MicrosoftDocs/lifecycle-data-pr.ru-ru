@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Office 2013;
-  description: Microsoft Office 2013 следует Фиксированной политике жизненного цикла.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 57eeaf9939d11f53914fef0e92795621dfb9db44
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  description: Microsoft Office 2013 следует политике фиксированного жизненного цикла.
+  ms.date: 08/19/2020
+  ms.openlocfilehash: 144877196e495c44a75cc95487426038c5321751
+  ms.sourcegitcommit: f2f920f4a81a356fb71402238234768a9e90fd51
   ms.translationtype: HT
   ms.contentlocale: ru-RU
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "861749"
+  ms.lasthandoff: 08/20/2020
+  ms.locfileid: "905261"
 name: Microsoft Office 2013;
 summary: >+
-  Microsoft Office 2013 следует [Фиксированной](/lifecycle/policies/fixed) политике жизненного цикла.
+  Microsoft Office 2013 следует политике [фиксированного](/lifecycle/policies/fixed) жизненного цикла.
 
 
-  Данное правило распространяется на следующие выпуски: Для дома и бизнеса, Для дома и учебы,Профессиональный, Профессиональный плюс, Home Use Program профессиональный плюс, Стандартный, сервер Web Apps
+  Данное правило распространяется на следующие выпуски: Для дома и бизнеса, Для дома и учебы, Пакет многоязычного интерфейса, профессиональный, Профессиональный плюс, программа использования ПО на домашних компьютерах Профессиональный плюс, Стандартный, Сервер Web Apps
 
 products:
 - office
@@ -30,4 +30,4 @@ releases:
 - version: Original Release
   startDate: 01/09/2013
   endDate: 04/14/2015
-content: "\n## <a name=\"links\"></a>Ссылки \n* [Руководство по миграции](https://www.microsoft.com/microsoft-365/previous-versions/microsoft-office-2013)\n* [Политика пакетов обновления](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Пакет обновлений 1 не распространяется на выпуск сервера Web Apps. \n\n## <a name=\"editions\"></a>Выпуски \n* Для дома и бизнес\n* Для дома и учебы\n* Professional\n* Профессиональный плюс\n* Home Use Program профессиональный плюс\n* Стандартный\n* Сервер Web Apps"
+content: "\n## <a name=\"links\"></a>Ссылки \n* [Руководство по миграции](https://www.microsoft.com/microsoft-365/previous-versions/microsoft-office-2013)\n* [Политика пакетов обновления](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Пакет обновлений 1 не распространяется на выпуск сервера Web Apps. \n\n## <a name=\"editions\"></a>Выпуски \n* Для дома и бизнес\n* Для дома и учебы\n* Пакет многоязычного интерфейса\n* Professional\n* Профессиональный плюс\n* Home Use Program профессиональный плюс\n* Стандартный\n* Сервер Web Apps"
