@@ -1,0 +1,27 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Порталы адксстудио v7. x
+  description: Адксстудио порталы v7. x соответствует фиксированной политике жизненного цикла.
+  ms.date: 08/28/2020
+  ms.openlocfilehash: 5b9bb57b3e2e036f484196a07dcf60aa0e8912e1
+  ms.sourcegitcommit: 570c824dbe19150d37398333df7d2c416a51eac9
+  ms.translationtype: MT
+  ms.contentlocale: ru-RU
+  ms.lasthandoff: 08/28/2020
+  ms.locfileid: "924426"
+name: Порталы адксстудио v7. x
+summary: >+
+  Адксстудио порталы v7. x соответствует [фиксированной](/lifecycle/policies/fixed) политике жизненного цикла.
+
+
+products:
+- dynamics
+policyType: fixed
+supportDates:
+  start: 09/29/2015
+  extendedEnd: 08/01/2018
+releases:
+- version: v7.x
+  startDate: 09/29/2015
+  endDate: 08/01/2018
+content: "\n## <a name=\"links\"></a>Ссылки \n* [Руководство по миграции](https://cloudblogs.microsoft.com/dynamics365/it/2017/09/14/changes-coming-for-legacy-adxstudio-portals-v7/?source=crm)\n\n> [!NOTE]\n> Поддержка этого продукта зависит от условий его приобретения и закончилась. См. ниже руководство по миграции."
