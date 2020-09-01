@@ -2,19 +2,20 @@
 metadata:
   title: Windows Storage Server 2016
   description: Windows Storage Server 2016 следует за фиксированной политикой жизненного цикла.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: f29c2a9498dac1ce791c1b9f1967d132a0bdec98
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.date: 09/01/2020
+  keywords: Standard,Workgroup
+  ms.openlocfilehash: 3c0a7d1d5f6f5a73282c35ad96c1b0a036f938d1
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: ru-RU
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "861499"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "938978"
 name: Windows Storage Server 2016
 summary: >+
   Windows Storage Server 2016 следует за [фиксированной](/lifecycle/policies/fixed) политикой жизненного цикла.
 
 
-  Это относится к следующим выпускам: Standard, Workgroup
+  Данное правило распространяется на следующие выпуски: Standard, Workgroup
 
 products:
 - windows
@@ -27,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 10/15/2016
   endDate: 01/12/2027
-content: "\n## <a name=\"links\"></a>Ссылки \n* [Вопросы и ответы по жизненному циклу: продукты Windows](/lifecycle/faq/windows)\n* [Сведения о продукте](/windows-server/storage/whats-new-in-storage)\n\n\n## <a name=\"editions\"></a>2003 \n* Standard\n* Рабочую"
+content: "\n## <a name=\"links\"></a>Ссылки \n* [Часто задаваемые вопросы по жизненному циклу – продукты Windows](/lifecycle/faq/windows)\n* [Информация о продукте](/windows-server/storage/whats-new-in-storage)\n\n\n## <a name=\"editions\"></a>Выпуски \n* Стандартный\n* Рабочая группа"
