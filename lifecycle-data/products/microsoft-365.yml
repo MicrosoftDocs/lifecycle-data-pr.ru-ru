@@ -2,13 +2,14 @@
 metadata:
   title: Microsoft 365
   description: Microsoft 365 соответствует современным политикам жизненного цикла.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 305fc57c897c1f8b2eb95b170d5b8403e1ea35ee
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.date: 09/01/2020
+  keywords: Business,Education,Enterprise,Government
+  ms.openlocfilehash: 49d1c65ad462a3ce987df621004cf7341ac4aa23
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: ru-RU
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "861705"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "935981"
 name: Microsoft 365
 summary: >+
   Microsoft 365 соответствует [современным](/lifecycle/policies/modern) политикам жизненного цикла.
@@ -24,4 +25,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 09/22/2015
-content: "\n## <a name=\"links\"></a>Ссылки \n* [План выпуска Microsoft 365](https://www.microsoft.com/microsoft-365/roadmap)\n* [Требования к системе](https://www.microsoft.com/microsoft-365/microsoft-365-and-office-resources)\n\n\n## <a name=\"editions\"></a>2003 \n* Бизнес\n* Образование\n* Корпоративная версия\n* Государственные организации"
+content: "\n## <a name=\"links\"></a>Ссылки \n* [План выпуска Microsoft 365](https://www.microsoft.com/microsoft-365/roadmap)\n* [Системные требования](https://www.microsoft.com/microsoft-365/microsoft-365-and-office-resources)\n\n\n## <a name=\"editions\"></a>Выпуски \n* Для бизнеса\n* Для образовательных учреждений\n* Предприятие\n* Государственные организации"
