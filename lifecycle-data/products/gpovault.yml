@@ -1,20 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: GPOVault
-  description: GPOVault следует фиксированной политике жизненного цикла.
-  ms.date: 08/19/2020
-  ms.openlocfilehash: e45e18b2973a9555f95d973141a523dffa34da28
-  ms.sourcegitcommit: acbc3d1849bad925ef030cf951960bd7eb1b4e42
+  title: гповаулт
+  description: Гповаулт следует за фиксированной политикой жизненного цикла.
+  ms.date: 09/01/2020
+  keywords: 1.0,2.0,Enterprise 1.0,Enterprise 2.0
+  ms.openlocfilehash: 9b9051b56046f5f3605b877b3562039ea241bfe3
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: ru-RU
-  ms.lasthandoff: 08/19/2020
-  ms.locfileid: "903741"
-name: GPOVault
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "936018"
+name: гповаулт
 summary: >+
-  GPOVault следует [фиксированной политике](/lifecycle/policies/fixed) жизненного цикла.
+  Гповаулт следует за [фиксированной](/lifecycle/policies/fixed) политикой жизненного цикла.
 
 
-  Это относится к следующим выпускам: 1.0, 2,0, Enterprise 1.0, Enterprise 2.0
+  Это относится к следующим выпускам: 1,0, 2,0, Enterprise 1,0, Enterprise 2,0
 
 products:
 - windows
@@ -26,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 01/01/2007
   endDate: 01/12/2010
-content: "\n\n> [!NOTE]\n> Поддержку этого продукта распространяются на условия приобретения. \n\n## <a name=\"editions\"></a>Выпуски \n* 1.0\n* 2.0\n* Корпоративная версия 1.0\n* Enterprise 2.0"
+content: "\n\n> [!NOTE]\n> Поддержка данного продукта предоставляется в соответствии с условиями, указанными при его приобретении. \n\n## <a name=\"editions\"></a>Выпуски \n* 1.0\n* 2.0\n* Корпоративный 1,0\n* Корпоративный 2,0"
