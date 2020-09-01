@@ -2,15 +2,16 @@
 metadata:
   title: Виртуальный сервер 2005 R2
   description: Виртуальный сервер 2005 R2 соответствует фиксированной политике жизненного цикла.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 9a66e757579adfefd5a7b2dd3f2ee034dcf0a8b6
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 09/01/2020
+  keywords: Enterprise,Standard
+  ms.openlocfilehash: 0d4c323a758219f240fc6efbc4ebcfc99e470241
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: ru-RU
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "835763"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "937942"
 name: Виртуальный сервер 2005 R2
-summary: "Виртуальный сервер 2005 R2 соответствует [фиксированной](/lifecycle/policies/fixed) политике жизненного цикла.\n\nЭто относится к следующим выпускам: Enterprise, Standard\n\n> [!IMPORTANT]\n> Поддержка этого продукта завершена. \n"
+summary: "Виртуальный сервер 2005 R2 соответствует [фиксированной](/lifecycle/policies/fixed) политике жизненного цикла.\n\nДанное правило распространяется на следующие выпуски: Enterprise, Standard\n\n> [!IMPORTANT]\n> Поддержка этого продукта закончилась. \n"
 products:
 - windows
 policyType: fixed
@@ -25,4 +26,4 @@ releases:
 - version: Original Release
   startDate: 01/28/2006
   endDate: 07/08/2008
-content: "\n## <a name=\"links\"></a>Ссылки \n* [Политика пакетов обновления](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>2003 \n* Корпоративная версия\n* Standard"
+content: "\n## <a name=\"links\"></a>Ссылки \n* [Политика пакетов обновления](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Выпуски \n* Предприятие\n* Стандартный"
