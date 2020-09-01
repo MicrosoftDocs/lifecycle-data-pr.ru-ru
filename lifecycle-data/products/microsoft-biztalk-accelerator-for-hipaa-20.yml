@@ -1,20 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft BizTalk Accelerator для HIPAA 2.0
-  description: Microsoft BizTalk Accelerator for HIPAA 2.0 следует фиксированной политике жизненного цикла.
-  ms.date: 08/19/2020
-  ms.openlocfilehash: 09c6fc47a6b2f21bb6325d7451927076984c2a5f
-  ms.sourcegitcommit: acbc3d1849bad925ef030cf951960bd7eb1b4e42
+  title: Microsoft BizTalk Accelerator Accelerator для HIPAA 2,0
+  description: Microsoft BizTalk Accelerator Accelerator для HIPAA 2,0 следует за фиксированной политикой жизненного цикла.
+  ms.date: 09/01/2020
+  keywords: Enterprise,Standard
+  ms.openlocfilehash: aab9e80e120618a791c1636446425b56d9d36995
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: ru-RU
-  ms.lasthandoff: 08/19/2020
-  ms.locfileid: "904458"
-name: Microsoft BizTalk Accelerator для HIPAA 2.0
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "935315"
+name: Microsoft BizTalk Accelerator Accelerator для HIPAA 2,0
 summary: >+
-  Microsoft BizTalk Accelerator for HIPAA 2.0 следует [фиксированной](/lifecycle/policies/fixed) политике жизненного цикла.
+  Microsoft BizTalk Accelerator Accelerator для HIPAA 2,0 следует за [фиксированной](/lifecycle/policies/fixed) политикой жизненного цикла.
 
 
-  Это относится к следующим выпускам: Корпоративная, Standard
+  Данное правило распространяется на следующие выпуски: Enterprise, Standard
 
 products:
 - microsoft-servers
@@ -27,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 02/15/2003
   endDate: 04/09/2013
-content: "\n\n\n## <a name=\"editions\"></a>Выпуски \n* Корпоративная версия\n* Standard"
+content: "\n\n\n## <a name=\"editions\"></a>Выпуски \n* Предприятие\n* Стандартный"
