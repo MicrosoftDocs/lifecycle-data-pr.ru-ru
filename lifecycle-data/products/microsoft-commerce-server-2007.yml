@@ -1,25 +1,25 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Commerce Server 2007
-  description: Microsoft Commerce Server 2007 следует за фиксированной политикой жизненного цикла.
+  title: Microsoft Commerce Server 2007
+  description: Microsoft Commerce Server 2007 следует Политике фиксированного жизненного цикла.
   ms.date: 08/12/2020
   ms.openlocfilehash: 428d4ea2be6f7edfd13e14a297a4795d02575ed7
   ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ru-RU
   ms.lasthandoff: 08/13/2020
   ms.locfileid: "893475"
-name: Microsoft Commerce Server 2007
+name: Microsoft Commerce Server 2007
 summary: >
-  Microsoft Commerce Server 2007 следует за [фиксированной](/lifecycle/policies/fixed) политикой жизненного цикла.
+  Microsoft Commerce Server 2007 следует Политике [фиксированного](/lifecycle/policies/fixed) жизненного цикла.
 
 
-  Это относится к следующим выпускам: Developer, Enterprise, Standard
+  Применимо к следующим выпускам: Developer, Enterprise, Standard
 
 
   > [!IMPORTANT]
 
-  > Поддержка этого продукта завершена.
+  > Поддержка этого продукта закончилась.
 products:
 - microsoft-servers
 policyType: fixed
@@ -37,4 +37,4 @@ releases:
 - version: Original Release
   startDate: 06/16/2006
   endDate: 07/08/2008
-content: "\n## <a name=\"links\"></a>Links \n* [Политика пакетов обновления](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>2003 \n* Developer\n* Корпоративная версия\n* Standard"
+content: "\n## <a name=\"links\"></a>Ссылки \n* [Политика пакетов обновления](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Выпуски \n* Developer\n* Предприятие\n* Стандартный"

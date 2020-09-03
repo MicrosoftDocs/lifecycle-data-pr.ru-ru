@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Адаптеры Microsoft BizTalk для ведущих систем 2,0
-  description: Адаптеры Microsoft BizTalk для ведущих систем 2,0 следует об фиксированной политике жизненного цикла.
+  title: Microsoft BizTalk Adapters для Host Systems 2.0
+  description: Microsoft BizTalk Adapters для Host Systems 2.0 следует Политике фиксированного жизненного цикла.
   ms.date: 08/12/2020
   ms.openlocfilehash: 425db6cb5918efdf9afc544d8a0e8bb554ce695c
   ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ru-RU
   ms.lasthandoff: 08/13/2020
   ms.locfileid: "893512"
-name: Адаптеры Microsoft BizTalk для ведущих систем 2,0
+name: Microsoft BizTalk Adapters для Host Systems 2.0
 summary: >+
-  Адаптеры Microsoft BizTalk для ведущих систем 2,0 следует об [фиксированной](/lifecycle/policies/fixed) политике жизненного цикла.
+  Microsoft BizTalk Adapters для Host Systems 2.0 следует Политике [фиксированного](/lifecycle/policies/fixed) жизненного цикла.
 
 
-  Это относится к следующим выпускам: разработчик, Стандартный
+  Применимо к следующим выпускам: Developer, Standard
 
 products:
 - microsoft-servers
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 06/21/2009
   endDate: 07/09/2019
-content: "\n## <a name=\"links\"></a>Links \n* [Руководство по миграции](https://techcommunity.microsoft.com/t5/Host-Integration-Blog/End-of-Support-for-BizTalk-Adapters-for-Host-Systems-2-0/ba-p/269471)\n\n\n## <a name=\"editions\"></a>2003 \n* Developer\n* Standard"
+content: "\n## <a name=\"links\"></a>Ссылки \n* [Руководство по миграции](https://techcommunity.microsoft.com/t5/Host-Integration-Blog/End-of-Support-for-BizTalk-Adapters-for-Host-Systems-2-0/ba-p/269471)\n\n\n## <a name=\"editions\"></a>Выпуски \n* Developer\n* Стандартный"
