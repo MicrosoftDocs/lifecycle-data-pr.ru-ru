@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Dynamics AX 2012 R2
-  description: Dynamics AX 2012 R2 соответствует фиксированной политике жизненного цикла.
+  description: Dynamics AX 2012 R2 следует Политике фиксированного жизненного цикла.
   ms.date: 07/28/2020
   ms.openlocfilehash: 0c416b7a522ce30abd5dc690132e3daa91db99ba
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ru-RU
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "861575"
 name: Dynamics AX 2012 R2
 summary: >+
-  Dynamics AX 2012 R2 соответствует [фиксированной](/lifecycle/policies/fixed) политике жизненного цикла.
+  Dynamics AX 2012 R2 следует Политике [фиксированного](/lifecycle/policies/fixed) жизненного цикла.
 
 
 products:
@@ -25,4 +25,4 @@ releases:
 - version: Original Release
   startDate: 02/19/2013
   endDate: 10/12/2021
-content: "\n## <a name=\"links\"></a>Ссылки \n* [Руководство по миграции](/dynamics365/unified-operations/dev-itpro/migration-upgrade/upgrade-overview-2012)\n* [Программа миграции Dynamics 365](https://dynamics.microsoft.com/migration-program/)\n* [Дополнительные сведения о жизненном цикле](/dynamics365/unified-operations/fin-and-ops/get-started/mainstream-support-ax-2009-2012)\n\n> [!NOTE]\n> Основная поддержка была расширена, как показано ниже."
+content: "\n## <a name=\"links\"></a>Ссылки \n* [Руководство по миграции](/dynamics365/unified-operations/dev-itpro/migration-upgrade/upgrade-overview-2012)\n* [Программа миграции Dynamics 365](https://dynamics.microsoft.com/migration-program/)\n* [Дополнительные сведения о жизненном цикле](/dynamics365/unified-operations/fin-and-ops/get-started/mainstream-support-ax-2009-2012)\n\n> [!NOTE]\n> Основная фаза поддержки была расширена следующим образом."

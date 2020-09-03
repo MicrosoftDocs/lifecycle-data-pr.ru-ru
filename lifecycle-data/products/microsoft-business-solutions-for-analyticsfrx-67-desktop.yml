@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Business Solutions for Analytics--Фркс 6,7 для настольных ПК
-  description: Microsoft Business Solutions for Analytics--Фркс 6,7 Desktop соответствует фиксированной политике жизненного цикла.
+  title: Microsoft Business Solutions for Analytics--FRx 6.7 Desktop
+  description: Microsoft Business Solutions for Analytics--FRx 6.7 Desktop следует Политике фиксированного жизненного цикла.
   ms.date: 07/28/2020
   ms.openlocfilehash: ba731ed0c09140b17a3ebf628e7383065aa65714
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ru-RU
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "835916"
-name: Microsoft Business Solutions for Analytics--Фркс 6,7 для настольных ПК
+name: Microsoft Business Solutions for Analytics--FRx 6.7 Desktop
 summary: >+
-  Microsoft Business Solutions for Analytics--Фркс 6,7 Desktop соответствует [фиксированной](/lifecycle/policies/fixed) политике жизненного цикла.
+  Microsoft Business Solutions for Analytics--FRx 6.7 Desktop следует Политике [фиксированного](/lifecycle/policies/fixed) жизненного цикла.
 
 
 products:
@@ -25,4 +25,4 @@ releases:
 - version: Original Release
   startDate: 05/30/2004
   endDate: 07/08/2014
-content: "\n\n> [!NOTE]\n> Поддержка Фркс заканчивается на указанную дату, если она не распространяется как компонент продукта Dynamics. При распределении с продуктом Dynamics даты жизненного цикла Dynamics переопределяют даты Фркс."
+content: "\n\n> [!NOTE]\n> Поддержка FRx прекратится в указанную дату, если только она не распространяется как Компонент продукта Dynamics. При совместном использовании с продуктом Dynamics дата жизненного цикла Dynamics имеет преимущество над датой FRx."

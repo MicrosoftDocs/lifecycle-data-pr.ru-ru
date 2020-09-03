@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: КПК для Windows Embedded 8,1
-  description: КПК для Windows Embedded 8,1 следует за фиксированной политикой жизненного цикла.
+  title: Windows Embedded 8.1 Handheld
+  description: Windows Embedded 8.1 Handheld следует Политике фиксированного жизненного цикла.
   ms.date: 07/28/2020
   ms.openlocfilehash: 0b19ad1d2a53ee16861bf63a21f6924b3bea1c67
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ru-RU
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "861772"
-name: КПК для Windows Embedded 8,1
+name: Windows Embedded 8.1 Handheld
 summary: >
-  КПК для Windows Embedded 8,1 следует за [фиксированной](/lifecycle/policies/fixed) политикой жизненного цикла.
+  Windows Embedded 8.1 Handheld следует Политике [фиксированного](/lifecycle/policies/fixed) жизненного цикла.
 
 
 
   > [!IMPORTANT]
 
-  > Поддержка этого продукта завершена. Если в вашей организации все еще работают эти платформы и у вас есть дополнительные вопросы, обратитесь в группу учетных записей.
+  > Поддержка этого продукта закончилась. Если ваша организация по-прежнему использует эти платформы и имеет дополнительные вопросы, обратитесь к команде своей учетной записи.
 products:
 - windows
 policyType: fixed-mainstream-only
