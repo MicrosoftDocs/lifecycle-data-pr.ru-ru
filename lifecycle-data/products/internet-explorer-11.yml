@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Internet Explorer 11
-  description: Internet Explorer 11 соответствует политике жизненного цикла компонентов.
+  description: Internet Explorer 11 следует Политике жизненного цикла компонентов.
   ms.date: 08/12/2020
   ms.openlocfilehash: 62c563784a27bf046f85b65ff75c31ec969d0bb6
   ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ru-RU
   ms.lasthandoff: 08/13/2020
   ms.locfileid: "893660"
 name: Internet Explorer 11
 summary: >+
-  Internet Explorer 11 соответствует политике жизненного цикла [компонентов](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) .
+  Internet Explorer 11 следует Политике жизненного цикла [компонентов](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy).
 
 
 products:
@@ -22,4 +22,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 11/13/2013
-content: "\n## <a name=\"links\"></a>Links \n* [Руководство по миграции](https://www.microsoft.com/itpro/microsoft-edge)\n* [Вопросы и ответы по политике жизненного цикла Internet Explorer](/lifecycle/faq/internet-explorer-microsoft-edge)\n\n> [!NOTE]\n> Начиная с 12 января 2016, только самая последняя версия Internet Explorer, доступная для поддерживаемой операционной системы, будет получать техническую поддержку и обновления для системы безопасности."
+content: "\n## <a name=\"links\"></a>Ссылки \n* [Руководство по миграции](https://www.microsoft.com/itpro/microsoft-edge)\n* [Часто задаваемые вопросы о Политике жизненного цикла Internet Explorer](/lifecycle/faq/internet-explorer-microsoft-edge)\n\n> [!NOTE]\n> С 12 января 2016 года техническая поддержка и обновления безопасности будут предоставляться только для последней версии Internet Explorer, доступной для соответствующей операционной системы.\n\n\n"
