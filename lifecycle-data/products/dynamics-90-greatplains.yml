@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Dynamics 9,0 Греатплаинс
-  description: Dynamics 9,0 Греатплаинс следует за фиксированной политикой жизненного цикла.
+  title: Dynamics 9.0 GreatPlains
+  description: Dynamics 9.0 GreatPlains следует Политике фиксированного жизненного цикла.
   ms.date: 07/28/2020
   ms.openlocfilehash: 0015493ad223e4603a77b348f406d9a2df47d315
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ru-RU
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "835325"
-name: Dynamics 9,0 Греатплаинс
+name: Dynamics 9.0 GreatPlains
 summary: >
-  Dynamics 9,0 Греатплаинс следует за [фиксированной](/lifecycle/policies/fixed) политикой жизненного цикла.
+  Dynamics 9.0 GreatPlains следует Политике [фиксированного](/lifecycle/policies/fixed) жизненного цикла.
 
 
 
   > [!IMPORTANT]
 
-  > Поддержка этого продукта завершена.
+  > Поддержка этого продукта закончилась.
 products:
 - dynamics
 policyType: fixed

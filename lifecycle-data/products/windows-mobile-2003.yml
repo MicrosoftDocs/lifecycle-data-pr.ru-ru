@@ -1,25 +1,25 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows Mobile 2003
-  description: Windows Mobile 2003 соответствует фиксированной политике жизненного цикла.
+  title: Windows Mobile 2003
+  description: Windows Mobile 2003 следует Политике фиксированного жизненного цикла.
   ms.date: 07/28/2020
   ms.openlocfilehash: b96e4abc858aaa87a5031200887e906b781878f7
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ru-RU
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "835735"
-name: Windows Mobile 2003
+name: Windows Mobile 2003
 summary: >
-  Windows Mobile 2003 соответствует [фиксированной](/lifecycle/policies/fixed) политике жизненного цикла.
+  Windows Mobile 2003 следует Политике [фиксированного](/lifecycle/policies/fixed) жизненного цикла.
 
 
-  Это относится к следующим выпускам: для Pocket PC, для смартфонов, программного обеспечения второго выпуска для Pocket PC Phone, программного обеспечения второго выпуска для смартфонов
+  Применимо к следующим выпускам: карманные ПК, смартфоны, программное обеспечение Second Edition для Pocket PC Phone, программное обеспечение Second Edition для смартфона
 
 
   > [!IMPORTANT]
 
-  > Поддержка этого продукта завершена.
+  > Поддержка этого продукта закончилась.
 products:
 - windows
 policyType: fixed
@@ -31,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 05/31/2004
   endDate: 07/08/2014
-content: "\n\n\n## <a name=\"editions\"></a>2003 \n* для Pocket PC\n* для смартфонов\n* Программное обеспечение второго выпуска для Pocket PC Phone\n* Программное обеспечение второго выпуска для смартфонов"
+content: "\n\n\n## <a name=\"editions\"></a>Выпуски \n* для карманных ПК\n* для смартфонов\n* Программное обеспечение Second Edition для Pocket PC Phone\n* Программное обеспечение Second Edition для смартфонов"

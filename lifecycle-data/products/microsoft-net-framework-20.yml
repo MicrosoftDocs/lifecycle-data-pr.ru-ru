@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft .NET Framework 2.0
-  description: Microsoft .NET Framework 2,0 следует за фиксированной политикой жизненного цикла.
+  title: Microsoft .NET Framework 2.0;
+  description: Microsoft .NET Framework 2.0 следует Политике фиксированного жизненного цикла.
   ms.date: 07/28/2020
   ms.openlocfilehash: d6d186410b904b018d0d12029387bf88ac0784fb
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ru-RU
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "835865"
-name: Microsoft .NET Framework 2.0
+name: Microsoft .NET Framework 2.0;
 summary: >+
-  Microsoft .NET Framework 2,0 следует за [фиксированной](/lifecycle/policies/fixed) политикой жизненного цикла.
+  Microsoft .NET Framework 2.0 следует Политике [фиксированного](/lifecycle/policies/fixed) жизненного цикла.
 
 
 products:
@@ -31,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 02/17/2006
   endDate: 01/13/2009
-content: "\n## <a name=\"links\"></a>Ссылки \n* [Вопросы и ответы о жизненном цикле — платформа .NET Framework](/lifecycle/faq/dotnet-framework)\n* [Сведения о продукте](/dotnet/framework/migration-guide/versions-and-dependencies#net-framework-20)\n\n> [!NOTE]\n> Поддержка .NET Framework 2,0 закончилась 12 июля 2011 г."
+content: "\n## <a name=\"links\"></a>Ссылки \n* [Часто задаваемые вопросы по жизненному циклу – .NET Framework](/lifecycle/faq/dotnet-framework)\n* [Информация о продукте](/dotnet/framework/migration-guide/versions-and-dependencies#net-framework-20)\n\n> [!NOTE]\n> Поддержка .NET Framework 2.0 прекращена 12 июля 2011 года. \n\n\n"

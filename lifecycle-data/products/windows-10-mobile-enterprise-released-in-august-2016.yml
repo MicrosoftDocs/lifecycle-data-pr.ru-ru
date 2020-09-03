@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows 10 Mobile Enterprise, выпущена в августе 2016
-  description: Windows 10 Mobile Enterprise, выпущенная в августе 2016, соответствует фиксированной политике жизненного цикла.
+  title: Windows 10 Mobile Enterprise, выпущен в августе 2016 года.
+  description: Windows 10 Mobile Enterprise, выпущен в августе 2016 года, следует Политике фиксированного жизненного цикла.
   ms.date: 07/28/2020
   ms.openlocfilehash: 4be5f436289a8bcbb309b5b3e9eea4c43abbec7c
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ru-RU
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "861591"
-name: Windows 10 Mobile Enterprise, выпущена в августе 2016
+name: Windows 10 Mobile Enterprise, выпущен в августе 2016 года.
 summary: >
-  Windows 10 Mobile Enterprise, выпущенная в августе 2016, соответствует [фиксированной](/lifecycle/policies/fixed) политике жизненного цикла.
+  Windows 10 Mobile Enterprise, выпущен в августе 2016 года, следует Политике [фиксированного](/lifecycle/policies/fixed) жизненного цикла.
 
 
 
   > [!IMPORTANT]
 
-  > Поддержка этого продукта завершена.
+  > Поддержка этого продукта закончилась.
 products:
 - windows
 policyType: fixed-mainstream-only
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 08/16/2016
   endDate: 10/09/2018
-content: "\n## <a name=\"links\"></a>Ссылки \n* [Вопросы и ответы по жизненному циклу ОС устройства](/lifecycle/faq/device-operating-systems)\n* [Поддержка Windows 10 Mobile закончилась 10 декабря 2019 г.](/lifecycle/announcements/windows-10-mobile-end-of-support)"
+content: "\n## <a name=\"links\"></a>Ссылки \n* [Часто задаваемые вопросы о жизненном цикле ОС устройства](/lifecycle/faq/device-operating-systems)\n* [Поддержка Windows 10 Mobile была прекращена 10 декабря 2019 г.](/lifecycle/announcements/windows-10-mobile-end-of-support)\n\n\n\n"

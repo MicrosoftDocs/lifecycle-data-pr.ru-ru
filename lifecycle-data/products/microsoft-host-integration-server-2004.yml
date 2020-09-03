@@ -1,16 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Сервер интеграции с ведущим Майкрософт 2004
-  description: Сервер интеграции с ведущим Майкрософт 2004 следует за фиксированной политикой жизненного цикла.
+  title: Microsoft Host Integration Server 2004
+  description: Microsoft Host Integration Server 2004 следует Политике фиксированного жизненного цикла.
   ms.date: 07/28/2020
   ms.openlocfilehash: 25028677f10f76293af0536c479e50a6996dfaf0
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ru-RU
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "835554"
-name: Сервер интеграции с ведущим Майкрософт 2004
-summary: "Сервер интеграции с ведущим Майкрософт 2004 следует за [фиксированной](/lifecycle/policies/fixed) политикой жизненного цикла.\n\nЭто относится к следующим выпускам: Developer, Enterprise, Standard\n\n> [!IMPORTANT]\n> Поддержка этого продукта завершена. \n"
+name: Microsoft Host Integration Server 2004
+summary: "Microsoft Host Integration Server 2004 следует Политике [фиксированного](/lifecycle/policies/fixed) жизненного цикла.\n\nПрименимо к следующим выпускам: Developer, Enterprise, Standard\n\n> [!IMPORTANT]\n> Поддержка этого продукта закончилась. \n"
 products:
 - microsoft-servers
 policyType: fixed
@@ -25,4 +25,4 @@ releases:
 - version: Original Release
   startDate: 10/30/2004
   endDate: 07/14/2008
-content: "\n## <a name=\"links\"></a>Ссылки \n* [Политика пакетов обновления](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>2003 \n* Developer\n* Корпоративная версия\n* Standard"
+content: "\n## <a name=\"links\"></a>Ссылки \n* [Политика пакетов обновления](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Выпуски \n* Developer\n* Предприятие\n* Стандартный"
