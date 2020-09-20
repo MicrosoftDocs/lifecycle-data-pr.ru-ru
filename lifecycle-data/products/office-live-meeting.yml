@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Office Live Meeting
-  description: Office Live Meeting соответствует современным политикам жизненного цикла.
+  description: Office Live Meeting следует Современной политике жизненного цикла.
   ms.date: 09/01/2020
   keywords: Standard
   ms.openlocfilehash: f5d328b887173c82655f707e9d931266c2d7b857
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ru-RU
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "928914"
 name: Office Live Meeting
-summary: "Office Live Meeting соответствует [современным](/lifecycle/policies/modern) политикам жизненного цикла.\n\nДанное правило распространяется на следующие выпуски: Стандартный\n\n> [!IMPORTANT]\n> Поддержка этой службы завершена. См. ниже руководство по миграции. \n"
+summary: "Office Live Meeting следует [Современной](/lifecycle/policies/modern) политике жизненного цикла.\n\nДанное правило распространяется на следующие выпуски: Стандартный\n\n> [!IMPORTANT]\n> Поддержка этой службы закончилась. См. ниже руководство по миграции. \n"
 products:
 - office
 policyType: modern-online

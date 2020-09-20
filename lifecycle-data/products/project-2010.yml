@@ -1,18 +1,18 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Project 2010
-  description: Проект 2010 следует за фиксированной политикой жизненного цикла.
+  description: Project 2010 следует Фиксированной политике жизненного цикла.
   ms.date: 09/01/2020
   keywords: Professional,Standard
   ms.openlocfilehash: bdfc3db9732d902f753335f6457b960248667476
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ru-RU
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "926583"
 name: Project 2010
 summary: >+
-  Проект 2010 следует за [фиксированной](/lifecycle/policies/fixed) политикой жизненного цикла.
+  Project 2010 следует [Фиксированной](/lifecycle/policies/fixed) политике жизненного цикла.
 
 
   Данное правило распространяется на следующие выпуски: Профессиональная, Стандартная
