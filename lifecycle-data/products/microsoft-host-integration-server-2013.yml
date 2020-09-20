@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Сервер интеграции с ведущим Майкрософт 2013
-  description: Сервер интеграции с ведущим Майкрософт 2013 следует за фиксированной политикой жизненного цикла.
+  title: Microsoft Host Integration Server 2013
+  description: Microsoft Host Integration Server 2013 следует Фиксированной политике жизненного цикла.
   ms.date: 07/28/2020
   ms.openlocfilehash: 2d95fbc816dadeaac7c7ccb3d1780e299f8a124e
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ru-RU
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "861435"
-name: Сервер интеграции с ведущим Майкрософт 2013
+name: Microsoft Host Integration Server 2013
 summary: >+
-  Сервер интеграции с ведущим Майкрософт 2013 следует за [фиксированной](/lifecycle/policies/fixed) политикой жизненного цикла.
+  Microsoft Host Integration Server 2013 следует [Фиксированной](/lifecycle/policies/fixed) политике жизненного цикла.
 
 
 products:
@@ -25,4 +25,4 @@ releases:
 - version: Original Release
   startDate: 11/20/2013
   endDate: 01/09/2024
-content: "\n## <a name=\"links\"></a>Ссылки \n* [Сведения о продукте](https://techcommunity.microsoft.com/t5/host-integration-blog/bg-p/HostIntegrationBlog)"
+content: "\n## <a name=\"links\"></a>Ссылки \n* [Информация о продукте](https://techcommunity.microsoft.com/t5/host-integration-blog/bg-p/HostIntegrationBlog)"

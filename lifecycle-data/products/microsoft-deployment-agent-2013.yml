@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Агент развертывания Microsoft 2013
-  description: Агент развертывания Microsoft 2013 соответствует фиксированной политике жизненного цикла.
+  title: Microsoft Deployment Agent 2013
+  description: Microsoft Deployment Agent 2013 следует Фиксированной политике жизненного цикла.
   ms.date: 07/28/2020
   ms.openlocfilehash: d81680178f3fc6d72450bbf62cbf11ccb7ef8dc5
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ru-RU
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "861441"
-name: Агент развертывания Microsoft 2013
+name: Microsoft Deployment Agent 2013
 summary: >+
-  Агент развертывания Microsoft 2013 соответствует [фиксированной](/lifecycle/policies/fixed) политике жизненного цикла.
+  Microsoft Deployment Agent 2013 следует [Фиксированной](/lifecycle/policies/fixed) политике жизненного цикла.
 
 
 products:
@@ -25,4 +25,4 @@ releases:
 - version: Original Release
   startDate: 01/15/2014
   endDate: 04/09/2024
-content: "\n\n> [!NOTE]\n> Для агента развертывания 2013 обновление 4 будет поддерживаться согласно рекомендациям политики до 4/9/2024."
+content: "\n\n> [!NOTE]\n> Для Deployment Agent 2013 Обновление 4 будет поддерживаться в соответствии с руководящими принципами политики до 09/04/2024."

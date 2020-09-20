@@ -1,21 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Office 2019
-  description: Microsoft Office 2019 следует за фиксированной политикой жизненного цикла.
+  title: Microsoft Office 2019;
+  description: Microsoft Office 2019 следует Фиксированной политике жизненного цикла.
   ms.date: 09/01/2020
   keywords: Home and Business,Home and Student,Personal,Professional,Professional Academic,Professional Plus,Standard
   ms.openlocfilehash: 902490302b48c61548ee755b3765506bb1e53b04
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ru-RU
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "930394"
-name: Microsoft Office 2019
+name: Microsoft Office 2019;
 summary: >+
-  Microsoft Office 2019 следует за [фиксированной](/lifecycle/policies/fixed) политикой жизненного цикла.
+  Microsoft Office 2019 следует [Фиксированной](/lifecycle/policies/fixed) политике жизненного цикла.
 
 
-  Это относится к следующим выпускам: домашние и деловые, домашние и учебные, профессиональные, профессиональные, профессиональные академические, профессиональный плюс, Стандартный
+  Это относится к следующим выпускам: Для дома и бизнеса, Для дома и учебы, Персональный, Профессиональный, Профессиональный академический, Профессиональный плюс, Стандартный
 
 products:
 - office

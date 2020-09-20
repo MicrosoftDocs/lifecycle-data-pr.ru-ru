@@ -1,21 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Выражение 4
-  description: Выражение 4 соответствует фиксированной политике жизненного цикла.
+  title: Expression 4
+  description: Expression 4 следует Фиксированной политике жизненного цикла.
   ms.date: 09/01/2020
   keywords: Design,Encoder,Studio Ultimate,Web
   ms.openlocfilehash: ad3463184e4da721215fe51169c93401d2d9c848
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ru-RU
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "930875"
-name: Выражение 4
+name: Expression 4
 summary: >+
-  Выражение 4 соответствует [фиксированной](/lifecycle/policies/fixed) политике жизненного цикла.
+  Expression 4 следует [Фиксированной](/lifecycle/policies/fixed) политике жизненного цикла.
 
 
-  Это относится к следующим выпускам: дизайн, кодировщик, Studio Ultimate, Web
+  Данное правило распространяется на следующие выпуски: Design, Encoder, Studio Ultimate, Web
 
 products:
 - expression
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 08/26/2010
   endDate: 07/14/2020
-content: "\n\n> [!NOTE]\n> Окончание основной поддержки для Expression Studio Ultimate 4 — 13 октября 2015 г.\n\n## <a name=\"editions\"></a>Выпуски \n* Разработка\n* Кодировщик\n* Studio Ultimate\n* Web"
+content: "\n\n> [!NOTE]\n> Основная фаза поддержки Expression Studio Ultimate 4 закончилась 13 октября 2015 года.\n\n## <a name=\"editions\"></a>Выпуски \n* Design\n* Encoder\n* Studio Ultimate\n* Web"

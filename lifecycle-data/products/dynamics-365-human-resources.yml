@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Отдел кадров Dynamics 365
-  description: Управление персоналом Dynamics 365 следует современным политикам жизненного цикла.
+  title: Dynamics 365 Human Resources
+  description: Dynamics 365 Human Resources следует Современной политике жизненного цикла.
   ms.date: 07/28/2020
   ms.openlocfilehash: a7014b000d8d7613d8ca9eb2a2c3595083b9951c
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ru-RU
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "871744"
-name: Отдел кадров Dynamics 365
+name: Dynamics 365 Human Resources
 summary: >+
-  Управление персоналом Dynamics 365 следует [современным](/lifecycle/policies/modern) политикам жизненного цикла.
+  Dynamics 365 Human Resources следует [Современной](/lifecycle/policies/modern) политике жизненного цикла.
 
 
 products:
@@ -22,4 +22,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 03/27/2020
-content: "\n## <a name=\"links\"></a>Ссылки \n* [Руководство по миграции](https://aka.ms/D365HRpost)\n\n> [!NOTE]\n> Основное приложение отдела кадров (ранее добавленное в Dynamics 365, которое было перезапущено как отдел кадров Dynamics 365)."
+content: "\n## <a name=\"links\"></a>Ссылки \n* [Руководство по миграции](https://aka.ms/D365HRpost)\n\n> [!NOTE]\n> Программа Core HR (ранее входила в состав Dynamics 365 Talent) была повторно запущена как Dynamics 365 Human Resources."
