@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Пакет Microsoft Compute Cluster Pack
-  description: Пакет Microsoft Compute Cluster Pack соответствует фиксированной политике жизненного цикла.
+  title: Microsoft Compute Cluster Pack
+  description: Microsoft Compute Cluster Pack следует Фиксированной политике жизненного цикла.
   ms.date: 07/28/2020
   ms.openlocfilehash: e3817378573c09880c2d9970b69e387402d0c6b1
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ru-RU
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "835899"
-name: Пакет Microsoft Compute Cluster Pack
+name: Microsoft Compute Cluster Pack
 summary: >
-  Пакет Microsoft Compute Cluster Pack соответствует [фиксированной](/lifecycle/policies/fixed) политике жизненного цикла.
+  Microsoft Compute Cluster Pack следует [Фиксированной](/lifecycle/policies/fixed) политике жизненного цикла.
 
 
 
   > [!IMPORTANT]
 
-  > Поддержка этого продукта завершена.
+  > Поддержка этого продукта закончилась.
 products:
 - windows
 policyType: fixed

@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Forefront Security для SharePoint
-  description: Forefront Security для SharePoint следует к фиксированной политике жизненного цикла.
+  description: Forefront Security для SharePoint следует Фиксированной политике жизненного цикла.
   ms.date: 07/28/2020
   ms.openlocfilehash: 9354e1b278472de171a03354657be0f4920d4b3c
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ru-RU
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "835982"
 name: Forefront Security для SharePoint
 summary: >
-  Forefront Security для SharePoint следует к [фиксированной](/lifecycle/policies/fixed) политике жизненного цикла.
+  Forefront Security для SharePoint следует [Фиксированной](/lifecycle/policies/fixed) политике жизненного цикла.
 
 
 
   > [!IMPORTANT]
 
-  > Поддержка этого продукта завершена.
+  > Поддержка этого продукта закончилась.
 products:
 - windows
 policyType: fixed

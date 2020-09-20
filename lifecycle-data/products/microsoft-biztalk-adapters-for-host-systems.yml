@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Адаптеры Microsoft BizTalk для ведущих систем
-  description: Адаптеры Microsoft BizTalk для ведущих систем следует об фиксированной политике жизненного цикла.
+  title: Microsoft BizTalk Adapter для Host Systems
+  description: Microsoft BizTalk Adapters для Host Systems следует Фиксированной политике жизненного цикла.
   ms.date: 07/28/2020
   ms.openlocfilehash: 8511f6bc704fc691f71e2057ce4a72da3228f163
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ru-RU
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "835928"
-name: Адаптеры Microsoft BizTalk для ведущих систем
+name: Microsoft BizTalk Adapter для Host Systems
 summary: >+
-  Адаптеры Microsoft BizTalk для ведущих систем следует об [фиксированной](/lifecycle/policies/fixed) политике жизненного цикла.
+  Microsoft BizTalk Adapters для Host Systems следует [Фиксированной](/lifecycle/policies/fixed) политике жизненного цикла.
 
 
 products:

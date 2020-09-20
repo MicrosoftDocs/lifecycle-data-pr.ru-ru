@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Excel для Mac 2011
-  description: Excel для Mac 2011 следует за фиксированной политикой жизненного цикла.
+  description: Excel для Mac 2011 следует Фиксированной политике жизненного цикла.
   ms.date: 07/28/2020
   ms.openlocfilehash: 6fbc511fd70af039109ad1e301de765ad20e836c
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ru-RU
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "835995"
 name: Excel для Mac 2011
 summary: >+
-  Excel для Mac 2011 следует за [фиксированной](/lifecycle/policies/fixed) политикой жизненного цикла.
+  Excel для Mac 2011 следует [Фиксированной](/lifecycle/policies/fixed) политике жизненного цикла.
 
 
 products:
@@ -24,4 +24,4 @@ releases:
 - version: Original Release
   startDate: 12/09/2010
   endDate: 10/10/2017
-content: "\n\n> [!NOTE]\n> Основная поддержка Microsoft Office для Mac 2011 расширена, как показано ниже, чтобы предоставить клиентам стандартную временную шкалу перехода жизненного цикла."
+content: "\n\n> [!NOTE]\n> Основная поддержка для Microsoft Office для Mac 2011 была продлена для того, чтобы предоставить клиентам возможность воспользоваться стандартными сроками перехода к новому жизненному циклу."
