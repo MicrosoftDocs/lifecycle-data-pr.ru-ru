@@ -1,18 +1,18 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Business Solutions — великолепные простые сообщения 8,0
-  description: Microsoft Business Solutions — великолепные простые простые 8,0 за фиксированной политикой жизненного цикла.
+  title: Microsoft Business Solutions — Great Plains 8.0
+  description: Microsoft Business Solutions — Great Plains 8.0 следует Фиксированной политике жизненного цикла.
   ms.date: 09/01/2020
   keywords: Standard
   ms.openlocfilehash: 536666c99ff11026e44547243dc841425050faaa
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ru-RU
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "934686"
-name: Microsoft Business Solutions — великолепные простые сообщения 8,0
+name: Microsoft Business Solutions — Great Plains 8.0
 summary: >
-  Microsoft Business Solutions — великолепные простые простые 8,0 за [фиксированной](/lifecycle/policies/fixed) политикой жизненного цикла.
+  Microsoft Business Solutions — Great Plains 8.0 следует [Фиксированной](/lifecycle/policies/fixed) политике жизненного цикла.
 
 
   Данное правило распространяется на следующие выпуски: Стандартный
@@ -20,7 +20,7 @@ summary: >
 
   > [!IMPORTANT]
 
-  > Поддержка этого продукта завершена 13 октября 2009 г.
+  > Поддержка этого продукта закончилась 13 октября 2009 года.
 products:
 - dynamics
 policyType: fixed-mainstream-only

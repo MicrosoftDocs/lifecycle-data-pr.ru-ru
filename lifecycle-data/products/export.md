@@ -1,13 +1,13 @@
 ---
 title: Экспорт данных жизненного цикла
 description: Экспорт сведений о жизненном цикле продукта
-ms.date: 09/14/2020
-ms.openlocfilehash: 66fc9fb6f5f5660380570bae8d69a327c9a1db80
-ms.sourcegitcommit: a246bd5f3f9227f1dbfca6471808b64cb076623a
+ms.date: 09/18/2020
+ms.openlocfilehash: eaaece725a9a3535c228d48598195b4b4a50401d
+ms.sourcegitcommit: 445dd417cde533a0479a2e7012b0a7bc5338e3a1
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "1008478"
+ms.lasthandoff: 09/18/2020
+ms.locfileid: "1025043"
 ---
 # <a name="lifecycle-data-export"></a>Экспорт данных жизненного цикла
 
@@ -23,7 +23,7 @@ ms.locfileid: "1008478"
 ## <a name="export-products-by-family-and-group"></a>Экспорт продуктов по семейству и группе
 Выберите семейство и затем группу для экспорта. Note: экспорт начнется, когда будет выбрано значение Group. 
 
-> [!div class="op_multi_selector" title1="Системами" title2="Группа"]
+> [!div class="op_multi_selector" title1="Системами" title2="Group"]
 > - [(.NET | Ко](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'.NET')
 > - [(.NET | .NET)](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'.NET'%20and%20parent/parent/name%20eq%20'.NET')
 > - [(Azure | Ко](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'Azure')
