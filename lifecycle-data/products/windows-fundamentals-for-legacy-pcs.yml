@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Основные понятия Windows для устаревших ПК
-  description: Основные понятия Windows для устаревших компьютеров следует за фиксированной политикой жизненного цикла.
+  title: Windows Fundamentals for Legacy PCs
+  description: Windows Fundamentals for Legacy PCs следует Фиксированной политике жизненного цикла.
   ms.date: 07/28/2020
   ms.openlocfilehash: b0ea32a5421ba068c5fa75f46633c104fdb3eff5
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ru-RU
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "835224"
-name: Основные понятия Windows для устаревших ПК
+name: Windows Fundamentals for Legacy PCs
 summary: >+
-  Основные понятия Windows для устаревших компьютеров следует за [фиксированной](/lifecycle/policies/fixed) политикой жизненного цикла.
+  Windows Fundamentals for Legacy PCs следует [Фиксированной](/lifecycle/policies/fixed) политике жизненного цикла.
 
 
 products:
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 05/31/2006
   endDate: 10/12/2010
-content: "\n## <a name=\"links\"></a>Ссылки \n* [Политика пакетов обновления](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Этот продукт следует той же политике жизненного цикла поддержки, что и Windows XP."
+content: "\n## <a name=\"links\"></a>Ссылки \n* [Политика пакетов обновления](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Этот продукт следует той же политике поддержки жизненного цикла, что и Windows XP."

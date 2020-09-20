@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: SoftGrid для сервера терминалов (MDOP)
-  description: SoftGrid для сервера терминалов (MDOP) соответствует фиксированной политике жизненного цикла.
+  title: SoftGrid for Terminal Services (MDOP)
+  description: SoftGrid for Terminal Services (MDOP) следует Фиксированной политике жизненного цикла.
   ms.date: 07/28/2020
   ms.openlocfilehash: 678dd6057802afee1e92f8bba4296ee1b620a97d
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ru-RU
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "835244"
-name: SoftGrid для сервера терминалов (MDOP)
+name: SoftGrid for Terminal Services (MDOP)
 summary: >+
-  SoftGrid для сервера терминалов (MDOP) соответствует [фиксированной](/lifecycle/policies/fixed) политике жизненного цикла.
+  SoftGrid for Terminal Services (MDOP) следует [Фиксированной](/lifecycle/policies/fixed) политике жизненного цикла.
 
 
 products:
@@ -24,4 +24,4 @@ releases:
 - version: Original Release
   startDate: 01/01/2007
   endDate: 01/12/2010
-content: "\n## <a name=\"links\"></a>Ссылки \n* [Вопросы и ответы по жизненному циклу — общие](/lifecycle/faq/general-lifecycle)\n\n> [!NOTE]\n> Исключение версий, которые не поддерживаются. Поддержка этого продукта зависит от условий его приобретения."
+content: "\n## <a name=\"links\"></a>Ссылки \n* [Часто задаваемые вопросы по жизненному циклу – общее](/lifecycle/faq/general-lifecycle)\n\n> [!NOTE]\n> Исключает версии, не поддерживаемые ранее. Поддержка данного продукта предоставляется в соответствии с условиями, указанными при его приобретении."
