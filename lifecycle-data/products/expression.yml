@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Expression
-  description: Выражение соответствует фиксированной политике жизненного цикла.
+  description: Expression следует Фиксированной политике жизненного цикла.
   ms.date: 09/01/2020
   keywords: Blend,Design,Encoder,Studio
   ms.openlocfilehash: 2d2e5c18c1e8ca1b355bfe392df42d6a351e6585
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ru-RU
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "936240"
 name: Expression
-summary: "Выражение соответствует [фиксированной](/lifecycle/policies/fixed) политике жизненного цикла.\n\nЭто относится к следующим выпускам: Blend, оформление, кодировщик, Studio\n\n> [!IMPORTANT]\n> Поддержка этого продукта закончилась. \n"
+summary: "Expression следует [Фиксированной](/lifecycle/policies/fixed) политике жизненного цикла.\n\nДанное правило распространяется на следующие выпуски: Blend, Design, Encoder, Studio\n\n> [!IMPORTANT]\n> Поддержка этого продукта закончилась. \n"
 products:
 - expression
 policyType: fixed
@@ -23,4 +23,4 @@ releases:
 - version: Original Release
   startDate: 07/27/2007
   endDate: 10/10/2017
-content: "\n\n> [!NOTE]\n> Дата начала для Expression Blend составляет 13 июля 2007 г. \n\n## <a name=\"editions\"></a>Выпуски \n* Blend\n* Разработка\n* Кодировщик\n* См"
+content: "\n\n> [!NOTE]\n> Дата выхода Expression Blend – 13 июля 2007 года. \n\n## <a name=\"editions\"></a>Выпуски \n* Blend\n* Design\n* Encoder\n* Studio"

@@ -1,18 +1,18 @@
 ### YamlMime:Lifecycle
 metadata:
   title: SharePoint Server 2013
-  description: SharePoint Server 2013 соответствует фиксированной политике жизненного цикла.
+  description: SharePoint Server 2013 следует Фиксированной политике  жизненного цикла.
   ms.date: 09/02/2020
   keywords: ''
   ms.openlocfilehash: ccd15eb6ef3e1766b31cadaa08b558c6071fddf9
   ms.sourcegitcommit: 37b80a1b6fcda4dc6147d99a362a75b884d08a51
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ru-RU
   ms.lasthandoff: 09/02/2020
   ms.locfileid: "941610"
 name: SharePoint Server 2013
 summary: >+
-  SharePoint Server 2013 соответствует [фиксированной](/lifecycle/policies/fixed) политике жизненного цикла.
+  SharePoint Server 2013 следует [Фиксированной](/lifecycle/policies/fixed) политике жизненного цикла.
 
 
 products:
@@ -29,4 +29,4 @@ releases:
 - version: Original Release
   startDate: 01/09/2013
   endDate: 04/14/2015
-content: "\n## <a name=\"links\"></a>Ссылки \n* [Политика пакетов обновления](/lifecycle/policies/fixed#service-packs)\n* [Сервисная информация](/SharePoint/product-servicing-policy/updated-product-servicing-policy-for-sharepoint-2013)\n\n> [!NOTE]\n> Ознакомьтесь с документацией по [продукту](https://docs.microsoft.com/sharepoint/sharepoint-server) и [разработчику](https://developer.microsoft.com/sharepoint/docs) ."
+content: "\n## <a name=\"links\"></a>Ссылки \n* [Политика пакетов обновления](/lifecycle/policies/fixed#service-packs)\n* [Сервисная информация](/SharePoint/product-servicing-policy/updated-product-servicing-policy-for-sharepoint-2013)\n\n> [!NOTE]\n> См. документацию по [продуктам](https://docs.microsoft.com/sharepoint/sharepoint-server) и для [разработчиков](https://developer.microsoft.com/sharepoint/docs)."

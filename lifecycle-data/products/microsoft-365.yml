@@ -1,21 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft 365
-  description: Microsoft 365 соответствует современным политикам жизненного цикла.
+  description: Microsoft 365 следует Современной политике жизненного цикла.
   ms.date: 09/01/2020
   keywords: Business,Education,Enterprise,Government
   ms.openlocfilehash: 49d1c65ad462a3ce987df621004cf7341ac4aa23
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ru-RU
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "935981"
-name: Microsoft 365
+name: Microsoft 365
 summary: >+
-  Microsoft 365 соответствует [современным](/lifecycle/policies/modern) политикам жизненного цикла.
+  Microsoft 365 следует [Современной](/lifecycle/policies/modern) политике жизненного цикла.
 
 
-  Это относится к следующим выпускам: "предприятие", "образование", "предприятие", "правительство"
+  Применимо к следующим выпускам: бизнес, для образования, корпоративный, для государственных организаций
 
 products:
 - office
@@ -25,4 +25,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 09/22/2015
-content: "\n## <a name=\"links\"></a>Ссылки \n* [План выпуска Microsoft 365](https://www.microsoft.com/microsoft-365/roadmap)\n* [Системные требования](https://www.microsoft.com/microsoft-365/microsoft-365-and-office-resources)\n\n\n## <a name=\"editions\"></a>Выпуски \n* Для бизнеса\n* Для образовательных учреждений\n* Предприятие\n* Государственные организации"
+content: "\n## <a name=\"links\"></a>Ссылки \n* [Дорожная карта Microsoft 365](https://www.microsoft.com/microsoft-365/roadmap)\n* [Системные требования](https://www.microsoft.com/microsoft-365/microsoft-365-and-office-resources)\n\n\n## <a name=\"editions\"></a>Выпуски \n* Для бизнеса\n* Для образовательных учреждений\n* Предприятие\n* для государственных организаций"

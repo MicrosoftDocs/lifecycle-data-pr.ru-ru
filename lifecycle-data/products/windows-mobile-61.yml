@@ -1,21 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows Mobile 6,1
-  description: Windows Mobile 6,1 соответствует фиксированной политике жизненного цикла.
+  title: Windows Mobile 6.1
+  description: Windows Mobile 6.1 следует Фиксированной политике жизненного цикла.
   ms.date: 09/01/2020
   keywords: Adaptation Kit,Professional,Standard
   ms.openlocfilehash: 97c434aaac90a1923508ffe5b1d18e735bfa4101
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ru-RU
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "939829"
-name: Windows Mobile 6,1
+name: Windows Mobile 6.1
 summary: >
-  Windows Mobile 6,1 соответствует [фиксированной](/lifecycle/policies/fixed) политике жизненного цикла.
+  Windows Mobile 6.1 следует [Фиксированной](/lifecycle/policies/fixed) политике жизненного цикла.
 
 
-  Это относится к следующим выпускам: набор для адаптации, профессиональный, Стандартный
+  Применимо к следующим выпускам: Adaptation Kit, Professional, Standard
 
 
   > [!IMPORTANT]
@@ -31,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 07/01/2008
   endDate: 01/08/2013
-content: "\n\n\n## <a name=\"editions\"></a>Выпуски \n* Набор для адаптации\n* Professional\n* Стандартный"
+content: "\n\n\n## <a name=\"editions\"></a>Выпуски \n* Adaptation Kit\n* Professional\n* Стандартный"
