@@ -1,21 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Виртуальный сервер 2005
-  description: Виртуальный сервер 2005 следует за фиксированной политикой жизненного цикла.
+  title: Virtual Server 2005
+  description: Virtual Server 2005 следует Фиксированной политике жизненного цикла.
   ms.date: 09/01/2020
   keywords: Enterprise,Management Pack,Standard
   ms.openlocfilehash: 3a975f558d61c598e0b825d9402467398b348e82
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ru-RU
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "937905"
-name: Виртуальный сервер 2005
+name: Virtual Server 2005
 summary: >+
-  Виртуальный сервер 2005 следует за [фиксированной](/lifecycle/policies/fixed) политикой жизненного цикла.
+  Virtual Server 2005 следует [Фиксированной](/lifecycle/policies/fixed) политике жизненного цикла.
 
 
-  Это относится к следующим выпускам: Enterprise, Management Pack, Standard
+  Данное правило распространяется на следующие выпуски: Enterprise, Management Pack, Standard
 
 products:
 - windows
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 10/29/2004
   endDate: 01/13/2015
-content: "\n\n\n## <a name=\"editions\"></a>Выпуски \n* Предприятие\n* Пакет управления\n* Стандартный"
+content: "\n\n\n## <a name=\"editions\"></a>Выпуски \n* Предприятие\n* Management Pack\n* Стандартный"

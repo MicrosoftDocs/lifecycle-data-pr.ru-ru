@@ -1,21 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft System Center Essentials 2010
-  description: Microsoft System Center Essentials 2010 следует за фиксированной политикой жизненного цикла.
+  description: Microsoft System Center Essentials 2010 следует Фиксированной политике жизненного цикла.
   ms.date: 09/01/2020
   keywords: All applicable,wSQL
   ms.openlocfilehash: 93f05c6b49b851871ea5d7f6a2066310ae3144e2
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ru-RU
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "938201"
 name: Microsoft System Center Essentials 2010
 summary: >+
-  Microsoft System Center Essentials 2010 следует за [фиксированной](/lifecycle/policies/fixed) политикой жизненного цикла.
+  Microsoft System Center Essentials 2010 следует [Фиксированной](/lifecycle/policies/fixed) политике жизненного цикла.
 
 
-  Это относится к следующим выпускам: ALL применимо, Вскл
+  Применимо к следующим выпускам: все применимые, wSQL
 
 products:
 - msc
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 07/28/2010
   endDate: 10/13/2020
-content: "\n\n\n## <a name=\"editions\"></a>Выпуски \n* Все применимые\n* вскл"
+content: "\n\n\n## <a name=\"editions\"></a>Выпуски \n* Все применимые\n* wSQL"

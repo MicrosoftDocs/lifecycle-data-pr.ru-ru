@@ -1,18 +1,18 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Outlook 2019
-  description: Outlook 2019 соответствует фиксированной политике жизненного цикла.
+  description: Outlook 2019 следует Фиксированной политике жизненного цикла.
   ms.date: 09/01/2020
   keywords: Standard
   ms.openlocfilehash: 8c38b0d1da85e6f534d902ac0349bdd657a68684
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ru-RU
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "938090"
 name: Outlook 2019
 summary: >+
-  Outlook 2019 соответствует [фиксированной](/lifecycle/policies/fixed) политике жизненного цикла.
+  Outlook 2019 следует [Фиксированной](/lifecycle/policies/fixed) политике жизненного цикла.
 
 
   Данное правило распространяется на следующие выпуски: Стандартный

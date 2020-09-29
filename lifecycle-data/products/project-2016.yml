@@ -1,18 +1,18 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Project 2016
-  description: Проект 2016 следует за фиксированной политикой жизненного цикла.
+  title: Project 2016
+  description: Project 2016 следует Фиксированной политике жизненного цикла.
   ms.date: 09/01/2020
   keywords: Professional,Standard
   ms.openlocfilehash: 5d4110f5d6f16efd84205e08dc375cdd839c3220
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ru-RU
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "926546"
-name: Project 2016
+name: Project 2016
 summary: >+
-  Проект 2016 следует за [фиксированной](/lifecycle/policies/fixed) политикой жизненного цикла.
+  Project 2016 следует [Фиксированной](/lifecycle/policies/fixed) политике жизненного цикла.
 
 
   Данное правило распространяется на следующие выпуски: Профессиональная, Стандартная

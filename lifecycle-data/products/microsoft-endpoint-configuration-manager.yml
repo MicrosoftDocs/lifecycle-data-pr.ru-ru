@@ -1,24 +1,24 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Endpoint Configuration Manager
-  description: Диспетчер конфигурации конечных точек Майкрософт соответствует современным политикам жизненного цикла.
+  description: Microsoft Endpoint Configuration Manager следует Современной политике жизненного цикла.
   ms.date: 09/01/2020
   keywords: SCCM,System Center Configuration Manager
   ms.openlocfilehash: fa325717dae54209b97245681c1e0292890ba952
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ru-RU
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "934057"
 name: Microsoft Endpoint Configuration Manager
 summary: >
-  Диспетчер конфигурации конечных точек Майкрософт соответствует [современным](/lifecycle/policies/modern) политикам жизненного цикла.
+  Microsoft Endpoint Configuration Manager следует [Современной](/lifecycle/policies/modern) политике жизненного цикла.
 
 
 
   > [!IMPORTANT]
 
-  > Начиная с версии 1910 Configuration Manager становится частью диспетчера конечных точек Майкрософт.
+  > Начиная с версии 1910 Configuration Manager является частью Microsoft Endpoint Manager.
 products:
 - m365
 policyType: modern-on-prem
@@ -70,4 +70,4 @@ releases:
 - version: Version 1511
   startDate: 12/08/2015
   endDate: 12/08/2016
-content: "\n## <a name=\"links\"></a>Ссылки \n* [Сервисная информация](/mem/configmgr/core/servers/manage/current-branch-versions-supported)\n* [Сведения о версии](/mem/configmgr/core/servers/manage/updates#version-details)\n* [System Center Configuration Manager теперь — Диспетчер конфигураций конечных точек Майкрософт](/mem/configmgr/core/understand/microsoft-endpoint-manager-faq)\n* [Исторические версии](/mem/configmgr/core/servers/manage/updates#historical-versions)\n* [Что такое Configuration Manager](/mem/configmgr/core/understand/introduction)"
+content: "\n## <a name=\"links\"></a>Ссылки \n* [Сервисная информация](/mem/configmgr/core/servers/manage/current-branch-versions-supported)\n* [Подробные сведения о версии](/mem/configmgr/core/servers/manage/updates#version-details)\n* [System Center Configuration Manager теперь называется Microsoft Endpoint Configuration Manager](/mem/configmgr/core/understand/microsoft-endpoint-manager-faq)\n* [История версий](/mem/configmgr/core/servers/manage/updates#historical-versions)\n* [Что такое Configuration Manager?](/mem/configmgr/core/understand/introduction)"

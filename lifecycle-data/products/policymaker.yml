@@ -1,21 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: полицимакер
-  description: Полицимакер следует за фиксированной политикой жизненного цикла.
+  title: PolicyMaker
+  description: PolicyMaker следует Фиксированной политике жизненного цикла.
   ms.date: 09/01/2020
   keywords: Application Security,Outlook Edition,Professional 9.0,Registry Extension 2.0,Share Manager 1.0,Software Update 1.0,Software Update 2.0,Standard 1.0,Standard 2.0
   ms.openlocfilehash: be11ae6bee427a5aa059ec56cb88f007bb5134ec
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ru-RU
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "938053"
-name: полицимакер
+name: PolicyMaker
 summary: >+
-  Полицимакер следует за [фиксированной](/lifecycle/policies/fixed) политикой жизненного цикла.
+  PolicyMaker следует [Фиксированной](/lifecycle/policies/fixed) политике жизненного цикла.
 
 
-  Это относится к следующим выпускам: безопасность приложений, Outlook Edition, профессиональный 9,0, расширение реестра 2,0, Share Manager 1,0, обновление программного обеспечения 1,0, обновление программного обеспечения 2,0, стандартные 1,0, стандартные 2,0
+  Данное правило распространяется на следующие выпуски: Application Security, Outlook Edition, Professional 9.0, Registry Extension 2.0, Share Manager 1.0, Software Update 1.0, Software Update 2.0, Standard 1.0, Standard 2.0
 
 products:
 - windows
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 01/01/2007
   endDate: 01/12/2010
-content: "\n\n> [!NOTE]\n> Поддержка данного продукта предоставляется в соответствии с условиями, указанными при его приобретении.\n\n## <a name=\"editions\"></a>Выпуски \n* Безопасность приложений\n* Версия Outlook\n* Профессиональный 9,0\n* Расширение реестра 2,0\n* Общий доступ к менеджеру 1,0\n* Обновление программного обеспечения 1,0\n* Обновление программного обеспечения 2,0\n* Стандартный 1,0\n* Стандартный 2,0"
+content: "\n\n> [!NOTE]\n> Поддержка данного продукта предоставляется в соответствии с условиями, указанными при его приобретении.\n\n## <a name=\"editions\"></a>Выпуски \n* Application Security\n* Outlook Edition\n* Professional 9.0\n* Registry Extension 2.0\n* Share Manager 1.0\n* Software Update 1.0\n* Software Update 2.0\n* Standard 1.0\n* Standard 2.0"
