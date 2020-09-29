@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Silverlight 4
-  description: В Silverlight 4 следует фиксированная политика жизненного цикла.
+  description: Silverlight 4 следует Фиксированной политике жизненного цикла.
   ms.date: 08/19/2020
   ms.openlocfilehash: 9635d31459c8a470c63cc90e216e4237ce7c6ca1
   ms.sourcegitcommit: acbc3d1849bad925ef030cf951960bd7eb1b4e42
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ru-RU
   ms.lasthandoff: 08/19/2020
   ms.locfileid: "904441"
 name: Silverlight 4
 summary: >+
-  В Silverlight 4 следует [фиксированная](/lifecycle/policies/fixed) политика жизненного цикла.
+  Silverlight 4 следует [Фиксированной](/lifecycle/policies/fixed) политике жизненного цикла.
 
 
 products:
@@ -24,4 +24,4 @@ releases:
 - version: Original Release
   startDate: 04/15/2010
   endDate: 01/08/2013
-content: "\n\n> [!NOTE]\n> Корпорация Майкрософт будет предоставлять уведомление за 12 месяцев до конца предоставления поддержки средств."
+content: "\n\n> [!NOTE]\n> Компания Майкрософт сообщит об окончании поддержки инструментов не позднее чем за 12 месяцев."

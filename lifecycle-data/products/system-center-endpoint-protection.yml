@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: System Center Endpoint Protection
-  description: Защита конечных точек System Center соответствует современным политикам жизненного цикла.
+  description: System Center Endpoint Protection следует Современной политике жизненного цикла.
   ms.date: 08/31/2020
   ms.openlocfilehash: 9eff57919f329c3c5897ef2697cd20ff9ce65dba
   ms.sourcegitcommit: ea12743df11002fd494c7843707a3628dfedb425
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ru-RU
   ms.lasthandoff: 08/31/2020
   ms.locfileid: "924941"
 name: System Center Endpoint Protection
 summary: >+
-  Защита конечных точек System Center соответствует [современным](/lifecycle/policies/modern) политикам жизненного цикла.
+  System Center Endpoint Protection следует [Современной](/lifecycle/policies/modern) политике жизненного цикла.
 
 
 products:
