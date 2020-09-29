@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Диспетчер виртуальных машин System Center 2016
-  description: System Center 2016 Virtual Machine Manager соответствует фиксированной политике жизненного цикла.
+  title: System Center 2016 Virtual Machine Manager
+  description: System Center 2016 Virtual Machine Manager следует Фиксированной политике жизненного цикла.
   ms.date: 07/28/2020
   ms.openlocfilehash: 43bd64cf4f3bcde6c41718f57bddd96ccd63a8a6
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ru-RU
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "861606"
-name: Диспетчер виртуальных машин System Center 2016
+name: System Center 2016 Virtual Machine Manager
 summary: >+
-  System Center 2016 Virtual Machine Manager соответствует [фиксированной](/lifecycle/policies/fixed) политике жизненного цикла.
+  System Center 2016 Virtual Machine Manager следует [Фиксированной](/lifecycle/policies/fixed) политике жизненного цикла.
 
 
 products:

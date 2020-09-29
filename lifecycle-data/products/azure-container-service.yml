@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Служба контейнеров Azure
-  description: Служба контейнеров Azure соответствует современным политикам жизненного цикла.
+  title: Контейнерная служба Azure
+  description: Служба контейнеров Azure следует Современной политике жизненного цикла.
   ms.date: 07/28/2020
   ms.openlocfilehash: 70f9cfee8138e47ca857cf32af6388be1518fdb1
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ru-RU
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "861303"
-name: Служба контейнеров Azure
+name: Контейнерная служба Azure
 summary: >+
-  Служба контейнеров Azure соответствует [современным](/lifecycle/policies/modern) политикам жизненного цикла.
+  Служба контейнеров Azure следует [Современной](/lifecycle/policies/modern) политике жизненного цикла.
 
 
 products:
