@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Duet для Microsoft Office и SAP
-  description: Duet для Microsoft Office и SAP следует к фиксированной политике жизненного цикла.
+  title: Duet for Microsoft Office and SAP
+  description: Duet for Microsoft Office and SAP следует Фиксированной политике жизненного цикла.
   ms.date: 07/28/2020
   ms.openlocfilehash: 7eb8ccf553c6adb14f39a87a103274110b34c656
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ru-RU
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "836141"
-name: Duet для Microsoft Office и SAP
+name: Duet for Microsoft Office and SAP
 summary: >+
-  Duet для Microsoft Office и SAP следует к [фиксированной](/lifecycle/policies/fixed) политике жизненного цикла.
+  Duet for Microsoft Office and SAP следует [Фиксированной](/lifecycle/policies/fixed) политике жизненного цикла.
 
 
 products:
@@ -24,4 +24,4 @@ releases:
 - version: Original Release
   startDate: 10/28/2006
   endDate: 01/10/2012
-content: "\n## <a name=\"links\"></a>Ссылки \n* [SAP](https://support.sap.com/index.html)\n\n> [!NOTE]\n> Этот продукт реализован и поддерживается компанией SAP."
+content: "\n## <a name=\"links\"></a>Ссылки \n* [SAP](https://support.sap.com/index.html)\n\n> [!NOTE]\n> Этот продукт продается и поддерживается SAP."

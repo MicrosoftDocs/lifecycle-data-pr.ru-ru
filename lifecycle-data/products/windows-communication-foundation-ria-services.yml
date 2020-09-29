@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Службы RIA для Windows Communication Foundation
-  description: Службы RIA для Windows Communication Foundation следует за фиксированной политикой жизненного цикла.
+  title: Windows Communication Foundation RIA Services
+  description: Windows Communication Foundation RIA Services следует Фиксированной политике жизненного цикла.
   ms.date: 07/28/2020
   ms.openlocfilehash: 3876aae1488148f489c9c4c46dfd24bb89fd9480
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ru-RU
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "835228"
-name: Службы RIA для Windows Communication Foundation
+name: Windows Communication Foundation RIA Services
 summary: >+
-  Службы RIA для Windows Communication Foundation следует за [фиксированной](/lifecycle/policies/fixed) политикой жизненного цикла.
+  Windows Communication Foundation RIA Services следует [Фиксированной](/lifecycle/policies/fixed) политике жизненного цикла.
 
 
 products:
