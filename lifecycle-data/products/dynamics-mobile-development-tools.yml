@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Инструменты разработки Dynamics для мобильных устройств
-  description: Средства разработки Dynamics для мобильных устройств следует политика жизненного цикла компонентов.
+  title: Dynamics Mobile Development Tools
+  description: Dynamics Mobile Development Tools следует Политике жизненного цикла компонентов.
   ms.date: 07/28/2020
   ms.openlocfilehash: eacb8775d2e07be3c802073e4006099af4089699
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ru-RU
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "835575"
-name: Инструменты разработки Dynamics для мобильных устройств
+name: Dynamics Mobile Development Tools
 summary: >+
-  Средства разработки Dynamics для мобильных устройств следует политика жизненного цикла [компонентов](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) .
+  Dynamics Mobile Development Tools следует Политике жизненного цикла [компонентов](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy).
 
 
 products:
