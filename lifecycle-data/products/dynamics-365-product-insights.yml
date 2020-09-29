@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Техническая аналитика Dynamics 365
-  description: Сведения о продукте Dynamics 365 следует современным политикам жизненного цикла.
+  title: Dynamics 365 Product Insights
+  description: Dynamics 365 Product Insights следует Современной политике жизненного цикла.
   ms.date: 08/25/2020
   ms.openlocfilehash: 96ad93ad104312327e146d10a83d6b42943ab714
   ms.sourcegitcommit: d28d18dd801693302858cb5086cabb3a5d2083f3
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ru-RU
   ms.lasthandoff: 08/26/2020
   ms.locfileid: "911426"
-name: Техническая аналитика Dynamics 365
+name: Dynamics 365 Product Insights
 summary: >+
-  Сведения о продукте Dynamics 365 следует [современным](/lifecycle/policies/modern) политикам жизненного цикла.
+  Dynamics 365 Product Insights следует [Современной](/lifecycle/policies/modern) политике жизненного цикла.
 
 
 products:

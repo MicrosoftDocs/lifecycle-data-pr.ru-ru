@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: System Center 2019 Operations Manager
-  description: System Center 2019 Operations Manager соответствует фиксированной политике жизненного цикла.
+  description: System Center 2019 Operations Manager следует Фиксированной политике жизненного цикла.
   ms.date: 07/28/2020
   ms.openlocfilehash: f5bee333a3804dceb691a900186014bd104a6e77
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ru-RU
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "871783"
 name: System Center 2019 Operations Manager
 summary: >+
-  System Center 2019 Operations Manager соответствует [фиксированной](/lifecycle/policies/fixed) политике жизненного цикла.
+  System Center 2019 Operations Manager следует [Фиксированной](/lifecycle/policies/fixed) политике жизненного цикла.
 
 
 products:
@@ -25,4 +25,4 @@ releases:
 - version: Original Release
   startDate: 03/14/2019
   endDate: 04/09/2029
-content: "\n## <a name=\"links\"></a>Ссылки \n* [Сведения о продукте](/system-center/)"
+content: "\n## <a name=\"links\"></a>Ссылки \n* [Информация о продукте](/system-center/)"

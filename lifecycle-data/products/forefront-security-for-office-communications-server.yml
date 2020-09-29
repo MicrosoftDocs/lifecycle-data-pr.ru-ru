@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Forefront Security for Office Communications Server
-  description: Forefront Security для Office Communications Server соответствует фиксированной политике жизненного цикла.
+  description: Forefront Security for Office Communications Server следует Фиксированной политике жизненного цикла.
   ms.date: 08/21/2020
   ms.openlocfilehash: 5f0144e2e7f36644a959dccab8e1da4696e8c230
   ms.sourcegitcommit: 2f3e18a9447115504ef274bd044dbcdb08231f5b
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ru-RU
   ms.lasthandoff: 08/25/2020
   ms.locfileid: "908877"
 name: Forefront Security for Office Communications Server
 summary: >+
-  Forefront Security для Office Communications Server соответствует [фиксированной](/lifecycle/policies/fixed) политике жизненного цикла.
+  Forefront Security for Office Communications Server следует [Фиксированной](/lifecycle/policies/fixed) политике жизненного цикла.
 
 
 products:
@@ -24,4 +24,4 @@ releases:
 - version: RTM
   startDate: 06/09/2009
   endDate: 12/31/2015
-content: "\n\n> [!NOTE]\n> Изменился план для продуктов безопасности под торговой маркой Forefront. Этот продукт прекращен до 31 декабря 2015 г."
+content: "\n\n> [!NOTE]\n> Стратегический план для продуктов безопасности под маркой Forefront изменился.  Предоставление этого продукта прекращено 31 декабря 2015 г.\n\n\n"
