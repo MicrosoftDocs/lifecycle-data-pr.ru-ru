@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: ASP.NET Core
-  description: Ядро ASP.NET соответствует современным политикам жизненного цикла.
+  description: ASP.NET Core следует Современной политике жизненного цикла.
   ms.date: 07/28/2020
   ms.openlocfilehash: 0d9d34cae13f320c21cbcb289e753c8a5f6a8462
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ru-RU
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "861588"
 name: ASP.NET Core
 summary: >+
-  Ядро ASP.NET соответствует [современным](/lifecycle/policies/modern) политикам жизненного цикла.
+  ASP.NET Core следует [Современной](/lifecycle/policies/modern) политике жизненного цикла.
 
 
 products:
@@ -22,4 +22,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 06/27/2016
-content: "\n## <a name=\"links\"></a>Ссылки \n* [Вопросы и ответы по жизненному циклу .NET Core](/lifecycle/faq/dotnet-core)\n* [Сведения об обслуживании](https://github.com/dotnet/core/blob/master/microsoft-support.md)\n* [План .NET](https://github.com/dotnet/core/blob/master/roadmap.md)"
+content: "\n## <a name=\"links\"></a>Ссылки \n* [Часто задаваемые вопросы о жизненном цикле .NET Core](/lifecycle/faq/dotnet-core)\n* [Сервисная информация](https://github.com/dotnet/core/blob/master/microsoft-support.md)\n* [Дорожная карта .NET](https://github.com/dotnet/core/blob/master/roadmap.md)"

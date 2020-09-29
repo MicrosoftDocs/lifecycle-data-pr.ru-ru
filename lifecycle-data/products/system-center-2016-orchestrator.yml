@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: System Center 2016 Orchestrator
-  description: System Center 2016 Orchestrator соответствует фиксированной политике жизненного цикла.
+  description: System Center 2016 Orchestrator следует Фиксированной политике жизненного цикла.
   ms.date: 07/28/2020
   ms.openlocfilehash: c5725bbb0002c3952fb18ff688be105c808e190b
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ru-RU
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "861783"
 name: System Center 2016 Orchestrator
 summary: >+
-  System Center 2016 Orchestrator соответствует [фиксированной](/lifecycle/policies/fixed) политике жизненного цикла.
+  System Center 2016 Orchestrator следует [Фиксированной](/lifecycle/policies/fixed) политике жизненного цикла.
 
 
 products:
