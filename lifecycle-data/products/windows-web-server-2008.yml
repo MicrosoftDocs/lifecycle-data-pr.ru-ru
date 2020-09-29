@@ -1,21 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows Web Server 2008
-  description: Windows Web Server 2008 соответствует фиксированной политике жизненного цикла.
+  title: Windows Web Server 2008
+  description: Windows Web Server 2008 следует Фиксированной политике жизненного цикла.
   ms.date: 09/01/2020
   keywords: Standard
   ms.openlocfilehash: 09e6cfcf06699c4c2c31c43a04906c7f6b543979
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ru-RU
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "938904"
-name: Windows Web Server 2008
+name: Windows Web Server 2008
 summary: >+
-  Windows Web Server 2008 соответствует [фиксированной](/lifecycle/policies/fixed) политике жизненного цикла.
+  Windows Web Server 2008 следует [Фиксированной](/lifecycle/policies/fixed) политике жизненного цикла.
 
 
-  Данное правило распространяется на следующие выпуски: Стандартный
+  Применимо к следующим выпускам: Standard
 
 products:
 - windows
@@ -34,4 +34,4 @@ releases:
 - version: Original Release
   startDate: 05/06/2008
   endDate: 07/10/2018
-content: "\n\n> [!NOTE]\n> Для Windows Server 2008 с пакетом обновления 2 (SP2) этот продукт достиг конца поддержки 14 января 2020 г.\n\n## <a name=\"editions\"></a>Выпуски \n* Стандартный"
+content: "\n\n> [!NOTE]\n> Для Windows Server 2008 с пакетом обновления 2 поддержка этого продукта завершилась 14 января 2020 года.\n\n## <a name=\"editions\"></a>Выпуски \n* Стандартный"

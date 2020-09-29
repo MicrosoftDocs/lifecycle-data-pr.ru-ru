@@ -1,18 +1,18 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Advanced Threat Analytics 1. X
-  description: Advanced Threat Analytics 1. X соответствует фиксированной политике жизненного цикла.
+  title: Расширенная аналитика угроз 1.X
+  description: Advanced Threat Analytics 1.X следует Фиксированной политике жизненного цикла.
   ms.date: 09/10/2020
   keywords: 
   ms.openlocfilehash: 63d72a1510958edf2f7800c4a102fb587cbb8750
   ms.sourcegitcommit: 5c618c870f05989d24ebd3a61d98ce2302e85d3b
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ru-RU
   ms.lasthandoff: 09/10/2020
   ms.locfileid: "1002781"
-name: Advanced Threat Analytics 1. X
+name: Расширенная аналитика угроз 1.X
 summary: >+
-  Advanced Threat Analytics 1. X соответствует [фиксированной](/lifecycle/policies/fixed) политике жизненного цикла.
+  Advanced Threat Analytics 1.X следует [Фиксированной](/lifecycle/policies/fixed) политике жизненного цикла.
 
 
 products:
@@ -26,4 +26,4 @@ releases:
 - version: Original Release
   startDate: 11/25/2015
   endDate: 01/13/2026
-content: "\n## <a name=\"links\"></a>Ссылки \n* [Рекомендации по обслуживанию расширенных средств анализа угроз](/advanced-threat-analytics/understand-explore/ata-versions)\n\n> [!NOTE]\n> Обновления являются накопительными, при этом каждое обновление строится на основе всех предшествующих им обновлений. Для поддержания поддержки устройством необходимо установить Последнее обновление."
+content: "\n## <a name=\"links\"></a>Ссылки \n* [Рекомендации по предоставлению обслуживания Advanced Threat Analytics](/advanced-threat-analytics/understand-explore/ata-versions)\n\n> [!NOTE]\n> Обновления накопительные: каждое следующее обновление основано на предыдущих. Чтобы продолжить поддержку, на устройстве необходимо установить последнее обновление."
