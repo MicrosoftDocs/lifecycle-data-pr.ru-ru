@@ -1,21 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Office XP
-  description: Office XP соответствует фиксированной политике жизненного цикла.
+  description: Office XP следует Фиксированной политике жизненного цикла.
   ms.date: 09/01/2020
   keywords: Developer,Professional,Proofing Tools,Standard,Web Components
   ms.openlocfilehash: 5f0e3d5738f2f2107926d4cfe9c46de77fa5a875
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ru-RU
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "928803"
 name: Office XP
 summary: >+
-  Office XP соответствует [фиксированной](/lifecycle/policies/fixed) политике жизненного цикла.
+  Office XP следует [Фиксированной](/lifecycle/policies/fixed) политике жизненного цикла.
 
 
-  Это относится к следующим выпускам: разработчикам, профессиональным, средствам проверки правописания, стандартным, веб-компонентам
+  Данное правило распространяется на следующие выпуски: Для разработчиков, Профессиональный, Средства проверки правописания, Стандартный, Веб-компоненты
 
 products:
 - office
