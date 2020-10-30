@@ -2,14 +2,14 @@
 metadata:
   title: Ядро IoT Windows 10
   description: Windows 10 IoT Core следует Современной политике жизненного цикла.
-  ms.date: 09/08/2020
-  keywords: ''
-  ms.openlocfilehash: 61de53b89d60be7cc06f265b571b5769f8053350
-  ms.sourcegitcommit: 6d5e18e0097383b5852f122a79a7dc045e1d0d8f
+  ms.date: 10/16/2020
+  keywords: 
+  ms.openlocfilehash: 3893a58a054c3596d50f70244fe96b3bb5659df9
+  ms.sourcegitcommit: 3e26c892fea0b6f55cd4d050f1454019e9125ef9
   ms.translationtype: HT
   ms.contentlocale: ru-RU
-  ms.lasthandoff: 09/08/2020
-  ms.locfileid: "983724"
+  ms.lasthandoff: 10/17/2020
+  ms.locfileid: "1158123"
 name: Ядро IoT Windows 10
 summary: >
   Windows 10 IoT Core следует [Современной](/lifecycle/policies/modern) политике жизненного цикла.
@@ -18,7 +18,7 @@ summary: >
 
   > [!IMPORTANT]
 
-  > Майкрософт будет продолжать поддерживать по крайней мере один полугодовой канал Windows 10 до 14 октября 2025 года.
+  > Поддержка этого продукта прекращается 10 ноября 2020 года. Чтобы и далее получать поддержку, перейдите на IoT Core Services.
 products:
 - windows
 policyType: modern-on-prem
@@ -41,4 +41,4 @@ releases:
 - version: Version 1607
   startDate: 08/02/2016
   endDate: 04/10/2018
-content: "\n## <a name=\"links\"></a>Ссылки \n* [Информация о продукте](/windows/iot-core/windows-iot-core)\n* [Информационный бюллетень о жизненном цикле Windows](https://support.microsoft.com/help/13853/windows-lifecycle-fact-sheet)\n* [Windows as a Service (WaaS)](/windows/deployment/update/waas-quick-start)\n* [Часто задаваемые вопросы по жизненному циклу – продукты Windows](/lifecycle/faq/windows)\n\n> [!NOTE]\n> Если не будет отложено, последующие обновления функций полугодового канала Windows 10 могут быть установлены до указанной даты окончания основной поддержки."
+content: "\n## <a name=\"links\"></a>Ссылки \n* [Часто задаваемые вопросы по жизненному циклу – продукты Windows](/lifecycle/faq/windows)\n* [Информационный бюллетень о жизненном цикле Windows](https://support.microsoft.com/help/13853/windows-lifecycle-fact-sheet)\n* [Windows as a Service (WaaS)](/windows/deployment/update/waas-quick-start)"
