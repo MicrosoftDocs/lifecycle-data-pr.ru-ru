@@ -15,7 +15,7 @@ summary: >+
   Visual Studio 2015 следует политике [фиксированного](/lifecycle/policies/fixed) жизненного цикла.
 
 
-  Данное правило распространяется на следующие выпуски: Агенты, Сообщество, Предприятие, ESM, Express для Web, Express для Windows 10, Express для настольных компьютеров Windows, Пакет SDK для моделирования, Профессиональный, PSM, Управление выпуском, Инструменты удаленной отладки, SDK, Оболочка (интегрированная), Оболочка (изолированная), Test Professional, TPS, Распространяемый компонент Visual C++
+  Данное правило распространяется на следующие выпуски: Агенты, Сообщество, Enterprise, ESM, Express для Web, Express для Windows 10, Express для рабочих столов Windows, Пакет SDK для моделирования, Профессиональный, PSM, Управление выпуском, Инструменты удаленной отладки, SDK, Оболочка (интегрированная), Оболочка (изолированная), Test Professional, TPS, Распространяемый компонент Visual C++
 
 products:
 - vs
@@ -31,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 07/20/2015
   endDate: 10/14/2025
-content: "\n## <a name=\"links\"></a>Ссылки \n* [Сервисная информация](https://www.visualstudio.com/productinfo/vs-servicing-vs)\n\n\n## <a name=\"editions\"></a>Выпуски \n* Agents\n* Community\n* Предприятие\n* ESM\n* Express для Web\n* Express для Windows 10\n* Express для настольных компьютеров Windows\n* Пакет SDK для моделирования\n* Professional\n* PSM\n* Release Management\n* Инструменты удаленной отладки\n* SDK\n* Оболочка (интегрированная)\n* Оболочка (изолированная)\n* Test Professional\n* TPS\n* Visual C++ Redistributable"
+content: "\n## <a name=\"links\"></a>Ссылки \n* [Сервисная информация](https://www.visualstudio.com/productinfo/vs-servicing-vs)\n\n\n## <a name=\"editions\"></a>Выпуски \n* Agents\n* Community\n* Enterprise\n* ESM\n* Express для Web\n* Express для Windows 10\n* Express для рабочих столов Windows\n* Пакет SDK для моделирования\n* Professional\n* PSM\n* Release Management\n* Инструменты удаленной отладки\n* SDK\n* Оболочка (интегрированная)\n* Оболочка (изолированная)\n* Test Professional\n* TPS\n* Visual C++ Redistributable"

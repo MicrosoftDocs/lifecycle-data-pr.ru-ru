@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 11/25/2013
   endDate: 10/10/2023
-content: "\n## <a name=\"links\"></a>Ссылки \n* [Руководство по миграции](/windows-server/upgrade/upgrade-overview)\n\n> [!NOTE]\n> Основная и расширенная поддержка этого продукта была продлена, чтобы предоставить клиентам стандартную шкалу перехода на жизненный цикл.\n\n## <a name=\"editions\"></a>Выпуски \n* Datacenter\n* Essentials\n* для встроенных систем\n* Foundation\n* Стандартный"
+content: "\n## <a name=\"links\"></a>Ссылки \n* [Руководство по миграции](/windows-server/upgrade/upgrade-overview)\n\n> [!NOTE]\n> Основная и расширенная поддержка этого продукта была продлена, чтобы предоставить клиентам стандартную шкалу перехода на жизненный цикл.\n\n## <a name=\"editions\"></a>Выпуски \n* Datacenter\n* Essentials\n* для встроенных систем\n* Foundation\n* Standard"

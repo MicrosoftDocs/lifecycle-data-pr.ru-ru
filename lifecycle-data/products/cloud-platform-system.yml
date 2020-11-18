@@ -15,7 +15,7 @@ summary: >+
   Cloud Platform System следует [Фиксированной](/lifecycle/policies/fixed) политике жизненного цикла.
 
 
-  Данное правило распространяется на следующие выпуски: Стандартный
+  Данное правило распространяется на следующие выпуски: Standard
 
 products:
 - azure
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 01/29/2015
   endDate: 07/12/2022
-content: "\n\n> [!NOTE]\n> Поддержка Cloud Platform System была продлена с целью предоставления всем клиентам стандартной временной шкалы перехода на новый жизненный цикл.\n> [!NOTE]\n> Cloud Platform System Standard запущена 18 сентября 2017 года.\n\n## <a name=\"editions\"></a>Выпуски \n* Стандартный"
+content: "\n\n> [!NOTE]\n> Поддержка Cloud Platform System была продлена с целью предоставления всем клиентам стандартной временной шкалы перехода на новый жизненный цикл.\n> [!NOTE]\n> Cloud Platform System Standard запущена 18 сентября 2017 года.\n\n## <a name=\"editions\"></a>Выпуски \n* Standard"

@@ -15,7 +15,7 @@ summary: >+
   Office XP следует [Фиксированной](/lifecycle/policies/fixed) политике жизненного цикла.
 
 
-  Данное правило распространяется на следующие выпуски: Для разработчиков, Профессиональный, Средства проверки правописания, Стандартный, Веб-компоненты
+  Данное правило распространяется на следующие выпуски: Для разработчиков, Профессиональный, Средства проверки правописания, Standard, Веб-компоненты
 
 products:
 - office
@@ -37,4 +37,4 @@ releases:
 - version: Original Release
   startDate: 05/31/2001
   endDate: 12/31/2002
-content: "\n\n\n## <a name=\"editions\"></a>Выпуски \n* Developer\n* Professional\n* Средства проверки правописания\n* Стандартный\n* Web Components"
+content: "\n\n\n## <a name=\"editions\"></a>Выпуски \n* Developer\n* Professional\n* Средства проверки правописания\n* Standard\n* Web Components"

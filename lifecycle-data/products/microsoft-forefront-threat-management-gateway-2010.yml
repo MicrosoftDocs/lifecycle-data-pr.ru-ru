@@ -38,4 +38,4 @@ releases:
 - version: Original Release
   startDate: 12/01/2009
   endDate: 07/12/2011
-content: "\n## <a name=\"links\"></a>Ссылки \n* [Руководство по миграции](https://techcommunity.microsoft.com/t5/azure-active-directory-identity/bg-p/Identity)\n\n\n## <a name=\"editions\"></a>Выпуски \n* Предприятие\n* Стандартный"
+content: "\n## <a name=\"links\"></a>Ссылки \n* [Руководство по миграции](https://techcommunity.microsoft.com/t5/azure-active-directory-identity/bg-p/Identity)\n\n\n## <a name=\"editions\"></a>Выпуски \n* Enterprise\n* Standard"

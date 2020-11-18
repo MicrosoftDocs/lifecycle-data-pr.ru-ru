@@ -32,4 +32,4 @@ releases:
 - version: Original Release
   startDate: 11/17/2003
   endDate: 07/27/2005
-content: "\n## <a name=\"links\"></a>Ссылки \n* [Политика пакетов обновления](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Выпуски \n* Обычный\n* Professional\n* Professional Enterprise\n* Для малого бизнеса\n* Стандартный\n* Student and Teacher\n* Web Components"
+content: "\n## <a name=\"links\"></a>Ссылки \n* [Политика пакетов обновления](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Выпуски \n* Обычный\n* Professional\n* Professional Enterprise\n* Для малого бизнеса\n* Standard\n* Student and Teacher\n* Web Components"
