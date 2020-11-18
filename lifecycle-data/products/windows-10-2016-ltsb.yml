@@ -15,7 +15,7 @@ summary: >+
   Windows 10 2016 LTSB следует [Фиксированной](/lifecycle/policies/fixed) политике жизненного цикла.
 
 
-  Данное правило распространяется на следующие выпуски: Предприятие
+  Данное правило распространяется на следующие выпуски: Enterprise
 
 products:
 - windows
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 08/02/2016
   endDate: 10/13/2026
-content: "\n## <a name=\"links\"></a>Ссылки \n* [Обновление Windows 10 за октябрь (версия 1809) переиздание](https://blogs.windows.com/windowsexperience/2018/11/13/resuming-the-rollout-of-the-windows-10-october-2018-update/)\n* [Windows as a Service (WaaS)](/windows/deployment/update/waas-quick-start)\n* [Часто задаваемые вопросы по Windows 10 LTSC](/lifecycle/faq/windows#what-are-the-requirements-for-servicing-and-updating-the-windows-10-long-term-servicing-channel)\n\n\n## <a name=\"editions\"></a>Выпуски \n* Предприятие"
+content: "\n## <a name=\"links\"></a>Ссылки \n* [Обновление Windows 10 за октябрь (версия 1809) переиздание](https://blogs.windows.com/windowsexperience/2018/11/13/resuming-the-rollout-of-the-windows-10-october-2018-update/)\n* [Windows as a Service (WaaS)](/windows/deployment/update/waas-quick-start)\n* [Часто задаваемые вопросы по Windows 10 LTSC](/lifecycle/faq/windows#what-are-the-requirements-for-servicing-and-updating-the-windows-10-long-term-servicing-channel)\n\n\n## <a name=\"editions\"></a>Выпуски \n* Enterprise"

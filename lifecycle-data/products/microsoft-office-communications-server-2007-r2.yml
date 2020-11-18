@@ -23,4 +23,4 @@ releases:
 - version: Original Release
   startDate: 09/28/2009
   endDate: 01/09/2018
-content: "\n## <a name=\"links\"></a>Ссылки \n* [Руководство по миграции](https://blogs.technet.microsoft.com/nexthop/2016/02/22/end-of-extended-support-for-office-communicator-and-office-communications-server/)\n\n> [!NOTE]\n> XMPP Gateway выпущен 28 сентября 2009 года.\n\n## <a name=\"editions\"></a>Выпуски \n* Все применимые\n* Предприятие\n* XMPP Gateway\n"
+content: "\n## <a name=\"links\"></a>Ссылки \n* [Руководство по миграции](https://blogs.technet.microsoft.com/nexthop/2016/02/22/end-of-extended-support-for-office-communicator-and-office-communications-server/)\n\n> [!NOTE]\n> XMPP Gateway выпущен 28 сентября 2009 года.\n\n## <a name=\"editions\"></a>Выпуски \n* Все применимые\n* Enterprise\n* XMPP Gateway\n"

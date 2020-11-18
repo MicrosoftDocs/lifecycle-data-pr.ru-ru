@@ -15,7 +15,7 @@ summary: >+
   Microsoft Application Virtualization Hosting 5.1 для рабочих столов Windows следует Политике [фиксированного](/lifecycle/policies/fixed) жизненного цикла.
 
 
-  Данное правило распространяется на следующие выпуски: для настольных компьютеров Windows
+  Данное правило распространяется на следующие выпуски: для рабочих столов Windows
 
 products:
 - windows
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 11/01/2015
   endDate: 04/14/2026
-content: "\n## <a name=\"links\"></a>Ссылки \n* [Информация о продукте](/microsoft-desktop-optimization-pack/appv-v4/overview-of-application-virtualization)\n\n\n## <a name=\"editions\"></a>Выпуски \n* для настольных компьютеров Windows"
+content: "\n## <a name=\"links\"></a>Ссылки \n* [Информация о продукте](/microsoft-desktop-optimization-pack/appv-v4/overview-of-application-virtualization)\n\n\n## <a name=\"editions\"></a>Выпуски \n* для рабочих столов Windows"

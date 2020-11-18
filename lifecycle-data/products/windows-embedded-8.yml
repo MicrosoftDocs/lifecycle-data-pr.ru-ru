@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 10/30/2012
   endDate: 01/12/2016
-content: "\n## <a name=\"links\"></a>Ссылки \n* [Часто задаваемые вопросы по жизненному циклу – продукты Windows](/lifecycle/faq/windows)\n* [Windows Embedded 8.1](/lifecycle/products/windows-embedded-81-pro?branch=live)\n\n> [!NOTE]\n> Чтобы сохранить поддержку, клиенты должны перейти на Windows Emdedded 8.1.\n\n## <a name=\"editions\"></a>Выпуски \n* Pro\n* Стандартный"
+content: "\n## <a name=\"links\"></a>Ссылки \n* [Часто задаваемые вопросы по жизненному циклу – продукты Windows](/lifecycle/faq/windows)\n* [Windows Embedded 8.1](/lifecycle/products/windows-embedded-81-pro?branch=live)\n\n> [!NOTE]\n> Чтобы сохранить поддержку, клиенты должны перейти на Windows Emdedded 8.1.\n\n## <a name=\"editions\"></a>Выпуски \n* Pro\n* Standard"

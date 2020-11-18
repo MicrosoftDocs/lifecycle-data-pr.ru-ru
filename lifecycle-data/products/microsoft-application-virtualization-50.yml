@@ -15,7 +15,7 @@ summary: >+
   Microsoft Application Virtualization 5.0 следует [Фиксированной](/lifecycle/policies/fixed) политике жизненного цикла.
 
 
-  Это относится к следующим выпускам: for Remote Desktop Services, for Terminal Services, for Windows Desktops
+  Это относится к следующим выпускам: for Remote Desktop Services, for Terminal Services, для рабочих столов Windows
 
 products:
 - windows
@@ -37,4 +37,4 @@ releases:
 - version: Original Release
   startDate: 11/01/2012
   endDate: 07/08/2014
-content: "\n## <a name=\"links\"></a>Ссылки \n* [Информация о продукте](/microsoft-desktop-optimization-pack/appv-v5/microsoft-application-virtualization-50-administrators-guide)\n* [Политика пакетов обновления](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Выпуски \n* for Remote Desktop Services\n* for Terminal Services\n* для настольных компьютеров Windows"
+content: "\n## <a name=\"links\"></a>Ссылки \n* [Информация о продукте](/microsoft-desktop-optimization-pack/appv-v5/microsoft-application-virtualization-50-administrators-guide)\n* [Политика пакетов обновления](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Выпуски \n* for Remote Desktop Services\n* for Terminal Services\n* для рабочих столов Windows"
