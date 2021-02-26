@@ -2,14 +2,14 @@
 metadata:
   title: Windows 10 корпоративная и для образовательных учреждений
   description: Windows 10 корпоративная и для образовательных учреждений следует Современной политике жизненного цикла.
-  ms.date: 10/09/2020
+  ms.date: 02/12/2021
   keywords: 
-  ms.openlocfilehash: aafaec4e3b02f433224ea51446b8c18f4bd0c031
-  ms.sourcegitcommit: c1ccf8aedb73c5410ef70b9d59a49b6f6746a52c
+  ms.openlocfilehash: 84edf77fb54cb13cb21b8a8ef6643267a3872af2
+  ms.sourcegitcommit: b85a6ac35e0af0e17a9ae767927273508a4f31f6
   ms.translationtype: HT
   ms.contentlocale: ru-RU
-  ms.lasthandoff: 10/20/2020
-  ms.locfileid: "1162532"
+  ms.lasthandoff: 02/14/2021
+  ms.locfileid: "1449233"
 name: Windows 10 корпоративная и для образовательных учреждений
 summary: >
   Windows 10 корпоративная и для образовательных учреждений следует [Современной](/lifecycle/policies/modern) политике жизненного цикла.
@@ -20,7 +20,9 @@ summary: >
 
   > [!IMPORTANT]
 
-  > Майкрософт будет продолжать поддерживать по крайней мере один полугодовой канал Windows 10 до 14 октября 2025 года.
+  > Майкрософт будет продолжать поддерживать по крайней мере один выпуск Windows 10 из канала Semi-Annual Channel до 14 октября 2025 года.
+
+  В приведенной ниже таблице представлены выпущенные версии на сегодняшний день.
 products:
 - windows
 policyType: modern-on-prem
@@ -61,4 +63,4 @@ releases:
 - version: Version 1507
   startDate: 07/29/2015
   endDate: 05/09/2017
-content: "\n## <a name=\"links\"></a>Ссылки \n* [Windows as a Service (WaaS)](/windows/deployment/update/waas-quick-start)\n* [Информация о продукте](/windows/windows-10/)\n* [Часто задаваемые вопросы по жизненному циклу – продукты Windows](/lifecycle/faq/windows)\n\n> [!NOTE]\n> Если не будет отложено, последующие обновления функций полугодового канала Windows 10 могут быть установлены до указанной даты окончания основной поддержки.\n\n## <a name=\"editions\"></a>Выпуски \n* Для образовательных учреждений\n* Предприятие"
+content: "\n## <a name=\"links\"></a>Ссылки \n* [Windows as a Service (WaaS)](/windows/deployment/update/waas-quick-start)\n* [Windows 10 IoT Enterprise](/lifecycle/products/windows-10-iot-enterprise)\n* [Windows 10 Домашняя и Pro](/lifecycle/products/windows-10-home-and-pro)\n* [Информация о продукте](/windows/windows-10/)\n* [Часто задаваемые вопросы по жизненному циклу – продукты Windows](/lifecycle/faq/windows)\n\n> [!NOTE]\n> Если не будет отложено, последующие обновления функций полугодового канала Windows 10 могут быть установлены до указанной даты окончания основной поддержки.\n\n## <a name=\"editions\"></a>Выпуски \n* Для образовательных учреждений\n* Предприятие\n"
