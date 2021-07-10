@@ -2,17 +2,25 @@
 metadata:
   title: Internet Explorer 11
   description: Internet Explorer 11 следует Политике жизненного цикла компонентов.
-  ms.date: 08/12/2020
-  ms.openlocfilehash: 62c563784a27bf046f85b65ff75c31ec969d0bb6
-  ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
+  ms.date: 05/18/2021
+  keywords: 
+  ms.openlocfilehash: e8c2c3268966c81d4dd08589587bd41da21148c2
+  ms.sourcegitcommit: 51a7221b87d358960376e2569c3b1e69ba056b54
   ms.translationtype: HT
   ms.contentlocale: ru-RU
-  ms.lasthandoff: 08/13/2020
-  ms.locfileid: "893660"
+  ms.lasthandoff: 06/25/2021
+  ms.locfileid: "2029519"
 name: Internet Explorer 11
 summary: >+
   Internet Explorer 11 следует Политике жизненного цикла [компонентов](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy).
 
+
+
+
+
+  > [!IMPORTANT]
+
+  > Классическое приложение Internet Explorer (IE) 11 прекратит поддержку некоторых операционных систем с 15 июня 2022 года. Клиентам рекомендуется перейти на Microsoft Edge с режимом IE. Режим IE обеспечивает обратную совместимость и будет поддерживаться как минимум до 2029 года. Кроме того, Microsoft предоставит уведомление за год до отказа от поддержки режима IE. Перейдите [сюда](https://docs.microsoft.com/lifecycle/faq/internet-explorer-microsoft-edge#what-is-the-lifecycle-policy-for-internet-explorer-), чтобы просмотреть список поддерживаемых операционных систем для Internet Explorer, включая версии, затронутые этим объявлением.
 
 products:
 - internet-explorer
@@ -22,4 +30,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 11/13/2013
-content: "\n## <a name=\"links\"></a>Ссылки \n* [Руководство по миграции](https://www.microsoft.com/itpro/microsoft-edge)\n* [Часто задаваемые вопросы о Политике жизненного цикла Internet Explorer](/lifecycle/faq/internet-explorer-microsoft-edge)\n\n> [!NOTE]\n> С 12 января 2016 года техническая поддержка и обновления безопасности будут предоставляться только для последней версии Internet Explorer, доступной для соответствующей операционной системы.\n\n\n"
+content: "\n\n## <a name=\"links\"></a>Ссылки \n* [Руководство по миграции](https://www.microsoft.com/itpro/microsoft-edge)\n* [Часто задаваемые вопросы о жизненном цикле Internet Explorer и Microsoft Edge](/lifecycle/faq/internet-explorer-microsoft-edge)\n* [Операционные системы, поддерживаемые Microsoft Edge](/lifecycle/faq/internet-explorer-microsoft-edge#what-is-the-lifecycle-policy-for-internet-explorer-)\n* [Операционные системы, поддерживаемые Microsoft Edge](/deployedge/microsoft-edge-supported-operating-systems)\n\n\n> [!NOTE]\n> Некоторые версии Internet Explorer могут поддерживаться после даты окончания поддержки ОС Windows, если доступны расширенные обновления безопасности (ESU). Перейдите [сюда](https://docs.microsoft.com/lifecycle/faq/extended-security-updates), чтобы просмотреть список поддерживаемых операционных систем."
