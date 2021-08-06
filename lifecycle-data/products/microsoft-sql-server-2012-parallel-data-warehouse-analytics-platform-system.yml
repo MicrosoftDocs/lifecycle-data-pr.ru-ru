@@ -1,0 +1,36 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Хранилище параллельных данных Microsoft SQL Server 2012 (система платформы аналитики)
+  description: Хранилище параллельных данных Microsoft SQL Server 2012 (система платформы аналитики) следует Фиксированной политике жизненного цикла.
+  ms.date: 07/12/2021
+  keywords: 
+  ms.openlocfilehash: b8b7ba18a9194156b247cc21091283d7b6e3af28
+  ms.sourcegitcommit: 1629a54febaf89d1050ce02280d58f9ec8736d8c
+  ms.translationtype: HT
+  ms.contentlocale: ru-RU
+  ms.lasthandoff: 07/23/2021
+  ms.locfileid: "2172265"
+name: Хранилище параллельных данных Microsoft SQL Server 2012 (система платформы аналитики)
+summary: >+
+  Хранилище параллельных данных Microsoft SQL Server 2012 (система платформы аналитики) следует [Фиксированной](/lifecycle/policies/fixed) политике жизненного цикла.
+
+
+
+
+
+  > [!IMPORTANT]
+
+  > Окончание поддержки системы платформы аналитики было сдвинуто с 8 октября 2024 г. на 31 марта 2026 г.
+
+products:
+- sql-server
+policyType: fixed
+supportDates:
+  start: 07/12/2013
+  end: 10/08/2019
+  extendedEnd: 03/31/2026
+releases:
+- version: Original Release
+  startDate: 07/12/2013
+  endDate: 10/08/2024
+content: "\n\n## <a name=\"links\"></a>Ссылки \n* [Информация о продукте](https://www.microsoft.com/sql-server/analytics-platform-system)\n\n\n> [!NOTE]\n> Хранилище параллельных данных SQL Server 2012 Parallel Data Warehouse (PDW) было переименовано в APS (Analytics Platform System) (система платформы аналитики)"
