@@ -3,12 +3,12 @@ metadata:
   title: Visual Studio для Mac
   description: Visual Studio для Mac следует Фиксированной политике жизненного цикла.
   ms.date: 07/28/2020
-  ms.openlocfilehash: df41c429361462c1a4f73795de70cba9591f0197
-  ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
+  ms.openlocfilehash: 566151a396db47a9fe0efedc90404acda235b3df169c0a6dc23bea85e1e0fe5d
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: ru-RU
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "871777"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2488832"
 name: Visual Studio для Mac
 summary: >+
   Visual Studio для Mac следует [Современной](/lifecycle/policies/modern) политике жизненного цикла.
