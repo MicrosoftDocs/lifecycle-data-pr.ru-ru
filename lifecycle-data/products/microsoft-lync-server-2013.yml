@@ -4,12 +4,12 @@ metadata:
   description: Microsoft Lync Server 2013 следует Фиксированной политике жизненного цикла.
   ms.date: 09/01/2020
   keywords: Enterprise,Persistent Chat Software Development Kit,Phone,SDK,Standard
-  ms.openlocfilehash: d6885f287ffa2bda2803e707d93db7ad5fdf5cb0
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
+  ms.openlocfilehash: 34538d98f2544a37c43ef4db5cddf07502111f81f4329ffa7883322caae0df1d
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: ru-RU
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "930690"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2498526"
 name: Microsoft Lync Server 2013
 summary: >+
   Microsoft Lync Server 2013 следует [Фиксированной](/lifecycle/policies/fixed) политике жизненного цикла.
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 01/25/2011
   endDate: 04/11/2023
-content: "\n## <a name=\"links\"></a>Ссылки \n* [Информация о продукте](/lyncserver/microsoft-lync-server-2013)\n\n> [!NOTE]\n> Lync Phone Edition поддерживается Lync Server 2010 и Lync Server 2013. Дата поддержки Lync Phone Edition была продлена на 2 года для соответствия с жизненным циклом Lync Server 2013.\n\n## <a name=\"editions\"></a>Выпуски \n* Enterprise\n* Пакет средств разработки сохраняемого чата\n* Phone\n* SDK\n* Standard"
+content: "\n## <a name=\"links\"></a>Ссылки \n* [Информация о продукте](/lyncserver/microsoft-lync-server-2013)\n\n> [!NOTE]\n> Lync Phone Edition поддерживается Lync Server 2010 и Lync Server 2013. Дата поддержки Lync Phone Edition была продлена на 2 года для соответствия с жизненным циклом Lync Server 2013.\n\n## <a name=\"editions\"></a>Выпуски \n* Предприятие\n* Пакет средств разработки сохраняемого чата\n* Phone\n* SDK\n* Стандартный"
