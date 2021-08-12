@@ -3,35 +3,43 @@ metadata:
   title: Microsoft SharePoint Server 2010
   description: Microsoft SharePoint Server 2010 следует Фиксированной политике жизненного цикла.
   ms.date: 09/01/2020
-  keywords: Access Services,All applicable,Excel Services,Performance Point Services
-  ms.openlocfilehash: 02a1a5085dbd39b7379b0e71f69300095cfa54da
-  ms.sourcegitcommit: 37b80a1b6fcda4dc6147d99a362a75b884d08a51
-  ms.translationtype: HT
-  ms.contentlocale: ru-RU
-  ms.lasthandoff: 09/02/2020
-  ms.locfileid: "941573"
+  keywords: 'Access Services,All applicable,Excel Services,Performance Point Services'
 name: Microsoft SharePoint Server 2010
-summary: >+
+summary: |+
   Microsoft SharePoint Server 2010 следует [Фиксированной](/lifecycle/policies/fixed) политике жизненного цикла.
-
 
   Данное правило распространяется на следующие выпуски: Службы Access, Все применимые, Службы Excel, Службы Performance Point
 
 products:
-- office
+  - office
 policyType: fixed
 supportDates:
   start: 07/15/2010
   end: 10/13/2015
   extendedEnd: 04/13/2021
 releases:
-- version: Service Pack 2
-  startDate: 07/23/2013
-  endDate: 04/13/2021
-- version: Service Pack 1
-  startDate: 06/28/2011
-  endDate: 10/14/2014
-- version: Original Release
-  startDate: 07/15/2010
-  endDate: 07/10/2012
-content: "\n## <a name=\"links\"></a>Ссылки \n* [Расширение поддержки](https://aka.ms/SharePoint/server/2010/supportextension)\n* [Руководство по миграции](/office365/enterprise/upgrade-from-sharepoint-2010)\n* [Документация разработчика Microsoft SharePoint Server 2010](/previous-versions/office/developer/sharepoint-2010/ee557253(v=office.14))\n* [Документация по продукту Microsoft SharePoint Server 2010](/previous-versions/office/sharepoint-server-2010/cc303422(v=office.14))\n\n> [!NOTE]\n> срок окончания поддержки этого продукта перенесен с 13 октября 2020 г. на 13 апреля 2021 г.\n\n## <a name=\"editions\"></a>Выпуски \n* Службы Access\n* Все применимые\n* Службы Excel\n* Службы Performance Point"
+  - version: Service Pack 2
+    startDate: 07/23/2013
+    endDate: 04/13/2021
+  - version: Service Pack 1
+    startDate: 06/28/2011
+    endDate: 10/14/2014
+  - version: Original Release
+    startDate: 07/15/2010
+    endDate: 07/10/2012
+content: |
+
+  ## <a name="links"></a>Ссылки 
+  * [Расширение поддержки](https://aka.ms/SharePoint/server/2010/supportextension)
+  * [Руководство по миграции](/office365/enterprise/upgrade-from-sharepoint-2010)
+  * [Документация разработчика Microsoft SharePoint Server 2010](/previous-versions/office/developer/sharepoint-2010/ee557253(v=office.14))
+  * [Документация по продукту Microsoft SharePoint Server 2010](/previous-versions/office/sharepoint-server-2010/cc303422(v=office.14))
+
+  > [!NOTE]
+  > срок окончания поддержки этого продукта перенесен с 13 октября 2020 г. на 13 апреля 2021 г.
+
+  ## <a name="editions"></a>Выпуски 
+  * Службы Access
+  * Все применимые
+  * Службы Excel
+  * Службы Performance Point
