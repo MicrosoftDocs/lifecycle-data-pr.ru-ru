@@ -3,12 +3,12 @@ metadata:
   title: Duet Enterprise для систем Microsoft SharePoint и SAP
   description: Duet Enterprise для Microsoft SharePoint и SAP следует Политике фиксированного жизненного цикла.
   ms.date: 07/28/2020
-  ms.openlocfilehash: fbab932e4c44c55969682684dc2ec7590c3dd6f9
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.openlocfilehash: 3a8fcb0370254c3b257a2d997644848e7218e0e75389e48c6dbca2d073e8c1fe
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: ru-RU
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "861580"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2495677"
 name: Duet Enterprise для Microsoft SharePoint и SAP
 summary: >
   Duet Enterprise для Microsoft SharePoint и SAP следует Политике [фиксированного](/lifecycle/policies/fixed) жизненного цикла.
