@@ -4,12 +4,12 @@ metadata:
   description: Microsoft Office для Mac 2011 следует Фиксированной политике жизненного цикла.
   ms.date: 09/01/2020
   keywords: Academic,Home and Business,Home and Business Home Use Program,Home and Student,Standard
-  ms.openlocfilehash: 916b05553555af4525fb9c94660627d4aef386e6
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
+  ms.openlocfilehash: 56c5f61385cbdeddafe8571c1439650f85b73f42bcc23bc840f246af69bbe957
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: ru-RU
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "933243"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2524204"
 name: Microsoft Office для Mac 2011
 summary: >+
   Microsoft Office для Mac 2011 следует [Фиксированной](/lifecycle/policies/fixed) политике жизненного цикла.
@@ -36,4 +36,4 @@ releases:
 - version: Original Release
   startDate: 12/09/2010
   endDate: 01/10/2012
-content: "\n## <a name=\"links\"></a>Ссылки \n* [Политика пакетов обновления](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Основная поддержка Microsoft Office для Mac 2011 была продлена с целью предоставления всем клиентам стандартной временной шкалы перехода на новый жизненный цикл.\n\n## <a name=\"editions\"></a>Выпуски \n* Образовательная\n* Для дома и бизнес\n* Home Use Program для дома и бизнеса\n* Для дома и учебы\n* Standard"
+content: "\n## <a name=\"links\"></a>Ссылки \n* [Политика пакетов обновления](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Основная поддержка Microsoft Office для Mac 2011 была продлена с целью предоставления всем клиентам стандартной временной шкалы перехода на новый жизненный цикл.\n\n## <a name=\"editions\"></a>Выпуски \n* Образовательная\n* Для дома и бизнес\n* Home Use Program для дома и бизнеса\n* Для дома и учебы\n* Стандартный"
