@@ -4,12 +4,12 @@ metadata:
   description: SQL Server 2014 следует Фиксированной политике жизненного цикла.
   ms.date: 09/01/2020
   keywords: Business Intelligence,Developer,Enterprise,Enterprise Core,Express,Standard,Web
-  ms.openlocfilehash: 551c7b4fe8a3a36dfbc8866abd3006d022116dc6
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
+  ms.openlocfilehash: 3d3669c46791dcd92c3ed444e693ea385bc0d8ef11ae6143f63482ac34ea8eac
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: ru-RU
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "938016"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2516175"
 name: SQL Server 2014
 summary: >+
   SQL Server 2014 следует [Фиксированной](/lifecycle/policies/fixed) политике жизненного цикла.
@@ -37,4 +37,4 @@ releases:
 - version: Original Release
   startDate: 06/05/2014
   endDate: 07/12/2016
-content: "\n## <a name=\"links\"></a>Ссылки \n* [Политика пакетов обновления](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Выпуски \n* Business Intelligence\n* Developer\n* Enterprise\n* Enterprise Core\n* Express\n* Standard\n* Web"
+content: "\n## <a name=\"links\"></a>Ссылки \n* [Политика пакетов обновления](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Выпуски \n* Business Intelligence\n* Developer\n* Предприятие\n* Enterprise Core\n* Express\n* Стандартный\n* Web"
