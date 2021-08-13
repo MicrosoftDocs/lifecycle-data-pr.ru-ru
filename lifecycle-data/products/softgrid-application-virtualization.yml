@@ -3,33 +3,33 @@ metadata:
   title: SoftGrid Application Virtualization
   description: SoftGrid Application Virtualization следует Политике фиксированного жизненного цикла.
   ms.date: 09/10/2020
-  keywords: 4.1 for Desktops,4.2 for Desktops,for Terminal Services 4.1
-  ms.openlocfilehash: 5009a44f0d0ab2b180f62474de8f4d4bb01e3e62
-  ms.sourcegitcommit: c0c65f657b1da8e588fda5bedd3572fb2e3168bc
-  ms.translationtype: HT
-  ms.contentlocale: ru-RU
-  ms.lasthandoff: 09/10/2020
-  ms.locfileid: "1001033"
+  keywords: '4.1 for Desktops,4.2 for Desktops,for Terminal Services 4.1'
 name: SoftGrid Application Virtualization
-summary: >
+summary: |
   SoftGrid Application Virtualization следует Политике [фиксированного](/lifecycle/policies/fixed) жизненного цикла.
-
 
   Данное правило распространяется на следующие выпуски: 4.1 для рабочих столов, 4.2 для рабочих столов, для служб терминалов 4.1
 
-
   > [!IMPORTANT]
-
   > Поддержка закончилась. См. ниже руководство по миграции.
 products:
-- windows
+  - windows
 policyType: fixed
 supportDates:
   start: 05/25/2007
   end: 07/10/2012
   extendedEnd: 07/11/2017
 releases:
-- version: Original Release
-  startDate: 05/25/2007
-  endDate: 07/11/2017
-content: "\n## <a name=\"links\"></a>Ссылки \n* [Руководство по миграции](https://technet.microsoft.com/en-us/windows/bb899442)\n\n\n## <a name=\"editions\"></a>Выпуски \n* 4.1 для рабочих столов\n* 4.2 для рабочих столов\n* для служб терминалов 4.1"
+  - version: Original Release
+    startDate: 05/25/2007
+    endDate: 07/11/2017
+content: |
+
+  ## <a name="links"></a>Ссылки 
+  * [Руководство по миграции](https://technet.microsoft.com/en-us/windows/bb899442)
+
+
+  ## <a name="editions"></a>Выпуски 
+  * 4.1 для рабочих столов
+  * 4.2 для рабочих столов
+  * для служб терминалов 4.1
