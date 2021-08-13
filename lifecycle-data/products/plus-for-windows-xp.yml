@@ -1,27 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Plus! для Windows XP
+  title: "Microsoft Plus! для Windows\_XP"
   description: Microsoft Plus! для Windows XP следует Фиксированной политике жизненного цикла.
   ms.date: 07/28/2020
-  ms.openlocfilehash: e9969a2f2dff3c92df44160d15a0e6934e5625a7
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: HT
-  ms.contentlocale: ru-RU
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "835778"
-name: Microsoft Plus! для Windows XP
-summary: >+
+name: "Microsoft Plus! для Windows\_XP"
+summary: |+
   Microsoft Plus! для Windows XP следует [Фиксированной](/lifecycle/policies/fixed) политике жизненного цикла.
 
 
 products:
-- windows
+  - windows
 policyType: fixed-mainstream-only
 supportDates:
   start: 10/25/2001
   end: 01/09/2007
 releases:
-- version: Original Release
-  startDate: 10/25/2001
-  endDate: 01/09/2007
-content: ''
+  - version: Original Release
+    startDate: 10/25/2001
+    endDate: 01/09/2007
+content: |+
