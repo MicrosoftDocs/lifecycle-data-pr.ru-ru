@@ -3,26 +3,24 @@ metadata:
   title: Microsoft Forefront Identity Manager 2010
   description: Microsoft Forefront Identity Manager 2010 следует Фиксированной политике жизненного цикла.
   ms.date: 07/28/2020
-  ms.openlocfilehash: 9b76ebc222ff94ed78ae77e18623f18557e8ac38
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: HT
-  ms.contentlocale: ru-RU
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "835875"
 name: Microsoft Forefront Identity Manager 2010
-summary: >+
+summary: |+
   Microsoft Forefront Identity Manager 2010 следует [Фиксированной](/lifecycle/policies/fixed) политике жизненного цикла.
 
 
 products:
-- m365
+  - m365
 policyType: fixed
 supportDates:
   start: 05/27/2010
   end: 10/10/2017
   extendedEnd: 10/11/2022
 releases:
-- version: Original Release
-  startDate: 05/27/2010
-  endDate: 10/11/2022
-content: "\n\n> [!NOTE]\n> Расширенная и основная поддержка Microsoft Forefront Identity Manager 2010 была продлена для того, чтобы предоставить всем клиентам возможность воспользоваться стандартной шкалой перехода на новую версию жизненного цикла."
+  - version: Original Release
+    startDate: 05/27/2010
+    endDate: 10/11/2022
+content: |+
+
+
+  > [!NOTE]
+  > Расширенная и основная поддержка Microsoft Forefront Identity Manager 2010 была продлена для того, чтобы предоставить всем клиентам возможность воспользоваться стандартной шкалой перехода на новую версию жизненного цикла.

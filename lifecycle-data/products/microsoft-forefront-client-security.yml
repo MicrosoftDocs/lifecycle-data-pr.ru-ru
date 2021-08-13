@@ -3,25 +3,25 @@ metadata:
   title: Microsoft Forefront Client Security
   description: Microsoft Forefront Client Security следует Фиксированной политике жизненного цикла.
   ms.date: 08/28/2020
-  ms.openlocfilehash: 335ae81ffa4b7cb64352b19e7330765a4cac6c68
-  ms.sourcegitcommit: 570c824dbe19150d37398333df7d2c416a51eac9
-  ms.translationtype: HT
-  ms.contentlocale: ru-RU
-  ms.lasthandoff: 08/28/2020
-  ms.locfileid: "924269"
 name: Microsoft Forefront Client Security
-summary: >+
+summary: |+
   Microsoft Forefront Client Security следует [Фиксированной](/lifecycle/policies/fixed) политике жизненного цикла.
 
 
 products:
-- msc
+  - msc
 policyType: fixed
 supportDates:
   start: 08/02/2007
   extendedEnd: 07/14/2015
 releases:
-- version: Original Release
-  startDate: 08/02/2007
-  endDate: 07/14/2015
-content: "\n## <a name=\"links\"></a>Ссылки \n* [System Center Endpoint Protection](/lifecycle/products/microsoft-system-center-2012-endpoint-protection)\n\n> [!NOTE]\n> Поддержка Forefront Client Security прекращена с 14 июля 2015 года. Обновления определений антивредоносных и антишпионских программ будут недоступны после окончания поддержки версии продукта. Рассмотрите возможность перехода на System Center Endpoint Protection в качестве альтернативы."
+  - version: Original Release
+    startDate: 08/02/2007
+    endDate: 07/14/2015
+content: |+
+
+  ## <a name="links"></a>Ссылки 
+  * [System Center Endpoint Protection](/lifecycle/products/microsoft-system-center-2012-endpoint-protection)
+
+  > [!NOTE]
+  > Поддержка Forefront Client Security прекращена с 14 июля 2015 года. Обновления определений антивредоносных и антишпионских программ будут недоступны после окончания поддержки версии продукта. Рассмотрите возможность перехода на System Center Endpoint Protection в качестве альтернативы.
