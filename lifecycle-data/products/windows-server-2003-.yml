@@ -3,35 +3,46 @@ metadata:
   title: 'Windows Server 2003 '
   description: Windows Server 2003 следует политике фиксированного жизненного цикла.
   ms.date: 09/01/2020
-  keywords: Datacenter (32-bit x86),Datacenter (x64),Datacenter for Itanium-Based Systems,Enterprise (32-Bit x86),Enterprise for Itanium-based Systems,Enterprise X64,Standard (32-bit x86),Web
-  ms.openlocfilehash: c11990954fd21dad1b968cf849bc9359008c9c07
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: HT
-  ms.contentlocale: ru-RU
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "939607"
+  keywords: 'Datacenter (32-bit x86),Datacenter (x64),Datacenter for Itanium-Based Systems,Enterprise (32-Bit x86),Enterprise for Itanium-based Systems,Enterprise X64,Standard (32-bit x86),Web'
 name: 'Windows Server 2003 '
-summary: >+
+summary: |+
   Windows Server 2003 следует политике [фиксированного](/lifecycle/policies/fixed) жизненного цикла.
-
 
   Данное правило распространяется на следующие выпуски: Центр обработки данных (32-разрядный x86), Центр обработки данных (x64), Центр обработки данных для систем на базе процессоров Itanium, Корпоративная (32-разрядный x86), Корпоративная на базе процессоров Itanium, Корпоративная X64, Стандарт (32-разрядный x86), Web
 
 products:
-- windows
+  - windows
 policyType: fixed
 supportDates:
   start: 05/28/2003
   end: 07/13/2010
   extendedEnd: 07/14/2015
 releases:
-- version: Service Pack 2
-  startDate: 03/13/2007
-  endDate: 07/14/2015
-- version: Service Pack 1
-  startDate: 03/30/2005
-  endDate: 04/14/2009
-- version: Original Release
-  startDate: 05/28/2003
-  endDate: 04/10/2007
-content: "\n## <a name=\"links\"></a>Ссылки \n* [Поддерживаемые пути для обновления с Windows Server 2003 до Windows Server 2008](https://support.microsoft.com/ru-ru/help/951041/supported-paths-for-upgrading-from-windows-server-2003-to-windows-serv)\n* [Политика пакетов обновления](/lifecycle/policies/fixed#service-packs)\n* [Подготовка компьютеров Windows Server 2003 к миграции](/azure/migrate/prepare-windows-server-2003-migration)\n\n> [!NOTE]\n> Начало работы систем на базе процессоров Itanium - 19 июня 2003 года.\n\n## <a name=\"editions\"></a>Выпуски \n* Центр обработки данных (32-разрядный x86)\n* Центр обработки данных (x64)\n* Центр обработки данных для систем на базе процессоров Itanium\n* Корпоративная (32-разрядный x86)\n* Enterprise для систем на базе процессоров Itanium\n* Enterprise X64\n* Стандартный (32-разрядный x86)\n* Web"
+  - version: Service Pack 2
+    startDate: 03/13/2007
+    endDate: 07/14/2015
+  - version: Service Pack 1
+    startDate: 03/30/2005
+    endDate: 04/14/2009
+  - version: Original Release
+    startDate: 05/28/2003
+    endDate: 04/10/2007
+content: |
+
+  ## <a name="links"></a>Ссылки 
+  * [Поддерживаемые пути для обновления с Windows Server 2003 до Windows Server 2008](https://support.microsoft.com/help/951041/supported-paths-for-upgrading-from-windows-server-2003-to-windows-serv)
+  * [Политика пакетов обновления](/lifecycle/policies/fixed#service-packs)
+  * [Подготовка компьютеров Windows Server 2003 к миграции](/azure/migrate/prepare-windows-server-2003-migration)
+
+  > [!NOTE]
+  > Начало работы систем на базе процессоров Itanium - 19 июня 2003 года.
+
+  ## <a name="editions"></a>Выпуски 
+  * Центр обработки данных (32-разрядный x86)
+  * Центр обработки данных (x64)
+  * Центр обработки данных для систем на базе процессоров Itanium
+  * Корпоративная (32-разрядный x86)
+  * Enterprise для систем на базе процессоров Itanium
+  * Enterprise X64
+  * Стандартный (32-разрядный x86)
+  * Web

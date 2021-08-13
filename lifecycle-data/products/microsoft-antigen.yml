@@ -3,29 +3,22 @@ metadata:
   title: Microsoft Antigen
   description: Microsoft Antigen следует Политике фиксированного жизненного цикла.
   ms.date: 09/10/2020
-  keywords: 9.0 for Exchange,Enterprise Manager 9.0,for SMTP Gateways,Spam Manager
-  ms.openlocfilehash: ab3c9aa07c1afe64cd5a98d0d6a885617221afc0
-  ms.sourcegitcommit: c0c65f657b1da8e588fda5bedd3572fb2e3168bc
-  ms.translationtype: HT
-  ms.contentlocale: ru-RU
-  ms.lasthandoff: 09/10/2020
-  ms.locfileid: "1001995"
+  keywords: '9.0 for Exchange,Enterprise Manager 9.0,for SMTP Gateways,Spam Manager'
 name: Microsoft Antigen
-summary: >+
+summary: |+
   Microsoft Antigen следует Политике [фиксированного](/lifecycle/policies/fixed) жизненного цикла.
-
 
   Данное правило распространяется на следующие выпуски: Это относится к следующим выпускам: 9.0 для Exchange, Enterprise Manager 9.0, для шлюзов SMTP, диспетчера нежелательной почты
 
 products:
-- windows
+  - windows
 policyType: fixed
 supportDates:
   start: 07/17/2006
   end: 04/08/2014
   extendedEnd: 12/31/2015
 releases:
-- version: Original Release
-  startDate: 07/17/2006
-  endDate: 12/31/2015
-content: "\n\n> [!NOTE]\n> Стратегический план для продуктов безопасности под маркой Forefront изменился. Предоставление этого продукта прекращено 31 декабря 2015 г.\n\n## <a name=\"editions\"></a>Выпуски \n* 9.0 для Exchange\n* Enterprise Manager 9.0\n* для шлюзов SMTP\n* Диспетчер нежелательной почты\n"
+  - version: Original Release
+    startDate: 07/17/2006
+    endDate: 12/31/2015
+content: "\n\n> [!NOTE]\n> Стратегический план для продуктов безопасности под маркой Forefront изменился.\_Предоставление этого продукта прекращено 31\_декабря 2015\_г.\n\n## <a name=\"editions\"></a>Выпуски \n* 9.0 для Exchange\n* Enterprise Manager 9.0\n* для шлюзов SMTP\n* Диспетчер нежелательной почты\n"

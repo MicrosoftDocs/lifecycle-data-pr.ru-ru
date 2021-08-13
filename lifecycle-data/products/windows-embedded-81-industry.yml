@@ -3,29 +3,32 @@ metadata:
   title: Windows Embedded 8.1 Industry
   description: Windows Embedded 8.1 Industry следует Политике фиксированного жизненного цикла.
   ms.date: 09/10/2020
-  keywords: Enterprise,Pro,Sideloading
-  ms.openlocfilehash: e033f9a8e05ac0646caf13dd8642e70cfa6bb16a
-  ms.sourcegitcommit: c0c65f657b1da8e588fda5bedd3572fb2e3168bc
-  ms.translationtype: HT
-  ms.contentlocale: ru-RU
-  ms.lasthandoff: 09/10/2020
-  ms.locfileid: "1002439"
+  keywords: 'Enterprise,Pro,Sideloading'
 name: Windows Embedded 8.1 Industry
-summary: >+
+summary: |+
   Windows Embedded 8.1 Industry следует Политике [фиксированного](/lifecycle/policies/fixed) жизненного цикла.
-
 
   Применимо к следующим выпускам: Enterprise, Pro, Sideloading
 
 products:
-- windows
+  - windows
 policyType: fixed
 supportDates:
   start: 11/25/2013
   end: 07/10/2018
   extendedEnd: 07/11/2023
 releases:
-- version: Original Release
-  startDate: 11/25/2013
-  endDate: 07/11/2023
-content: "\n## <a name=\"links\"></a>Ссылки \n* [Часто задаваемые вопросы по жизненному циклу – продукты Windows](https://support.microsoft.co/help/18581)\n* [Часто задаваемые вопросы по Windows Embedded 8.1](/lifecycle/faq/windows#what-is-the-lifecycle-policy-for-windows-embedded-81-products)\n\n\n## <a name=\"editions\"></a>Выпуски \n* Enterprise\n* Pro\n* Загрузка неопубликованного приложения"
+  - version: Original Release
+    startDate: 11/25/2013
+    endDate: 07/11/2023
+content: |
+
+  ## <a name="links"></a>Ссылки 
+  * [Часто задаваемые вопросы по жизненному циклу – продукты Windows](https://support.microsoft.co/help/18581)
+  * [Часто задаваемые вопросы по Windows Embedded 8.1](/lifecycle/faq/windows#what-is-the-lifecycle-policy-for-windows-embedded-81-products)
+
+
+  ## <a name="editions"></a>Выпуски 
+  * Предприятие
+  * Pro
+  * Загрузка неопубликованного приложения
