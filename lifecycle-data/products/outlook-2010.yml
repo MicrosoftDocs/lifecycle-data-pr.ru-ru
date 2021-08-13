@@ -3,29 +3,31 @@ metadata:
   title: Outlook 2010
   description: Outlook 2010 следует Фиксированной политике жизненного цикла.
   ms.date: 09/01/2020
-  keywords: Standard,with Business Contact Manager
-  ms.openlocfilehash: ce67d67737e2a942507d26d8d1bd308697a58144
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: HT
-  ms.contentlocale: ru-RU
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "928840"
+  keywords: 'Standard,with Business Contact Manager'
 name: Outlook 2010
-summary: >+
+summary: |+
   Outlook 2010 следует [Фиксированной](/lifecycle/policies/fixed) политике жизненного цикла.
-
 
   Это относится к следующим выпускам: Стандартная, с Диспетчером контактов
 
 products:
-- office
+  - office
 policyType: fixed
 supportDates:
   start: 07/15/2010
   end: 10/13/2015
   extendedEnd: 10/13/2020
 releases:
-- version: Original Release
-  startDate: 07/15/2010
-  endDate: 10/13/2020
-content: "\n## <a name=\"links\"></a>Ссылки \n* [Руководство по миграции](/DeployOffice/office-2010-end-support-roadmap)\n* [Политика пакетов обновления](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Выпуски \n* Стандартный\n* with Business Contact Manager"
+  - version: Original Release
+    startDate: 07/15/2010
+    endDate: 10/13/2020
+content: |
+
+  ## <a name="links"></a>Ссылки 
+  * [Руководство по миграции](/DeployOffice/office-2010-end-support-roadmap)
+  * [Политика пакетов обновления](/lifecycle/policies/fixed#service-packs)
+
+
+  ## <a name="editions"></a>Выпуски 
+  * Стандартный
+  * with Business Contact Manager

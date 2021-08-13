@@ -3,33 +3,26 @@ metadata:
   title: Сервер лицензирования и защиты программного обеспечения
   description: Сервер лицензирования и защиты программного обеспечения следует Политике фиксированного жизненного цикла.
   ms.date: 09/10/2020
-  keywords: Enterprise,Standard
-  ms.openlocfilehash: 567392e4c49c46a29c7f9f80730542f0ded21608
-  ms.sourcegitcommit: c0c65f657b1da8e588fda5bedd3572fb2e3168bc
-  ms.translationtype: HT
-  ms.contentlocale: ru-RU
-  ms.lasthandoff: 09/10/2020
-  ms.locfileid: "1001070"
+  keywords: 'Enterprise,Standard'
 name: Сервер лицензирования и защиты программного обеспечения
-summary: >
-  Сервер лицензирования и защиты программного обеспечения следует Политике [фиксированного](/lifecycle/policies/fixed) жизненного цикла.
-
-
-  Применимо к следующим выпускам: Enterprise, Standard
-
-
-  > [!IMPORTANT]
-
-  > Из-за потери прав на Сервер лицензирования и защиты программного обеспечения (SLPS) корпорация Майкрософт прекратила поддержку SLPS с 24 сентября 2009 года.
+summary: "Сервер лицензирования и защиты программного обеспечения следует Политике [фиксированного](/lifecycle/policies/fixed) жизненного цикла.\n\nПрименимо к следующим выпускам: Enterprise, Standard\n\n> [!IMPORTANT]\n> Из-за потери прав на Сервер лицензирования и защиты программного обеспечения (SLPS) корпорация Майкрософт прекратила поддержку SLPS с 24\_сентября 2009\_года.\n"
 products:
-- windows
+  - windows
 policyType: fixed
 supportDates:
   start: 12/30/2007
   end: 09/24/2009
   extendedEnd: 09/24/2009
 releases:
-- version: Original Release
-  startDate: 12/30/2007
-  endDate: 01/09/2018
-content: "\n## <a name=\"links\"></a>Ссылки \n* [Сервер лицензирования и защиты программного обеспечения (SLPS)](https://www.microsoft.com/slps)\n\n\n## <a name=\"editions\"></a>Выпуски \n* Предприятие\n* Стандартный"
+  - version: Original Release
+    startDate: 12/30/2007
+    endDate: 01/09/2018
+content: |
+
+  ## <a name="links"></a>Ссылки 
+  * [Сервер лицензирования и защиты программного обеспечения (SLPS)](https://www.microsoft.com/slps)
+
+
+  ## <a name="editions"></a>Выпуски 
+  * Предприятие
+  * Стандартный
