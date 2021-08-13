@@ -4,12 +4,12 @@ metadata:
   description: Visual Studio 2013 следует Фиксированной политике жизненного цикла.
   ms.date: 09/01/2020
   keywords: Agents,All,Community,Express for Web,Express for Windows,Express for Windows Desktop,IntelliTrace Collector,Modeling SDK,Multibyte MFC Library,Premium,Professional,Release Management,Remote Tools,SDK,Shell (Integrated),Shell (Isolated),Team Explorer,Test Professional,Ultimate,Visual C++ Redistributable,Web Tools Extensions
-  ms.openlocfilehash: 9ca8bc78f1d498f79dcc1f3ed3f3c30403310ff2
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
+  ms.openlocfilehash: be98b464a1f267f12c314361f99e1cd7b62cbd5b2fe52619cee9119917d437b2
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: ru-RU
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "937461"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2487204"
 name: Visual Studio 2013
 summary: >+
   Visual Studio 2013 следует [Фиксированной](/lifecycle/policies/fixed) политике жизненного цикла.
@@ -31,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 01/15/2014
   endDate: 04/09/2024
-content: "\n## <a name=\"links\"></a>Ссылки \n* [Сервисная информация](https://www.visualstudio.com/productinfo/vs-servicing-vs)\n\n\n## <a name=\"editions\"></a>Выпуски \n* Agents\n* Все\n* Community\n* Express для Web\n* Express for Windows\n* Express для рабочих столов Windows\n* IntelliTrace Collector\n* Пакет SDK для моделирования\n* Multibyte MFC Library\n* Premium\n* Professional\n* Release Management\n* Инструменты удаленной отладки\n* SDK\n* Оболочка (интегрированная)\n* Оболочка (изолированная)\n* Team Explorer\n* Test Professional\n* Максимальный\n* Visual C++ Redistributable\n* Web Tools Extensions"
+content: "\n## <a name=\"links\"></a>Ссылки \n* [Сервисная информация](https://www.visualstudio.com/productinfo/vs-servicing-vs)\n\n\n## <a name=\"editions\"></a>Выпуски \n* Agents\n* Все\n* Community\n* Express для Web\n* Express for Windows\n* Express для настольных компьютеров Windows\n* IntelliTrace Collector\n* Пакет SDK для моделирования\n* Multibyte MFC Library\n* Premium\n* Professional\n* Release Management\n* Инструменты удаленной отладки\n* SDK\n* Оболочка (интегрированная)\n* Оболочка (изолированная)\n* Team Explorer\n* Test Professional\n* Максимальный\n* Visual C++ Redistributable\n* Web Tools Extensions"
