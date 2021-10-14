@@ -1,0 +1,33 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows 11 Домашняя и Pro (версия 21H2)
+  description: Windows 11 Домашняя и Windows 11 Pro (версии 21H2) следуют Современной политике жизненного цикла.
+  ms.date: 09/23/2021
+  keywords: 
+  ms.openlocfilehash: ea691bf8b5c3e0a62e8d8d6e4bdc5ec3147faa22
+  ms.sourcegitcommit: 59fc218db97bb57b454b1e2a859fca5b8d4cd750
+  ms.translationtype: HT
+  ms.contentlocale: ru-RU
+  ms.lasthandoff: 10/05/2021
+  ms.locfileid: "3509475"
+name: Windows 11 Домашняя и Pro (версия 21H2)
+summary: >+
+  Windows 11 Домашняя и Pro (версия 21H2) следует [Современной](/lifecycle/policies/modern) политике жизненного цикла.
+
+
+
+  Данное правило распространяется на следующие выпуски: Домашняя, Pro, Pro для образования, Pro для рабочих станций
+
+
+
+products:
+- windows
+policyType: modern-on-prem
+supportDates:
+  start: 10/04/2021
+  end: 10/10/2023
+releases:
+- version: Original release (Version 21H2)
+  startDate: 10/04/2021
+  endDate: 10/10/2023
+content: "\n\n## <a name=\"links\"></a>Ссылки \n* [Windows as a Service (WaaS)](/windows/deployment/update/waas-overview)\n* [Часто задаваемые вопросы о жизненном цикле - Windows](/lifecycle/faq/windows)\n* [Дополнительные ресурсы Windows](/windows/resources/)\n* [Windows 11 Корпоративная и для образовательных учреждений](/lifecycle/products/windows-11-enterprise-and-education)\n* [Windows 11 IoT Корпоративная](/lifecycle/products/windows-11-iot-enterprise)\n\n\n\n\n## <a name=\"editions\"></a>Выпуски \n* Домашняя\n* Pro\n* Pro для образовательных учреждений\n* Pro для рабочих станций"

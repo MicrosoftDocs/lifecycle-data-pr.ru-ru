@@ -2,21 +2,21 @@
 metadata:
   title: Visual Studio 2010
   description: Visual Studio 2010 следует Фиксированной политике жизненного цикла.
-  ms.date: 05/28/2021
-  keywords: vsto,Agents,All,ASP .NET MVC 4,Express,F# 2.0 Runtime,Lab Management,Performance Tools,Premium,Professional,Professional w/MSDN ,PSM,Remote Debugger,SDK,Shell (Integrated),Shell (Isolated),Team Agents,Team Explorer,Test Professional,Ultimate,Ultimate with MSDN,Visual Basic Express,Visual C# Express,Visual C++ Express,Visual Web Developer Express,Visualization & Modeling SDK
-  ms.openlocfilehash: 9c47b333fbc21c3838ae632cf564e3902ed5009f233804ae919fcb82978c0395
-  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
+  ms.date: 10/07/2021
+  keywords: vsto,Express for Web,Express for Windows Phone,Premium,Professional,Test Professional,Ultimate,Visual Basic Express,Visual C# Express,Visual C++ Express,Visual Web Developer Express
+  ms.openlocfilehash: eea7c383adbd91aeea6893503808cc7ec675ea8f
+  ms.sourcegitcommit: f740c7c0a548d726572fda7cefa9ec8b630a27c7
   ms.translationtype: HT
   ms.contentlocale: ru-RU
-  ms.lasthandoff: 08/06/2021
-  ms.locfileid: "2512512"
+  ms.lasthandoff: 10/07/2021
+  ms.locfileid: "3510960"
 name: Visual Studio 2010
 summary: >+
   Visual Studio 2010 следует [Фиксированной](/lifecycle/policies/fixed) политике жизненного цикла.
 
 
 
-  Данное правило распространяется на следующие выпуски: Agents, All, ASP .NET MVC 4, Express, F# 2.0 Runtime, Lab Management, Средства производительности, Premium, Профессиональный, Профессиональный w/MSDN, PSM, Удаленный отладчик, SDK, Оболочка (интегрированная), Оболочка (изолированная), Team Agents, Team Explorer, Test Professional, Ultimate, Ultimate с подпиской MSDN, Visual Basic Express, Visual C# Express, Visual C++ Express, Visual Web Developer экспресс-выпуск, Пакет SDK визуализации и моделирования
+  Данное правило распространяется на следующие выпуски: Express для Web, Express для Windows Phone, Premium, Professional, Test Professional, Ultimate, экспресс-выпуск Visual Basic, экспресс-выпуск Visual C#, экспресс-выпуск Visual C#, экспресс-выпуск Visual Web Developer
 
 
 
@@ -34,4 +34,4 @@ releases:
 - version: Original Release
   startDate: 06/29/2010
   endDate: 04/10/2012
-content: "\n\n## <a name=\"links\"></a>Ссылки \n* [Политика пакетов обновления](/lifecycle/policies/fixed#service-packs)\n\n\n> [!NOTE]\n> Среда выполнения Visual Studio 2010 Tools для Office (VSTO) поставляется с различными версиями Visual Studio и Microsoft Office и следует жизненному циклу родительского продукта. Ее также можно скачать отдельно [здесь](https://www.microsoft.com/download/details.aspx?id=56961).\n\n\n## <a name=\"editions\"></a>Выпуски \n* Agents\n* Все\n* ASP .NET MVC 4\n* Express\n* F# 2.0 Runtime\n* Lab Management\n* Средства производительности\n* Premium\n* Professional\n* Professional с MSDN \n* PSM\n* Удаленный отладчик\n* SDK\n* Оболочка (интегрированная)\n* Оболочка (изолированная)\n* Team Agents\n* Team Explorer\n* Test Professional\n* Максимальный\n* Ultimate с подпиской MSDN\n* Visual Basic Express\n* Visual C# Express\n* Visual C++ Express\n* Visual Web Developer Express\n* Пакет SDK визуализации и моделирования"
+content: "\n\n## <a name=\"links\"></a>Ссылки \n* [Политика пакетов обновления](/lifecycle/policies/fixed#service-packs)\n\n\n> [!NOTE]\n> Версии следующих компонентов Visual Studio 2010 поставляются и поддерживаются как часть жизненного цикла Visual Studio 2010: Агенты, Все, ASP.NET MVC 4, F# 2.0 Runtime, VSTO Runtime, Lab Management, средства производительности, Professional с подпиской MSDN, PSM, удаленный отладчик, SDK, оболочка (интегрированная), оболочка (изолированная), Team Agents, Team Explorer, Ultimate с подпиской MSDN, пакет SDK для визуализации и моделирования.\n\n\n## <a name=\"editions\"></a>Выпуски \n* Express для Web\n* Express для Windows Phone\n* Premium\n* Professional\n* Test Professional\n* Максимальный\n* Visual Basic Express\n* Visual C# Express\n* Visual C++ Express\n* Visual Web Developer Express"
