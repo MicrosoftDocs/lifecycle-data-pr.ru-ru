@@ -1,62 +1,38 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: "Windows\_7"
+  title: Windows 7
   description: Windows 7 следует Фиксированной политике жизненного цикла.
-  ms.date: 09/01/2020
-  keywords: 'Enterprise,Enterprise N,Home Basic,Home Premium,Home Premium N,Professional,Professional for Embedded Systems,Professional N,Starter,Starter N,Ultimate,Ultimate for Embedded Systems,Ultimate N'
-name: "Windows\_7"
-summary: |
-  Windows 7 следует [Фиксированной](/lifecycle/policies/fixed) политике жизненного цикла.
-
-  Данное правило распространяется на следующие выпуски: Корпоративная, Корпоративная N, Домашняя базовая, Домашняя расширенная, Домашняя расширенная N, Профессиональная, Профессиональная для встроенных систем, Профессиональная N, Начальная, Начальная N, Максимальная, Максимальная для встроенных систем, Максимальная N
-
-  > [!IMPORTANT]
-  > Поддержка этого продукта закончилась. См. ниже руководство по миграции. 
+  ms.date: 10/19/2021
+  keywords: 
+  ms.openlocfilehash: 006d77b325d21e4696c54f95f7e95804aa5420de
+  ms.sourcegitcommit: 6ea3221fd5475440480515f04f33988656d71748
+  ms.translationtype: HT
+  ms.contentlocale: ru-RU
+  ms.lasthandoff: 11/02/2021
+  ms.locfileid: "3546685"
+name: Windows 7
+summary: "Windows 7 следует [Фиксированной](/lifecycle/policies/fixed) политике жизненного цикла.\n\n\nДанное правило распространяется на следующие выпуски: Корпоративная, Корпоративная N, Домашняя базовая, Домашняя расширенная, Домашняя расширенная N, Профессиональная, Профессиональная для встроенных систем, Профессиональная N, Начальная, Начальная N, Максимальная, Максимальная для встроенных систем, Максимальная N\n\n\n> [!IMPORTANT]\n> Поддержка этого продукта закончилась. См. ниже руководство по миграции. \n\n"
 products:
-  - windows
+- windows
 policyType: fixed
 supportDates:
   start: 10/22/2009
   end: 01/13/2015
   extendedEnd: 01/14/2020
 releases:
-  - version: Extended Security Update Year 3*
-    startDate: 01/11/2022
-    endDate: 01/10/2023
-  - version: Extended Security Update Year 2*
-    startDate: 01/12/2021
-    endDate: 01/11/2022
-  - version: Extended Security Update Year 1*
-    startDate: 01/14/2020
-    endDate: 01/12/2021
-  - version: Service Pack 1
-    startDate: 02/22/2011
-    endDate: 01/14/2020
-  - version: Original Release
-    startDate: 10/22/2009
-    endDate: 04/09/2013
-content: |
-  > [!TIP]
-  > *Расширенные обновления безопасности (ESU) доступны через специальные программы лицензирования для версий Windows 7 Профессиональная, Корпоративная и Профессиональная для встроенных систем этого продукта, на срок до трех лет после окончания поддержки. Свяжитесь со своим партнером или группой учетных записей Майкрософт для получения более подробной информации. 
-
-  ## <a name="links"></a>Ссылки 
-  * [Руководство по миграции](https://support.microsoft.com/help/4057281)
-  * [Обновление с Windows 7 на Windows 10](/microsoft-365/enterprise/desktop-deployment-center-home?view=o365-worldwide).
-  * [Программа расширенных обновлений безопасности](/lifecycle/faq/extended-security-updates)
-  * [Политика пакетов обновления](/lifecycle/policies/fixed#service-packs)
-
-
-  ## <a name="editions"></a>Выпуски 
-  * Предприятие
-  * Корпоративная N
-  * Домашняя базовая
-  * Домашняя расширенная
-  * Домашняя расширенная N
-  * Professional
-  * Профессиональная для встроенных систем
-  * Профессиональная N
-  * Начальная
-  * Начальная N
-  * Максимальный
-  * Максимальная для встроенных систем
-  * Максимальная N
+- version: Extended Security Update Year 3*
+  startDate: 01/12/2022
+  endDate: 01/10/2023
+- version: Extended Security Update Year 2*
+  startDate: 01/13/2021
+  endDate: 01/11/2022
+- version: Extended Security Update Year 1*
+  startDate: 01/14/2020
+  endDate: 01/12/2021
+- version: Service Pack 1
+  startDate: 02/22/2011
+  endDate: 01/14/2020
+- version: Original Release
+  startDate: 10/22/2009
+  endDate: 04/09/2013
+content: "> [!TIP]\n> * Расширенные обновления безопасности (ESU) доступны через специальные программы лицензирования для версий Windows 7 Профессиональная, Корпоративная и Профессиональная для встроенных систем этого продукта на срок до трех лет после окончания поддержки. Свяжитесь со своим партнером или группой учетных записей Майкрософт для получения более подробной информации. \n\n\n## <a name=\"links\"></a>Ссылки \n* [Руководство по миграции](https://support.microsoft.com/help/4057281)\n* [Обновление с Windows 7 на Windows 10](/microsoft-365/enterprise/desktop-deployment-center-home?view=o365-worldwide).\n* [Программа расширенных обновлений безопасности](/lifecycle/faq/extended-security-updates)\n* [Политика пакетов обновления](/lifecycle/policies/fixed#service-packs)\n\n\n\n\n## <a name=\"editions\"></a>Выпуски \n* Предприятие\n* Корпоративная N\n* Домашняя базовая\n* Домашняя расширенная\n* Домашняя расширенная N\n* Professional\n* Профессиональная для встроенных систем\n* Профессиональная N\n* Начальная\n* Начальная N\n* Максимальный\n* Максимальная для встроенных систем\n* Максимальная N"
