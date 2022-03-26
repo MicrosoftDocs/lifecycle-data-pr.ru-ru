@@ -1,21 +1,27 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: "Internet Explorer\_10"
-  description: "Internet\_Explorer\_10 следует Политике жизненного цикла компонентов."
+  title: Internet Explorer 10
+  description: Internet Explorer 10 следует Политике жизненного цикла компонентов.
   ms.date: 07/28/2020
-name: "Internet Explorer\_10"
-summary: |+
+  ms.openlocfilehash: ead579969824424aec15a20a3599e60dfd072655
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.translationtype: HT
+  ms.contentlocale: ru-RU
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4114532"
+name: Internet Explorer 10
+summary: >+
   Internet Explorer 10 следует Политике жизненного цикла [компонентов](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy).
 
 
 products:
-  - internet-explorer
+- internet-explorer
 policyType: component
 supportDates:
-  start: 10/30/2012
-  end: 01/31/2020
+  start: 2012-10-30T00:00:00.000-08:00
+  end: 2020-01-31T22:59:59.999-08:00
 releases:
-  - version: Original Release
-    startDate: 10/30/2012
-    endDate: 01/31/2020
-content: "\n## <a name=\"links\"></a>Ссылки \n* [Руководство по миграции](https://www.microsoft.com/en-us/WindowsForBusiness/End-of-IE-support)\n* [Часто задаваемые вопросы о Политике жизненного цикла Internet\_Explorer](/lifecycle/faq/internet-explorer-microsoft-edge)\n\n> [!NOTE]\n> Чтобы ознакомиться со списком поддерживаемых операционных систем и совместимых браузеров, посетите раздел часто задаваемых вопросов о жизненном цикле Internet Explorer.\n\n\n"
+- version: Original Release
+  startDate: 2012-10-30T00:00:00.000-08:00
+  endDate: 2020-01-31T22:59:59.999-08:00
+content: "\n## <a name=\"links\"></a>Ссылки \n* [Руководство по миграции](https://www.microsoft.com/en-us/WindowsForBusiness/End-of-IE-support)\n* [Часто задаваемые вопросы о Политике жизненного цикла Internet Explorer](/lifecycle/faq/internet-explorer-microsoft-edge)\n\n> [!NOTE]\n> Чтобы ознакомиться со списком поддерживаемых операционных систем и совместимых браузеров, посетите раздел часто задаваемых вопросов о жизненном цикле Internet Explorer.\n\n\n"
