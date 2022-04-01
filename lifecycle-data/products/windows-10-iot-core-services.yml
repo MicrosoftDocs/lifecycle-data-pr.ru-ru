@@ -1,25 +1,29 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Основные службы Интернета вещей Windows 10
+  title: Основные службы Windows 10 IoT
   description: Основные службы Windows 10 IoT следуют Современной политике жизненного цикла.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 9ce995e2110cb5a94a92622cdc747914de4fb23a3802b0c1c67339e697794100
-  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
+  ms.date: 2022/03/08
+  keywords: 
+  ms.openlocfilehash: 6d8584eb944598b1ebf73a2db262cf4fbcffc5dd
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
   ms.translationtype: HT
   ms.contentlocale: ru-RU
-  ms.lasthandoff: 08/06/2021
-  ms.locfileid: "2497490"
-name: Основные службы Интернета вещей Windows 10
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4130442"
+name: Основные службы Windows 10 IoT
 summary: >+
   Основные службы Windows 10 IoT следуют [Современной](/lifecycle/policies/modern) политике жизненного цикла.
+
+
+
 
 
 products:
 - windows
 policyType: modern-online
 supportDates:
-  start: 11/13/2018
+  start: 2018-11-13T00:00:00.000-08:00
 releases:
 - version: Original Release
-  startDate: 11/13/2018
-content: "\n## <a name=\"links\"></a>Ссылки \n* [Основные службы Windows 10 IoT](/windows-hardware/manufacture/iot/iotcoreservicesoverview)\n\n> [!NOTE]\n> Основные службы Windows 10 IoT – это подписка, предлагающая поддержку программного обеспечения в качестве услуги, включая контроль обновлений с помощью Центра обновления устройств и улучшенную безопасность с помощью Подтверждение работоспособности устройства, при условии, что используется поддерживаемая версия Windows 10 IoT Core Software."
+  startDate: 2018-11-13T00:00:00.000-08:00
+content: "> [!TIP]\n> Этот продукт поддерживается в [Windows 10 IoT 2019 с долгосрочным обслуживанием](https://docs.microsoft.com/lifecycle/products/windows-10-iot-2019-ltsc).\n\n\n## <a name=\"links\"></a>Ссылки \n* [Обзор основных служб Windows 10 IoT](http://aka.ms/IoTCoreServices)\n\n\n> [!NOTE]\n> Основные службы Windows 10 IoT представляют собой поддержку, которая доступна на поддерживаемых версиях выпуска [Windows 10 IoT Базовая](https://docs.microsoft.com/lifecycle/products/windows-10-iot-core)."

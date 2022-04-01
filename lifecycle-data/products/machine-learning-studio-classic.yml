@@ -1,0 +1,31 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Студия машинного обучения (классическая версия)
+  description: Студия машинного обучения (классическая версия) следует Современной политике жизненного цикла.
+  ms.date: 11/16/2021
+  keywords: 
+  ms.openlocfilehash: b81ff2080961ea0f8a1ae70a3b0a05fdbc2440e9
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.translationtype: HT
+  ms.contentlocale: ru-RU
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4157192"
+name: Студия машинного обучения (классическая версия)
+summary: >+
+  Студия машинного обучения (классическая версия) следует [Современной](/lifecycle/policies/modern) политике жизненного цикла.
+
+
+
+
+
+products:
+- azure
+policyType: modern-online
+supportDates:
+  start: 2015-05-18T00:00:00.000-08:00
+  end: 2024-08-31T22:59:59.999-08:00
+releases:
+- version: Original Release
+  startDate: 2015-05-18T00:00:00.000-08:00
+  endDate: 2024-08-31T22:59:59.999-08:00
+content: "\n\n## <a name=\"links\"></a>Ссылки \n* [Миграция в службу машинного обучения Azure](/azure/machine-learning/migrate-overview)\n\n\n> [!NOTE]\n> Поддержка студии машинного обучения завершится 31 августа 2024 года. Начиная с 1 декабря 2021 года клиенты не смогут создавать новые ресурсы студии машинного обучения (классическая версия). Клиенты должны выполнить миграцию в службу машинного обучения Azure до августа 2024 года. Дополнительные сведения см. [здесь](https://docs.microsoft.com/azure/machine-learning/migrate-overview)."

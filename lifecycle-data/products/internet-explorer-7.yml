@@ -1,21 +1,27 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: "Internet\_Explorer\_7"
+  title: Internet Explorer 7
   description: Internet Explorer 7 следует Политике жизненного цикла компонентов.
   ms.date: 10/05/2020
-  keywords: null
-name: "Internet\_Explorer\_7"
-summary: |+
+  keywords: 
+  ms.openlocfilehash: e24db5a054e0b478b88f53da6b56d5c37110ef6e
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.translationtype: HT
+  ms.contentlocale: ru-RU
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4155232"
+name: Internet Explorer 7
+summary: >+
   Internet Explorer 7 следует Политике жизненного цикла [компонентов](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy).
 
 
 products:
-  - internet-explorer
+- internet-explorer
 policyType: component
 supportDates:
-  start: 10/18/2006
-  end: 10/10/2023
+  start: 2006-10-18T00:00:00.000-08:00
+  end: 2023-10-10T22:59:59.999-08:00
 releases:
-  - version: Original Release
-    startDate: 10/18/2006
-content: "\n## <a name=\"links\"></a>Ссылки \n* [Руководство по миграции](https://www.microsoft.com/itpro/microsoft-edge)\n* [Windows Embedded Compact 7](/lifecycle/products/windows-embedded-compact-7)\n* [Windows Embedded Compact 2013](/lifecycle/products/windows-embedded-compact-2013)\n* [Часто задаваемые вопросы о Политике жизненного цикла Internet\_Explorer](/lifecycle/faq/internet-explorer-microsoft-edge)\n\n> [!NOTE]\n> Internet Explorer 7 является компонентом Windows Embedded Compact 7 и Windows Embedded Compact 2013, поэтому он следует той же политике жизненного цикла, что и эти службы. \n> [!NOTE]\n> С 12\_января 2016\_года техническая поддержка и обновления безопасности будут предоставляться только для последней версии Internet\_Explorer, доступной для соответствующей операционной системы.\n\n"
+- version: Original Release
+  startDate: 2006-10-18T00:00:00.000-08:00
+content: "\n## <a name=\"links\"></a>Ссылки \n* [Руководство по миграции](https://www.microsoft.com/itpro/microsoft-edge)\n* [Windows Embedded Compact 7](/lifecycle/products/windows-embedded-compact-7)\n* [Windows Embedded Compact 2013](/lifecycle/products/windows-embedded-compact-2013)\n* [Часто задаваемые вопросы о Политике жизненного цикла Internet Explorer](/lifecycle/faq/internet-explorer-microsoft-edge)\n\n> [!NOTE]\n> Internet Explorer 7 является компонентом Windows Embedded Compact 7 и Windows Embedded Compact 2013, поэтому он следует той же политике жизненного цикла, что и эти службы. \n> [!NOTE]\n> С 12 января 2016 года техническая поддержка и обновления безопасности будут предоставляться только для последней версии Internet Explorer, доступной для соответствующей операционной системы.\n\n"
