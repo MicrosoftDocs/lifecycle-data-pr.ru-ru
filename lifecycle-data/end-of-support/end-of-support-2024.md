@@ -1,13 +1,13 @@
 ---
 title: Продукты, поддержка которых заканчивается до 2024 года
 description: Узнайте, какие продукты выйдут из эксплуатации, достигнут конца поддержки или перейдут от основной поддержки к расширенной в 2024 году.
-ms.date: 03/08/2022
-ms.openlocfilehash: 9d4056675071213b3c0fb8dfefcd7707feec115e
-ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+ms.date: 08/31/2022
+ms.openlocfilehash: 810bb5ce124705b8100cfc934d14e8ebf5343554
+ms.sourcegitcommit: 7f8eec52b9f5c890d6cb734795818dc72afbdf57
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/18/2022
-ms.locfileid: "4117233"
+ms.lasthandoff: 09/09/2022
+ms.locfileid: "4518126"
 ---
 # <a name="products-ending-support-in-2024"></a>Продукты, для которых заканчивается поддержка в 2024 году
 
@@ -24,8 +24,8 @@ ms.locfileid: "4117233"
 
 | Продукт | Выход из эксплуатации |
 | --- | --- |
-| [Студия машинного обучения (классическая версия)](/lifecycle/products/machine-learning-studio-classic?branch=live)<br> | 31 августа 2024 г. |
-| [Windows 11 Корпоративная и для образовательных учреждений (версия 21H2)](/lifecycle/products/windows-11-enterprise-and-education-version-21h2?branch=live)<br>[Windows 11 IoT Корпоративная (версия 21H2)](/lifecycle/products/windows-11-iot-enterprise-version-21h2?branch=live)<br> | 8 октября 2024 г. |
+| [Azure Data Lake Storage 1-го поколения](/lifecycle/products/azure-data-lake-storage-gen1?branch=live)<br> | 29 февраля 2024 г. |
+| [Облачные службы Azure (классическая версия)](/lifecycle/products/azure-cloud-services-classic?branch=live)<br>[Студия машинного обучения (классическая версия)](/lifecycle/products/machine-learning-studio-classic?branch=live)<br> | 31 августа 2024 г. |
 
 
 ## <a name="release-end-of-servicing"></a>Окончание обслуживания выпусков
@@ -35,6 +35,9 @@ ms.locfileid: "4117233"
 | Продукт | Окончание обслуживания |
 | --- | --- |
 | [Windows 10 Корпоративная и Windows 10 для образовательных учреждений, версия 21H2](/lifecycle/products/windows-10-enterprise-and-education?branch=live)<br>[Windows 10 IoT Корпоративная, версия 21H2](/lifecycle/products/windows-10-iot-enterprise?branch=live)<br> | 11 июня 2024 г. |
+| [Windows 11 Корпоративная и для образовательных учреждений (версия 21H2)](/lifecycle/products/windows-11-enterprise-and-education-version-21h2?branch=live)<br>[Windows 11 IoT Корпоративная (версия 21H2), исходный выпуск (версия 21H2)](/lifecycle/products/windows-11-iot-enterprise-version-21h2?branch=live)<br> | 8 октября 2024 г. |
+| [PowerShell, PowerShell 7.2 (текущая версия LTS)](/lifecycle/products/powershell?branch=live)<br> | 8 ноября 2024 г. |
+| [Azure IoT Edge, версия 1.4 (LTS)](/lifecycle/products/azure-iot-edge?branch=live)<br>[.NET 6.0 (LTS)](/lifecycle/products/microsoft-net-and-net-core?branch=live)<br> | 12 ноября 2024 г. |
 
 
 ## <a name="products-reaching-end-of-support"></a>Продукты, поддержка которых заканчивается
@@ -43,7 +46,7 @@ ms.locfileid: "4117233"
 
 | Продукт | Окончание поддержки |
 | --- | --- |
-| [Dynamics CRM 2013](/lifecycle/products/dynamics-crm-2013?branch=live)<br>[Microsoft Host Integration Server 2013](/lifecycle/products/microsoft-host-integration-server-2013?branch=live)<br>[Windows Server 2008, расширенные обновления безопасности на 4 года (только Azure)](/lifecycle/products/windows-server-2008?branch=live)<br>[Windows Server 2008 R2, расширенные обновления безопасности на 4 года (только Azure)](/lifecycle/products/windows-server-2008-r2?branch=live)<br> | 9 января 2024 г. |
+| [Dynamics CRM 2013](/lifecycle/products/dynamics-crm-2013?branch=live)<br>[Microsoft Host Integration Server 2013](/lifecycle/products/microsoft-host-integration-server-2013?branch=live)<br>[Visual Studio 2022, версия 17.2 (с каналом долгосрочного обслуживания)](/lifecycle/products/visual-studio-2022?branch=live)<br>[Windows Server 2008, расширенные обновления безопасности на 4 года (только Azure)](/lifecycle/products/windows-server-2008?branch=live)<br>[Windows Server 2008 R2, расширенные обновления безопасности на 4 года (только Azure)](/lifecycle/products/windows-server-2008-r2?branch=live)<br> | 9 января 2024 г. |
 | [Microsoft Deployment Agent 2013](/lifecycle/products/microsoft-deployment-agent-2013?branch=live)<br>[Microsoft Diagnostics and Recovery Toolset 8.1](/lifecycle/products/microsoft-diagnostics-and-recovery-toolset-81?branch=live)<br>[Агент и контроллер тестирования](/lifecycle/products/test-agent-controller?branch=live)<br>[User Experience Virtualization (UE-V) 2.0](/lifecycle/products/user-experience-virtualization-uev-20?branch=live)<br>[Visual Studio 2013](/lifecycle/products/visual-studio-2013?branch=live)<br>[Visual Studio Team Foundation Server 2013](/lifecycle/products/visual-studio-team-foundation-server-2013?branch=live)<br> | 9 апреля 2024 г. |
 | [Microsoft SQL Server 2012, расширенные обновления безопасности на 2 года](/lifecycle/products/microsoft-sql-server-2012?branch=live)<br>[SQL Server 2014](/lifecycle/products/sql-server-2014?branch=live)<br> | 9 июля 2024 г. |
 | [Хранилище параллельных данных Microsoft SQL Server 2012 (система платформы аналитики)](/lifecycle/products/microsoft-sql-server-2012-parallel-data-warehouse-analytics-platform-system?branch=live)<br>[Windows Embedded POSReady 7, расширенные обновления безопасности на 3 года*](/lifecycle/products/windows-embedded-posready-7?branch=live)<br>[Windows Server 2012, расширенные обновления безопасности на год](/lifecycle/products/windows-server-2012?branch=live)<br>[Windows Server 2012 R2, расширенные обновления безопасности на год](/lifecycle/products/windows-server-2012-r2?branch=live)<br> | 8 октября 2024 г. |

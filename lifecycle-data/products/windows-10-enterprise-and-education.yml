@@ -2,21 +2,21 @@
 metadata:
   title: Windows 10 корпоративная и для образовательных учреждений
   description: Windows 10 корпоративная и для образовательных учреждений следует Современной политике жизненного цикла.
-  ms.date: 11/15/2021
+  ms.date: 09/09/2022
   keywords: 
-  ms.openlocfilehash: 753111f48f91c6e725fc0804de60cf4d0a9b23db
-  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.openlocfilehash: bc2a6f89cc2cdaaa6da73110ff83d37e6ede9bf6
+  ms.sourcegitcommit: 7f8eec52b9f5c890d6cb734795818dc72afbdf57
   ms.translationtype: HT
   ms.contentlocale: ru-RU
-  ms.lasthandoff: 03/18/2022
-  ms.locfileid: "4130516"
+  ms.lasthandoff: 09/09/2022
+  ms.locfileid: "4519095"
 name: Windows 10 корпоративная и для образовательных учреждений
 summary: >+
   Windows 10 корпоративная и для образовательных учреждений следует [Современной](/lifecycle/policies/modern) политике жизненного цикла.
 
 
 
-  Данное правило распространяется на следующие выпуски: Для образовательных учреждений, Корпоративная
+  Применимо к следующим выпускам: для образовательных учреждений, Корпоративная, Корпоративная с многосеансовой поддержкой
 
 
 
@@ -70,4 +70,4 @@ releases:
 - version: Version 1507
   startDate: 2015-07-29T00:00:00.000-08:00
   endDate: 2017-05-09T22:59:59.999-08:00
-content: "\n\n## <a name=\"links\"></a>Ссылки \n* [Windows as a Service (WaaS)](/windows/deployment/update/waas-quick-start)\n* [Информация о продукте](/windows/windows-10/)\n* [Часто задаваемые вопросы по жизненному циклу – продукты Windows](/lifecycle/faq/windows)\n* [Windows 10 IoT Enterprise](/lifecycle/products/windows-10-iot-enterprise)\n* [Windows 10 Домашняя и Pro](/lifecycle/products/windows-10-home-and-pro)\n\n\n> [!NOTE]\n> Последующие обновления компонентов Windows 10 могут быть установлены до указанной даты окончания основной фазы поддержки, если они будут отложены.\n\n\n## <a name=\"editions\"></a>Выпуски \n* Для образовательных учреждений\n* Предприятие\n\n"
+content: "\n\n## <a name=\"links\"></a>Ссылки \n* [Windows as a Service (WaaS)](/windows/deployment/update/waas-quick-start)\n* [Информация о продукте](/windows/windows-10/)\n* [Часто задаваемые вопросы по жизненному циклу – продукты Windows](/lifecycle/faq/windows)\n* [Windows 10 IoT Enterprise](/lifecycle/products/windows-10-iot-enterprise)\n* [Windows 10 Домашняя и Pro](/lifecycle/products/windows-10-home-and-pro)\n\n\n> [!NOTE]\n> Последующие обновления компонентов Windows 10 могут быть установлены до указанной даты окончания основной фазы поддержки, если они будут отложены.\n\n\n## <a name=\"editions\"></a>Выпуски \n* Для образовательных учреждений\n* Предприятие\n* Корпоративная с многосеансовой поддержкой\n\n"

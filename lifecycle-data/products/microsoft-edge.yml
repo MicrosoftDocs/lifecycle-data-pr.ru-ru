@@ -2,26 +2,16 @@
 metadata:
   title: Microsoft Edge
   description: Microsoft Edge следует Современной политике жизненного цикла.
-  ms.date: 11/03/2021
-  keywords: IE; browser; Internet Explorer
-  ms.openlocfilehash: cba75253b99e6f2c40c3f38da3b808578facaa2e
-  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.date: 08/08/2022
+  keywords: IE; браузер; Internet Explorer
+  ms.openlocfilehash: eee90516a33aedeb20b404db7362088a5f1031d3
+  ms.sourcegitcommit: 7f8eec52b9f5c890d6cb734795818dc72afbdf57
   ms.translationtype: HT
   ms.contentlocale: ru-RU
-  ms.lasthandoff: 03/18/2022
-  ms.locfileid: "4147758"
+  ms.lasthandoff: 09/09/2022
+  ms.locfileid: "4518503"
 name: Microsoft Edge
-summary: >+
-  Microsoft Edge следует [Современной](/lifecycle/policies/modern) политике жизненного цикла.
-
-
-
-
-
-  > [!IMPORTANT]
-
-  > Обращаем ваше внимание, что поддержка устаревшей версии данного проекта заканчивается 9 марта 2021 года. Дополнительные сведения см. [здесь](https://techcommunity.microsoft.com/t5/microsoft-365-blog/microsoft-365-apps-say-farewell-to-internet-explorer-11-and/ba-p/1591666).
-
+summary: "Microsoft Edge следует [Современной](/lifecycle/policies/modern) политике жизненного цикла.\n\n\n\n\n> [!IMPORTANT]\n> Microsoft Edge будет поддерживаться в Windows 7 и Windows Server 2008 R2 до 15 января 2023 года. Корпорация Майкрософт рекомендует клиентам перейти на поддерживаемую операционную систему, например Windows 10. Дополнительные сведения см. [здесь](https://docs.microsoft.com/deployedge/microsoft-edge-supported-operating-systems). \n\n"
 products:
 - microsoft-edge
 policyType: modern-on-prem
@@ -30,4 +20,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 2020-01-15T00:00:00.000-08:00
-content: "\n\n## <a name=\"links\"></a>Ссылки \n* [Операционные системы, поддерживаемые Microsoft Edge](/deployedge/microsoft-edge-supported-operating-systems)\n* [Новые ресурсы для ускорения перехода на Edge](https://techcommunity.microsoft.com/t5/windows-it-pro-blog/proven-tools-to-accelerate-your-move-to-microsoft-edge/ba-p/2504818)\n* [Жизненный цикл Internet Explorer и Edge: вопросы и ответы](/lifecycle/faq/internet-explorer-microsoft-edge)\n* [Политика жизненного цикла Microsoft Edge](/deployedge/microsoft-edge-support-lifecycle)"
+content: "\n\n## <a name=\"links\"></a>Ссылки \n* [Обзор каналов обслуживания Microsoft Edge](/deployedge/microsoft-edge-channels)\n* [Операционные системы, поддерживаемые Microsoft Edge](/deployedge/microsoft-edge-supported-operating-systems)\n* [Новые ресурсы для ускорения перехода на Edge](https://techcommunity.microsoft.com/t5/windows-it-pro-blog/proven-tools-to-accelerate-your-move-to-microsoft-edge/ba-p/2504818)\n* [Жизненный цикл Internet Explorer и Edge: вопросы и ответы](/lifecycle/faq/internet-explorer-microsoft-edge)\n* [Политика жизненного цикла Microsoft Edge](/deployedge/microsoft-edge-support-lifecycle)\n\n\n> [!NOTE]\n> Обращаем ваше внимание, что поддержка устаревшей версии данного проекта заканчивается 9 марта 2021 года. Дополнительные сведения см. [здесь](https://techcommunity.microsoft.com/t5/microsoft-365-blog/microsoft-365-apps-say-farewell-to-internet-explorer-11-and/ba-p/1591666)."
