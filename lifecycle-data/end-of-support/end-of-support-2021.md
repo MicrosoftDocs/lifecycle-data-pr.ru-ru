@@ -1,13 +1,13 @@
 ---
 title: Продукты, поддержка которых заканчивается до 2021 года
 description: Узнайте, какие продукты выйдут из эксплуатации, достигнут конца поддержки или перейдут от основной поддержки к расширенной в 2021 году.
-ms.date: 01/14/2022
-ms.openlocfilehash: e0be3c1d9300e53c4eb912b0f9347902948fb0f8
-ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+ms.date: 09/13/2022
+ms.openlocfilehash: d92c5d932bd58716fea6238162788a45d0dced00
+ms.sourcegitcommit: 83c4bec3ec265ce0fb67fc5dc6b134f8e011dfff
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/18/2022
-ms.locfileid: "4117492"
+ms.lasthandoff: 09/13/2022
+ms.locfileid: "4520846"
 ---
 # <a name="products-ending-support-in-2021"></a>Продукты, для которых заканчивается поддержка в 2021 году
 
@@ -37,12 +37,12 @@ ms.locfileid: "4117492"
 | Продукт | Окончание обслуживания |
 | --- | --- |
 | [Microsoft Endpoint Configuration Manager, версия 1906](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br> | 26 января 2021 г. |
+| [Azure IoT Edge, версия 1.0](/lifecycle/products/azure-iot-edge?branch=live)<br> | 1 февраля 2021 г. |
 | [Локальная версия Dynamics 365 Business Central (следует современной политике), выпуск 2019, волна 2, версия 15.x](/lifecycle/products/dynamics-365-business-central-onpremises-modern-policy?branch=live)<br> | 13 апреля 2021 г. |
 | [Windows 10 Корпоративная и Windows 10 для образовательных учреждений, версия 1803](/lifecycle/products/windows-10-enterprise-and-education?branch=live)<br>[Windows 10 Корпоративная и Windows 10 для образовательных учреждений, версия 1809](/lifecycle/products/windows-10-enterprise-and-education?branch=live)<br>[Windows 10 Домашняя и Windows 10 Pro, версия 1909](/lifecycle/products/windows-10-home-and-pro?branch=live)<br>[Windows 10 IoT Корпоративная, версия 1803](/lifecycle/products/windows-10-iot-enterprise?branch=live)<br>[Windows 10 IoT Корпоративная, версия 1809](/lifecycle/products/windows-10-iot-enterprise?branch=live)<br>[Windows Server, версия 1909](/lifecycle/products/windows-server?branch=live)<br> | 11 мая 2021 г. |
-| [Microsoft Endpoint Configuration Manager, версия 1511](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br>[Microsoft Endpoint Configuration Manager, версия 1910](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br> | 29 мая 2021 г. |
+| [Microsoft Endpoint Configuration Manager, версия 1910](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br> | 29 мая 2021 г. |
 | [.NET Core 2.1 (LTS)](/lifecycle/products/microsoft-net-and-net-core?branch=live)<br> | 21 августа 2021 г. |
 | [Microsoft Endpoint Configuration Manager, версия 2002](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br> | 1 октября 2021 г. |
-| [Локальная версия Dynamics 365 Business Central (следует современной политике), выпуск 2020, волна 1, версия 16.x](/lifecycle/products/dynamics-365-business-central-onpremises-modern-policy?branch=live)<br> | 12 октября 2021 г. |
 | [Windows 10 Корпоративная и Windows 10 для образовательных учреждений, версия 2004](/lifecycle/products/windows-10-enterprise-and-education?branch=live)<br>[Windows 10 Домашняя и Windows 10 Pro, версия 2004](/lifecycle/products/windows-10-home-and-pro?branch=live)<br>[Windows 10 IoT Корпоративная, версия 2004](/lifecycle/products/windows-10-iot-enterprise?branch=live)<br>[Windows Server, версия 2004](/lifecycle/products/windows-server?branch=live)<br> | 14 декабря 2021 г. |
 
 
