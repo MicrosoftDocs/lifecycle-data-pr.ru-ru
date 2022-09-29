@@ -1,13 +1,13 @@
 ---
 title: Продукты, поддержка которых заканчивается до 2023 года
 description: Узнайте, какие продукты выйдут из эксплуатации, достигнут конца поддержки или перейдут от основной поддержки к расширенной в 2023 году.
-ms.date: 09/13/2022
-ms.openlocfilehash: 14252d5922ab850dbdc90c4ef3a8d58cad40892f
-ms.sourcegitcommit: b88b4db4bcd8ffe5d63ffa23a2a518ac25a4f635
+ms.date: 09/21/2022
+ms.openlocfilehash: facaf412f81123ef165642fd5c6692dc121fe123
+ms.sourcegitcommit: 369efbff28148903c4c47e5d1ae453fcc2cc9ae6
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/13/2022
-ms.locfileid: "4521072"
+ms.lasthandoff: 09/22/2022
+ms.locfileid: "4526880"
 ---
 # <a name="products-ending-support-in-2023"></a>Продукты, для которых заканчивается поддержка в 2023 году
 
@@ -36,13 +36,12 @@ ms.locfileid: "4521072"
 | Продукт | Окончание обслуживания |
 | --- | --- |
 | [Microsoft Endpoint Configuration Manager, версия 2107](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br> | 2 февраля 2023 г. |
-| [Microsoft Endpoint Configuration Manager, версия 2207](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br> | 12 февраля 2023 г. |
 | [Локальная версия Dynamics 365 Business Central (следует современной политике), выпуск 2021, волна 2, версия 19.x](/lifecycle/products/dynamics-365-business-central-onpremises-modern-policy?branch=live)<br> | 12 апреля 2023 г. |
 | [Windows 10 Корпоративная и Windows 10 для образовательных учреждений, версия 20H2](/lifecycle/products/windows-10-enterprise-and-education?branch=live)<br>[Windows 10 IoT Корпоративная, версия 20H2](/lifecycle/products/windows-10-iot-enterprise?branch=live)<br> | 9 мая 2023 г. |
 | [Microsoft Endpoint Configuration Manager, версия 2111](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br> | 1 июня 2023 г. |
 | [Windows 10 Домашняя и Windows 10 Pro, версия 21H2](/lifecycle/products/windows-10-home-and-pro?branch=live)<br> | 13 июня 2023 г. |
 | [Microsoft Endpoint Configuration Manager, версия 2203](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br> | 6 октября 2023 г. |
-| [Локальная версия Dynamics 365 Business Central (следует современной политике), выпуск 2022, волна 1, версия 20.x](/lifecycle/products/dynamics-365-business-central-onpremises-modern-policy?branch=live)<br>[Windows 11 Home и Pro (версия 21H2), исходный выпуск (версия 21H2)](/lifecycle/products/windows-11-home-and-pro-version-21h2?branch=live)<br> | 10 октября 2023 г. |
+| [Локальная версия Dynamics 365 Business Central (следует современной политике), выпуск 2022, волна 1, версия 20.x](/lifecycle/products/dynamics-365-business-central-onpremises-modern-policy?branch=live)<br>[Windows 11 Домашняя и Windows 10 Pro, версия 21H2](/lifecycle/products/windows-11-home-and-pro?branch=live)<br> | 10 октября 2023 г. |
 
 
 ## <a name="products-reaching-end-of-support"></a>Продукты, поддержка которых заканчивается

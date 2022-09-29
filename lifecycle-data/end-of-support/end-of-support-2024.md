@@ -1,13 +1,13 @@
 ---
 title: Продукты, поддержка которых заканчивается до 2024 года
 description: Узнайте, какие продукты выйдут из эксплуатации, достигнут конца поддержки или перейдут от основной поддержки к расширенной в 2024 году.
-ms.date: 08/31/2022
-ms.openlocfilehash: 810bb5ce124705b8100cfc934d14e8ebf5343554
-ms.sourcegitcommit: 7f8eec52b9f5c890d6cb734795818dc72afbdf57
+ms.date: 09/21/2022
+ms.openlocfilehash: a4bd0494685a8d220747b0f76b3e1ba3ea68f78a
+ms.sourcegitcommit: 56d443d7c51462b98387364440f5064d3b61139e
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/09/2022
-ms.locfileid: "4518126"
+ms.lasthandoff: 09/22/2022
+ms.locfileid: "4526954"
 ---
 # <a name="products-ending-support-in-2024"></a>Продукты, для которых заканчивается поддержка в 2024 году
 
@@ -34,8 +34,10 @@ ms.locfileid: "4518126"
 
 | Продукт | Окончание обслуживания |
 | --- | --- |
+| [Microsoft Endpoint Configuration Manager, версия 2207](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br> | 12 февраля 2024 г. |
 | [Windows 10 Корпоративная и Windows 10 для образовательных учреждений, версия 21H2](/lifecycle/products/windows-10-enterprise-and-education?branch=live)<br>[Windows 10 IoT Корпоративная, версия 21H2](/lifecycle/products/windows-10-iot-enterprise?branch=live)<br> | 11 июня 2024 г. |
-| [Windows 11 Корпоративная и для образовательных учреждений (версия 21H2)](/lifecycle/products/windows-11-enterprise-and-education-version-21h2?branch=live)<br>[Windows 11 IoT Корпоративная (версия 21H2), исходный выпуск (версия 21H2)](/lifecycle/products/windows-11-iot-enterprise-version-21h2?branch=live)<br> | 8 октября 2024 г. |
+| [Windows 11 Корпоративная и Windows 10 для образовательных учреждений, версия 21H2](/lifecycle/products/windows-11-enterprise-and-education?branch=live)<br>[Windows 11 IoT Корпоративная, версия 21H2](/lifecycle/products/windows-11-iot-enterprise?branch=live)<br> | 8 октября 2024 г. |
+| [Windows 11 Домашняя и Windows 10 Pro, версия 22H2](/lifecycle/products/windows-11-home-and-pro?branch=live)<br> | 14 октября 2024 г. |
 | [PowerShell, PowerShell 7.2 (текущая версия LTS)](/lifecycle/products/powershell?branch=live)<br> | 8 ноября 2024 г. |
 | [Azure IoT Edge, версия 1.4 (LTS)](/lifecycle/products/azure-iot-edge?branch=live)<br>[.NET 6.0 (LTS)](/lifecycle/products/microsoft-net-and-net-core?branch=live)<br> | 12 ноября 2024 г. |
 

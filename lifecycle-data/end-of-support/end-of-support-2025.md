@@ -1,13 +1,13 @@
 ---
 title: Продукты, поддержка которых заканчивается до 2025 года
 description: Узнайте, какие продукты выйдут из эксплуатации, достигнут конца поддержки или перейдут от основной поддержки к расширенной в 2025 году.
-ms.date: 07/26/2022
-ms.openlocfilehash: e8838567dcbd55799be4036be1031dcb5181caab
-ms.sourcegitcommit: 7f8eec52b9f5c890d6cb734795818dc72afbdf57
+ms.date: 09/20/2022
+ms.openlocfilehash: f4b77006c5c2f23c9f624de090a371da2fceeb2c
+ms.sourcegitcommit: 271be77bfed364b789251cdc113296e7e7842cbb
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/09/2022
-ms.locfileid: "4517938"
+ms.lasthandoff: 09/20/2022
+ms.locfileid: "4526169"
 ---
 # <a name="products-ending-support-in-2025"></a>Продукты, для которых заканчивается поддержка в 2025 году
 
@@ -27,6 +27,13 @@ ms.locfileid: "4517938"
 | [Windows 10 корпоративная и для образовательных учреждений](/lifecycle/products/windows-10-enterprise-and-education?branch=live)<br>[Windows 10 Домашняя и Pro](/lifecycle/products/windows-10-home-and-pro?branch=live)<br>[Windows 10 IoT Enterprise](/lifecycle/products/windows-10-iot-enterprise?branch=live)<br> | 14 октября 2025 г. |
 
 
+## <a name="release-end-of-servicing"></a>Окончание обслуживания выпусков
+
+Поддержка следующих выпусков продуктов, регулируемых [современной политикой](/lifecycle/policies/modern), закончится в 2025 году.
+
+| Продукт | Окончание обслуживания |
+| --- | --- |
+| [Windows 11 Корпоративная и Windows 10 для образовательных учреждений, версия 22H2](/lifecycle/products/windows-11-enterprise-and-education?branch=live)<br>[Windows 11 IoT Корпоративная, версия 22H2](/lifecycle/products/windows-11-iot-enterprise?branch=live)<br> | 14 октября 2025 г. |
 
 
 ## <a name="products-reaching-end-of-support"></a>Продукты, поддержка которых заканчивается
